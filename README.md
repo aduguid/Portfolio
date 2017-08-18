@@ -6,10 +6,13 @@ Examples of my work
 <img align="left" src="Images/ReadMe/ssrs.png" width="32px" >
 
 ## SQL Server Reporting Services
-<kbd> 
-<img src="Images/ReadMe/ssrsdatadictionary.png" width="256px" title="T-SQL (Transact-Structured Query Language)"/> 
-<br> This is a Microsoft Reporting Services Report (SSRS) for querying the database dictionary of a SQL Server database.
-</kbd>
+<kbd>
+<img src="Images/ReadMe/ssrsdatadictionary.png" width="256px" title="T-SQL (Transact-Structured Query Language)"/>
+<br>
+<div style='padding: 3px; width: 256px; word-break: break-all; word-wrap: break-word;'>
+    This is a Microsoft Reporting Services Report (SSRS) for querying the database dictionary of a SQL Server database.
+</div>
+</kbd> 
 <kbd> 
 <img src="Images/ReadMe/ssrsscheduledjobs.png" width="256px" title="T-SQL (Transact-Structured Query Language)" />
 <br> This is a Microsoft Reporting Services Report (SSRS) for querying the database scheduled jobs for a SQL Server database.</kbd>
