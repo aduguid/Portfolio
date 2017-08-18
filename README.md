@@ -10,6 +10,8 @@ Screenshot of examples of my work
 <br> This is a Microsoft Reporting Services Report (SSRS) for querying the database scheduled jobs for a SQL Server database.</kbd>
 <kbd> <img src="Images/ReadMe/ssrsscurve.png" width="256px" title="T-SQL (Transact-Structured Query Language)" />
 <br> This is a Microsoft Reporting Services Report (SSRS) for querying cumulative hours or sales quantities plotted against time referred to as a S-Curve graph. It is dynamicly grouped by either quarter, month or weekending.</kbd>
-<kbd> <img src="Images/ReadMe/ssrsreportlisting.png" width="256px" title="T-SQL (Transact-Structured Query Language)" /></kbd>
-<kbd> <img src="Images/ReadMe/ssrsreportsubscriptions.png" width="256px" title="T-SQL (Transact-Structured Query Language)" /></kbd>
+<kbd> <img src="Images/ReadMe/ssrsreportlisting.png" width="256px" title="T-SQL (Transact-Structured Query Language)" />
+<br> This is a Microsoft Reporting Services Report (SSRS) for querying the list of deployed SSRS reports, their subscriptions and their execution logs.</kbd>
+<kbd> <img src="Images/ReadMe/ssrsreportsubscriptions.png" width="256px" title="T-SQL (Transact-Structured Query Language)" />
+<br> This is a Microsoft Reporting Services Report (SSRS) for querying the list of deployed SSRS report subscriptions.</kbd>
 
