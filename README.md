@@ -3,6 +3,8 @@
 # Software Portfolio
 Screenshot of examples of my work
 
+<img align="left" src="Images/ReadMe/ssrs.png" width="32px" >
+
 ## SQL Server Reporting Services
 <kbd> <img src="Images/ReadMe/ssrsdatadictionary.png" width="256px" title="T-SQL (Transact-Structured Query Language)"/> 
 <br> This is a Microsoft Reporting Services Report (SSRS) for querying the database dictionary of a SQL Server database.</kbd>
