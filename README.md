@@ -4,9 +4,10 @@
 Screenshot of examples of my work
 
 ## Reporting Services
-<kbd> <img src="Images/ReadMe/ssrsdatadictionary.png" width="256px" title="T-SQL (Transact-Structured Query Language)" /> your text here</kbd>
+<kbd> <img src="Images/ReadMe/ssrsdatadictionary.png" width="256px" title="T-SQL (Transact-Structured Query Language)"/> <br>your text here</kbd>
 <kbd> <img src="Images/ReadMe/ssrsscheduledjobs.png" width="256px" title="T-SQL (Transact-Structured Query Language)" /></kbd>
 <kbd> <img src="Images/ReadMe/ssrsscurve.png" width="256px" title="T-SQL (Transact-Structured Query Language)" /></kbd>
+
 <kbd> <img src="Images/ReadMe/ssrsreportlisting.png" width="256px" title="T-SQL (Transact-Structured Query Language)" /></kbd>
 <kbd> <img src="Images/ReadMe/ssrsreportsubscriptions.png" width="256px" title="T-SQL (Transact-Structured Query Language)" /></kbd>
 
