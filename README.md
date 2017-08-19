@@ -18,6 +18,7 @@ Examples of my work
 <kbd> 
  <p>
     Data Dictionary
+</p>
 <img src="Images/ReadMe/ssrsdatadictionary.png" align="top" width="256px" title="T-SQL (Transact-Structured Query Language)"/>
 <br>
  <p>
