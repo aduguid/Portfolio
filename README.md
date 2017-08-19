@@ -168,3 +168,68 @@ Examples of my work
 </kbd>
   </td>
   </tr>
+
+
+<br>
+<br>
+
+<a id="user-content-office-addins" class="anchor" href="#office-addins" aria-hidden="true"> </a>
+<table style="width:100%">
+<caption> 
+<p>
+<img align="left" src="Images/ReadMe/office.png" width="32px" >
+
+### Microsoft Visual Studio Projects
+</p>
+</caption>
+  <tr valign="top">
+  <td>
+<kbd> 
+ <p>
+    Active Directory Search
+</p>
+<img src="Images/ReadMe/csharpwinformactivediretorysearch.png" align="top" width="256px" title="Active Directory Search"/>
+<br>
+ <p>
+    <br>
+    Written in C#, it allows the user to mark 
+    <br>
+    up files with revision clouding around 
+    <br>
+    the selected cells in different colors.
+    </p>
+</kbd>
+  </td>
+  <td>
+<kbd> 
+ <p>
+    AutoCAD Automation Tool
+</p>
+<img src="Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Tool" />
+ <p>
+    <br>
+    Written in C#, it allows the user to use 
+    <br>
+    a table to create different SQL scripts.
+    </p>
+</kbd>
+  </td>
+  <td>
+<kbd> 
+ <p>
+    AutoCAD Automation Tool
+</p>
+<img src="Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Tool" />
+ <p>
+    <br>
+    Written in VBA to ping servers as well 
+    <br>
+    as create a file for Microsoft Remote 
+    <br>
+    Desktop Manager.
+    <br>
+    or weekending.
+    </p>
+</kbd>
+  </td>
+  </tr>
