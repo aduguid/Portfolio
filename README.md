@@ -9,7 +9,6 @@ Examples of my work
 <kbd> 
 <img src="Images/ReadMe/ssrsdatadictionary.png" width="256px" title="T-SQL (Transact-Structured Query Language)"/>
 <br>
-<div style='padding: 3px; width: 256px; word-break: break-all; word-wrap: break-word; white-space: pre-wrap;'>
  <p>
     This is a Microsoft Reporting Services 
     <br>
@@ -17,12 +16,16 @@ Examples of my work
     <br>
     dictionary of a SQL Server database.
     </p>
-</div>
 </kbd>
 <kbd> 
 <img src="Images/ReadMe/ssrsscheduledjobs.png" width="256px" title="T-SQL (Transact-Structured Query Language)" />
-<br> This is a Microsoft Reporting Services Report (SSRS) for querying the database scheduled jobs for a SQL Server database.
-</kbd>
+ <p>
+    This is a Microsoft Reporting Services 
+    <br>
+    Report (SSRS) for querying the database 
+    <br>
+    scheduled jobs for a SQL Server database.
+    </p>
 <kbd> 
 <img src="Images/ReadMe/ssrsscurve.png" width="256px" title="T-SQL (Transact-Structured Query Language)" />
 <br> This is a Microsoft Reporting Services Report (SSRS) for querying cumulative hours or sales quantities plotted against time referred to as a S-Curve graph. It is dynamicly grouped by either quarter, month or weekending.
