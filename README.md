@@ -192,11 +192,11 @@ Examples of my work
 <br>
  <p>
     <br>
-    Written in C#, it allows the user to mark 
+    Written in C#, it allows the user to  
     <br>
-    up files with revision clouding around 
+    search Active Directory and save the 
     <br>
-    the selected cells in different colors.
+    results to a .csv file
     </p>
 </kbd>
   </td>
@@ -208,9 +208,9 @@ Examples of my work
 <img src="Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Tool" />
  <p>
     <br>
-    Written in C#, it allows the user to use 
+    Written in WPF/VB.NET, it allows the user 
     <br>
-    a table to create different SQL scripts.
+    to batch plot AutoCAD files.
     </p>
 </kbd>
   </td>
@@ -222,13 +222,9 @@ Examples of my work
 <img src="Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Tool" />
  <p>
     <br>
-    Written in VBA to ping servers as well 
+    Written in WPF/VB.NET, it allows the user 
     <br>
-    as create a file for Microsoft Remote 
-    <br>
-    Desktop Manager.
-    <br>
-    or weekending.
+    to export entity attributes from AutoCAD files.
     </p>
 </kbd>
   </td>
