@@ -121,9 +121,9 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    Clouding Markup Tool
+    Microsoft Excel Clouding Markup
 </p>
-<img src="Images/ReadMe/csharpvstoexcelcloudmarkuptool.png" align="top" width="256px" title="Clouding Markup Tool"/>
+<img src="Images/ReadMe/csharpvstoexcelcloudmarkuptool.png" align="top" width="256px" title="Microsoft Excel Clouding Markup"/>
 <br>
  <p>
     <br>
@@ -136,9 +136,9 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    Scheduled Jobs Gantt Chart
+    Microsoft Excel Script Help
 </p>
-<img src="Images/ReadMe/ssrsscheduledjobs.png" align="top" width="256px" title="Scheduled Jobs Gantt Chart" />
+<img src="Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
  <p>
     <br>
     This report is used for querying the 
@@ -150,9 +150,9 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    S Curve Cumulative Progress
+    Microsoft Excel Server Actions
 </p>
-<img src="Images/ReadMe/ssrsscurve.png" align="top" width="256px" title="S Curve Cumulative Progress" />
+<img src="Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
  <p>
     <br>
     This report is used for querying the 
