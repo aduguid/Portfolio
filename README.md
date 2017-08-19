@@ -31,11 +31,13 @@ Examples of my work
   </td>
   <td>
 <kbd> 
+ <p>
+    Scheduled Jobs Gantt Chart
+</p>
 <img src="Images/ReadMe/ssrsscheduledjobs.png" align="top" width="256px" title="T-SQL (Transact-Structured Query Language)" />
  <p>
-    This is a Microsoft Reporting Services 
     <br>
-    Report (SSRS) for querying the database 
+    This report is used for querying the 
     <br>
     scheduled jobs for a SQL Server database.
     </p>
