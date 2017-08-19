@@ -179,6 +179,9 @@ Examples of my work
 <p>
 <img align="left" src="Images/ReadMe/visualstudio.png" width="32px" >
 
+<br>
+<br>
+
 ### Microsoft Visual Studio Projects
 </p>
 </caption>
