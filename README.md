@@ -29,7 +29,19 @@ Examples of my work
 </kbd>
 <kbd> 
 <img src="Images/ReadMe/ssrsscurve.png" width="256px" title="T-SQL (Transact-Structured Query Language)" />
-<br> This is a Microsoft Reporting Services Report (SSRS) for querying cumulative hours or sales quantities plotted against time referred to as a S-Curve graph. It is dynamicly grouped by either quarter, month or weekending.
+ <p>
+    This is a Microsoft Reporting Services 
+    <br>
+    Report (SSRS) for querying cumulative hours 
+    <br>
+    or sales quantities plotted against time 
+    <br>
+    referred to as a S-Curve graph. It is 
+    <br>
+    dynamicly grouped by either quarter, month 
+    <br>
+    or weekending.
+    </p>
 </kbd>
 <kbd> 
 <img src="Images/ReadMe/ssrsreportlisting.png" width="256px" title="T-SQL (Transact-Structured Query Language)" />
