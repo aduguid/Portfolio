@@ -8,6 +8,10 @@ Examples of my work
 - <a href="#office-addins">Microsoft VSTO Addins</a>
 - <a href="#visual-studio">Microsoft Visual Studio Projects</a>
 
+<br>
+<br>
+<br>
+<br>
 
 <a id="user-content-ssrs-reports" class="anchor" href="#ssrs-reports" aria-hidden="true"> </a>
 <table style="width:100%">
