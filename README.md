@@ -3,8 +3,6 @@
 # Software Portfolio
 Examples of my work
 
-<img align="left" src="Images/ReadMe/ssrs.png" width="32px" >
-
 <table style="width:100%">
 <caption> 
 <p>
