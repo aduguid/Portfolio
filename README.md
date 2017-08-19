@@ -177,7 +177,7 @@ Examples of my work
 <table style="width:100%">
 <caption> 
 <p>
-<img align="left" src="Images/ReadMe/office.png" width="32px" >
+<img align="left" src="Images/ReadMe/visualstudio.png" width="32px" >
 
 ### Microsoft Visual Studio Projects
 </p>
