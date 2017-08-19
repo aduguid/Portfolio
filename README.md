@@ -7,7 +7,7 @@ Examples of my work
 
 ## SQL Server Reporting Services
 <table style="width:100%">
-  <tr>
+  <tr valign="top">
   <td>
 <kbd> 
 <img src="Images/ReadMe/ssrsdatadictionary.png" align="top" width="256px" title="T-SQL (Transact-Structured Query Language)"/>
