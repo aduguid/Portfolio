@@ -22,6 +22,7 @@ Examples of my work
 <img src="Images/ReadMe/ssrsdatadictionary.png" align="top" width="256px" title="T-SQL (Transact-Structured Query Language)"/>
 <br>
  <p>
+    <br>
     This report is used for querying the 
     <br>
     data dictionary of a SQL Server database.
