@@ -9,21 +9,21 @@ Examples of my work
 
 <img align="left" src="Images/ReadMe/ssrs.png" width="32px" >
 
-## SQL Server Reporting Services
+## SQL Server Reporting Services (SSRS)
 
 </p>
 </caption>
   <tr valign="top">
   <td>
 <kbd> 
+ <p>
+    Data Dictionary
 <img src="Images/ReadMe/ssrsdatadictionary.png" align="top" width="256px" title="T-SQL (Transact-Structured Query Language)"/>
 <br>
  <p>
-    This is a Microsoft Reporting Services 
+    This report is used for querying the 
     <br>
-    Report (SSRS) for querying the database 
-    <br>
-    dictionary of a SQL Server database.
+    data dictionary of a SQL Server database.
     </p>
 </kbd>
   </td>
