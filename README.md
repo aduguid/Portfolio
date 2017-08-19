@@ -52,14 +52,26 @@ Examples of my work
 </kbd>
   </td>
   </tr>
+  <tr>
+    <td>
+<kbd> 
+<img src="Images/ReadMe/ssrsreportlisting.png" align="top" width="256px" title="T-SQL (Transact-Structured Query Language)" />
+ <p>
+    This is a Microsoft Reporting Services 
+    <br>
+    Report (SSRS) for querying the list of 
+    <br>
+    deployed SSRS reports, their subscriptions 
+    <br>
+    and their execution logs. 
+    </p>
+</kbd>
+  </td>
+  
+  </tr>
 </table>
 
 
-<kbd> 
-<img src="Images/ReadMe/ssrsreportlisting.png" width="256px" title="T-SQL (Transact-Structured Query Language)" />
-<br> This is a Microsoft Reporting Services Report (SSRS) for querying the list of deployed SSRS reports, their subscriptions and their execution logs.
-</kbd>
-<kbd> 
 <img src="Images/ReadMe/ssrsreportsubscriptions.png" width="256px" title="T-SQL (Transact-Structured Query Language)" />
 <br> This is a Microsoft Reporting Services Report (SSRS) for querying the list of deployed SSRS report subscriptions.
 </kbd>
