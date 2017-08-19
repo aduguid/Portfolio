@@ -52,7 +52,7 @@ Examples of my work
 </kbd>
   </td>
   </tr>
-  <tr>
+  <tr valign="top">
     <td>
 <kbd> 
 <img src="Images/ReadMe/ssrsreportlisting.png" align="top" width="256px" title="T-SQL (Transact-Structured Query Language)" />
