@@ -147,3 +147,24 @@ Examples of my work
     </p>
 </kbd>
   </td>
+  <td>
+<kbd> 
+ <p>
+    S Curve Cumulative Progress
+</p>
+<img src="Images/ReadMe/ssrsscurve.png" align="top" width="256px" title="S Curve Cumulative Progress" />
+ <p>
+    <br>
+    This report is used for querying the 
+    <br>
+    cumulative hours or sales quantities 
+    <br>
+    plotted against time. It is dynamicly
+    <br>
+    grouped by either quarter, month 
+    <br>
+    or weekending.
+    </p>
+</kbd>
+  </td>
+  </tr>
