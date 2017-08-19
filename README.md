@@ -127,9 +127,11 @@ Examples of my work
 <br>
  <p>
     <br>
-    This report is used for querying the 
+    Written in C#,iIt allows the user to mark 
     <br>
-    data dictionary of a SQL Server database.
+    up files with revision clouding around 
+    <br>
+    the selected cells in different colors.
     </p>
 </kbd>
   </td>
@@ -141,9 +143,9 @@ Examples of my work
 <img src="Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
  <p>
     <br>
-    This report is used for querying the 
+    Written in C#, it allows the user to use 
     <br>
-    scheduled jobs for a SQL Server database.
+    a table to create different SQL scripts.
     </p>
 </kbd>
   </td>
@@ -155,13 +157,11 @@ Examples of my work
 <img src="Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
  <p>
     <br>
-    This report is used for querying the 
+    Written in VBA to ping servers as well 
     <br>
-    cumulative hours or sales quantities 
+    as create a file for Microsoft Remote 
     <br>
-    plotted against time. It is dynamicly
-    <br>
-    grouped by either quarter, month 
+    Desktop Manager.
     <br>
     or weekending.
     </p>
