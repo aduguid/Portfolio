@@ -67,12 +67,18 @@ Examples of my work
     </p>
 </kbd>
   </td>
-  
+      <td>
+<kbd> 
+<img src="Images/ReadMe/ssrsreportsubscriptions.png" align="top" width="256px" title="T-SQL (Transact-Structured Query Language)" />
+ <p>
+    This is a Microsoft Reporting Services 
+    <br>
+    Report (SSRS) for querying the list of 
+    <br>
+    deployed SSRS subscriptions.
+    </p>
+</kbd>
+  </td>
   </tr>
 </table>
-
-
-<img src="Images/ReadMe/ssrsreportsubscriptions.png" width="256px" title="T-SQL (Transact-Structured Query Language)" />
-<br> This is a Microsoft Reporting Services Report (SSRS) for querying the list of deployed SSRS report subscriptions.
-</kbd>
 
