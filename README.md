@@ -5,7 +5,7 @@ Examples of my work
 
 ## Table of Contents
 - <a href="#ssrs-reports">Microsoft SQL Server Reporting Services (SSRS)</a>
-- <a href="#office-addins">Microsoft VSTO Addins</a>
+- <a href="#office-addins">Microsoft Office Addins (VSTO)</a>
 - <a href="#visual-studio">Microsoft Visual Studio Projects</a>
 
 <br>
@@ -105,3 +105,42 @@ Examples of my work
   </tr>
 </table>
 
+<a id="user-content-office-addins" class="anchor" href="#office-addins" aria-hidden="true"> </a>
+<table style="width:100%">
+<caption> 
+<p>
+<img align="left" src="Images/ReadMe/ssrs.png" width="32px" >
+
+### Microsoft Office Addins (VSTO)
+</p>
+</caption>
+  <tr valign="top">
+  <td>
+<kbd> 
+ <p>
+    Data Dictionary
+</p>
+<img src="Images/ReadMe/ssrsdatadictionary.png" align="top" width="256px" title="Data Dictionary"/>
+<br>
+ <p>
+    <br>
+    This report is used for querying the 
+    <br>
+    data dictionary of a SQL Server database.
+    </p>
+</kbd>
+  </td>
+  <td>
+<kbd> 
+ <p>
+    Scheduled Jobs Gantt Chart
+</p>
+<img src="Images/ReadMe/ssrsscheduledjobs.png" align="top" width="256px" title="Scheduled Jobs Gantt Chart" />
+ <p>
+    <br>
+    This report is used for querying the 
+    <br>
+    scheduled jobs for a SQL Server database.
+    </p>
+</kbd>
+  </td>
