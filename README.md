@@ -45,17 +45,19 @@ Examples of my work
   </td>
   <td>
 <kbd> 
+ <p>
+    S Curve Cumulative Progress
+</p>
 <img src="Images/ReadMe/ssrsscurve.png" align="top" width="256px" title="T-SQL (Transact-Structured Query Language)" />
  <p>
-    This is a Microsoft Reporting Services 
     <br>
-    Report (SSRS) for querying cumulative hours 
+    This report is used for querying the 
     <br>
-    or sales quantities plotted against time 
+    cumulative hours or sales quantities 
     <br>
-    referred to as a S-Curve graph. It is 
+    plotted against time. It is dynamicly
     <br>
-    dynamicly grouped by either quarter, month 
+    grouped by either quarter, month 
     <br>
     or weekending.
     </p>
