@@ -5,8 +5,16 @@ Examples of my work
 
 <img align="left" src="Images/ReadMe/ssrs.png" width="32px" >
 
-## SQL Server Reporting Services
 <table style="width:100%">
+<caption> 
+<p>
+
+<img align="left" src="Images/ReadMe/ssrs.png" width="32px" >
+
+## SQL Server Reporting Services
+
+</p>
+</caption>
   <tr valign="top">
   <td>
 <kbd> 
