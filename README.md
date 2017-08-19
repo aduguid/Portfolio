@@ -159,11 +159,9 @@ Examples of my work
     <br>
     Written in VBA to ping servers as well 
     <br>
-    as create a file for Microsoft Remote 
+    as create a Microsoft Remote Desktop
     <br>
-    Desktop Manager.
-    <br>
-    or weekending.
+    Manager file.
     </p>
 </kbd>
   </td>
