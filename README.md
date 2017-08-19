@@ -3,12 +3,19 @@
 # Software Portfolio
 Examples of my work
 
+## Table of Contents
+- <a href="#ssrs-reports">SQL Server Reporting Services (SSRS)</a>
+- <a href="#office-addins">Microsoft VSTO Addins</a>
+- <a href="#visual-studio">Microsoft Visual Studio Projects</a>
+
+
+<a id="user-content-ssrs-reports" class="anchor" href="#ssrs-reports" aria-hidden="true"> </a>
 <table style="width:100%">
 <caption> 
 <p>
 <img align="left" src="Images/ReadMe/ssrs.png" width="32px" >
 
-## SQL Server Reporting Services (SSRS)
+### SQL Server Reporting Services (SSRS)
 </p>
 </caption>
   <tr valign="top">
