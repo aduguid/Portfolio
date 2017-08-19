@@ -4,7 +4,7 @@
 Examples of my work
 
 ## Table of Contents
-- <a href="#ssrs-reports">SQL Server Reporting Services (SSRS)</a>
+- <a href="#ssrs-reports">Microsoft SQL Server Reporting Services (SSRS)</a>
 - <a href="#office-addins">Microsoft VSTO Addins</a>
 - <a href="#visual-studio">Microsoft Visual Studio Projects</a>
 
