@@ -168,7 +168,7 @@ Examples of my work
 </kbd>
   </td>
   </tr>
-
+</table>
 
 <br>
 <br>
@@ -232,3 +232,4 @@ Examples of my work
 </kbd>
   </td>
   </tr>
+</table>
