@@ -127,7 +127,7 @@ Examples of my work
 <br>
  <p>
     <br>
-    Written in C#,iIt allows the user to mark 
+    Written in C#, it allows the user to mark 
     <br>
     up files with revision clouding around 
     <br>
