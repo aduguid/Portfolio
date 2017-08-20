@@ -210,8 +210,6 @@ Examples of my work
     Written in HTML/Javascript, it displays 
     <br>
     timezones with hyperlinks to temperature.
-    <br>
-    the idql32/64.
     </p>
 </kbd>
   </td>
