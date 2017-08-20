@@ -102,6 +102,22 @@ Examples of my work
     </p>
 </kbd>
   </td>
+        <td>
+<kbd> 
+ <p>
+    Calendar Report
+</p>
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsnestedtablixmatrixcalendar.PNG" align="top" width="256px" title="Calendar Report" />
+ <p>
+    <br>
+    This report uses a nested tablix
+    <br>
+    inside of a matrix to create a 
+    <br>
+    calendar view.
+    </p>
+</kbd>
+  </td>
   </tr>
 </table>
 
