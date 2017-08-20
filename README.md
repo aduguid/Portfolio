@@ -201,7 +201,7 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    AutoCAD Automation Tool
+    AutoCAD Automation Tool (Plotting)
 </p>
 <img src="Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Tool" />
  <p>
@@ -215,7 +215,7 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    AutoCAD Automation Tool
+    AutoCAD Automation Tool (Extracting)
 </p>
 <img src="Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Tool" />
  <p>
