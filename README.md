@@ -5,8 +5,8 @@ Examples of my work
 
 ## Table of Contents
 - <a href="#ssrs-reports">Microsoft SQL Server Reporting Services (SSRS)</a>
-- <a href="#office-addins">Microsoft Office Addins (VSTO)</a>
 - <a href="#visual-studio">Microsoft Visual Studio Projects</a>
+- <a href="#office-addins">Microsoft Office</a>
 
 <br>
 <br>
@@ -112,69 +112,6 @@ Examples of my work
 <table style="width:100%">
 <caption> 
 <p>
-<img align="left" src="Images/ReadMe/office.png" width="32px" >
-
-### Microsoft Office Addins (VSTO)
-</p>
-</caption>
-  <tr valign="top">
-  <td>
-<kbd> 
- <p>
-    Microsoft Excel Clouding Markup
-</p>
-<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpvstoexcelcloudmarkuptool.png" align="top" width="256px" title="Microsoft Excel Clouding Markup"/>
-<br>
- <p>
-    <br>
-    Written in C#, it allows the user to mark 
-    <br>
-    up files with revision clouding around 
-    <br>
-    the selected cells in different colors.
-    </p>
-</kbd>
-  </td>
-  <td>
-<kbd> 
- <p>
-    Microsoft Excel Script Help
-</p>
-<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
- <p>
-    <br>
-    Written in C#, it allows the user to use 
-    <br>
-    a table to create different SQL scripts.
-    </p>
-</kbd>
-  </td>
-  <td>
-<kbd> 
- <p>
-    Microsoft Excel Server Actions
-</p>
-<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
- <p>
-    <br>
-    Written in VBA to ping servers as well 
-    <br>
-    as create a Microsoft Remote Desktop
-    <br>
-    Manager file.
-    </p>
-</kbd>
-  </td>
-  </tr>
-</table>
-
-<br>
-<br>
-
-<a id="user-content-office-addins" class="anchor" href="#office-addins" aria-hidden="true"> </a>
-<table style="width:100%">
-<caption> 
-<p>
 <img align="left" src="Images/ReadMe/visualstudio.png" width="32px" >
 
 ### Microsoft Visual Studio Projects
@@ -223,6 +160,69 @@ Examples of my work
     Written in WPF/VB.NET, it allows the user 
     <br>
     to export entity attributes from AutoCAD files.
+    </p>
+</kbd>
+  </td>
+  </tr>
+</table>
+
+<br>
+<br>
+
+<a id="user-content-office-addins" class="anchor" href="#office-addins" aria-hidden="true"> </a>
+<table style="width:100%">
+<caption> 
+<p>
+<img align="left" src="Images/ReadMe/office.png" width="32px" >
+
+### Microsoft Office
+</p>
+</caption>
+  <tr valign="top">
+  <td>
+<kbd> 
+ <p>
+    Microsoft Excel Clouding Markup
+</p>
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpvstoexcelcloudmarkuptool.png" align="top" width="256px" title="Microsoft Excel Clouding Markup"/>
+<br>
+ <p>
+    <br>
+    Written in C#, it allows the user to mark 
+    <br>
+    up files with revision clouding around 
+    <br>
+    the selected cells in different colors.
+    </p>
+</kbd>
+  </td>
+  <td>
+<kbd> 
+ <p>
+    Microsoft Excel Script Help
+</p>
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
+ <p>
+    <br>
+    Written in C#, it allows the user to use 
+    <br>
+    a table to create different SQL scripts.
+    </p>
+</kbd>
+  </td>
+  <td>
+<kbd> 
+ <p>
+    Microsoft Excel Server Actions
+</p>
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
+ <p>
+    <br>
+    Written in VBA to ping servers as well 
+    <br>
+    as create a Microsoft Remote Desktop
+    <br>
+    Manager file.
     </p>
 </kbd>
   </td>
