@@ -198,6 +198,23 @@ Examples of my work
     </p>
 </kbd>
   </td>
+    <td>
+<kbd> 
+ <p>
+    SharePoint Webpart Timezones & Temperature
+</p>
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/sharepointwebparttimezoneweatherhyperlink.png" align="top" width="256px" title="SharePoint Webpart Timezones with Temperature"/>
+<br>
+ <p>
+    <br>
+    Written in HTML/Javascript, it displays 
+    <br>
+    timezones with hyperlinks to temperature.
+    <br>
+    the idql32/64.
+    </p>
+</kbd>
+  </td>
     </tr>
 </table>
 
