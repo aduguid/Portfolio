@@ -243,6 +243,19 @@ Examples of my work
     <td>
 <kbd> 
  <p>
+    Microsoft Visio Network Diagram Example
+</p>
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/visiodiagram.png" align="top" width="256px" title="Microsoft Visio Network Diagram Example"/>
+<br>
+ <p>
+    <br>
+    An example of a network diagram.
+    </p>
+</kbd>
+  </td>
+    <td>
+<kbd> 
+ <p>
     Microsoft Excel Server Actions (VBA)
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
