@@ -26,7 +26,7 @@ Examples of my work
  <p>
     Data Dictionary
 </p>
-<img src="Images/ReadMe/ssrsdatadictionary.png" align="top" width="256px" title="Data Dictionary"/>
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsdatadictionary.png" align="top" width="256px" title="Data Dictionary"/>
 <br>
  <p>
     <br>
@@ -41,7 +41,7 @@ Examples of my work
  <p>
     Scheduled Jobs Gantt Chart
 </p>
-<img src="Images/ReadMe/ssrsscheduledjobs.png" align="top" width="256px" title="Scheduled Jobs Gantt Chart" />
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsscheduledjobs.png" align="top" width="256px" title="Scheduled Jobs Gantt Chart" />
  <p>
     <br>
     This report is used for querying the 
@@ -55,7 +55,7 @@ Examples of my work
  <p>
     S Curve Cumulative Progress
 </p>
-<img src="Images/ReadMe/ssrsscurve.png" align="top" width="256px" title="S Curve Cumulative Progress" />
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsscurve.png" align="top" width="256px" title="S Curve Cumulative Progress" />
  <p>
     <br>
     This report is used for querying the 
@@ -77,7 +77,7 @@ Examples of my work
  <p>
     Report Listing
 </p>
-<img src="Images/ReadMe/ssrsreportlisting.png" align="top" width="256px" title="Report Listing" />
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportlisting.png" align="top" width="256px" title="Report Listing" />
  <p>
     <br>
     This report is used for querying the 
@@ -93,7 +93,7 @@ Examples of my work
  <p>
     Report Subscriptions
 </p>
-<img src="Images/ReadMe/ssrsreportsubscriptions.png" align="top" width="256px" title="Report Subscriptions" />
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportsubscriptions.png" align="top" width="256px" title="Report Subscriptions" />
  <p>
     <br>
     This report is used for querying the 
@@ -123,7 +123,7 @@ Examples of my work
  <p>
     Microsoft Excel Clouding Markup
 </p>
-<img src="Images/ReadMe/csharpvstoexcelcloudmarkuptool.png" align="top" width="256px" title="Microsoft Excel Clouding Markup"/>
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpvstoexcelcloudmarkuptool.png" align="top" width="256px" title="Microsoft Excel Clouding Markup"/>
 <br>
  <p>
     <br>
@@ -140,7 +140,7 @@ Examples of my work
  <p>
     Microsoft Excel Script Help
 </p>
-<img src="Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
  <p>
     <br>
     Written in C#, it allows the user to use 
@@ -154,7 +154,7 @@ Examples of my work
  <p>
     Microsoft Excel Server Actions
 </p>
-<img src="Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
  <p>
     <br>
     Written in VBA to ping servers as well 
@@ -186,7 +186,7 @@ Examples of my work
  <p>
     Active Directory Search
 </p>
-<img src="Images/ReadMe/csharpwinformactivediretorysearch.png" align="top" width="256px" title="Active Directory Search"/>
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwinformactivediretorysearch.png" align="top" width="256px" title="Active Directory Search"/>
 <br>
  <p>
     <br>
@@ -203,7 +203,7 @@ Examples of my work
  <p>
     AutoCAD Automation Tool (Plotting)
 </p>
-<img src="Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Tool" />
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Tool" />
  <p>
     <br>
     Written in WPF/VB.NET, it allows the user 
@@ -217,7 +217,7 @@ Examples of my work
  <p>
     AutoCAD Automation Tool (Extracting)
 </p>
-<img src="Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Tool" />
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Tool" />
  <p>
     <br>
     Written in WPF/VB.NET, it allows the user 
