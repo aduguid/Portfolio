@@ -124,7 +124,7 @@ Examples of my work
 <br>
 <br>
 
-<a id="user-content-office-addins" class="anchor" href="#office-addins" aria-hidden="true"> </a>
+<a id="user-content-visual-studio" class="anchor" href="#visual-studio" aria-hidden="true"> </a>
 <table style="width:100%">
 <caption> 
 <p>
