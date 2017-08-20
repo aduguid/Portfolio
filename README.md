@@ -213,16 +213,14 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    Microsoft Excel Server Actions (VBA)
+    Microsoft Excel Favorites Ribbon (VSTO)
 </p>
-<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelfavoritesribbon.png" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
  <p>
     <br>
-    Written in VBA to ping servers as well 
+    Written in VB.NET, it allows the user to
     <br>
-    as create a Microsoft Remote Desktop
-    <br>
-    Manager file.
+    create a custom Excel favorites ribbon.
     </p>
 </kbd>
   </td>
@@ -239,6 +237,22 @@ Examples of my work
     Written in VB.NET, it allows the user to  
     <br>
     export the shape attributes to a .csv file.
+    </p>
+</kbd>
+  </td>
+    <td>
+<kbd> 
+ <p>
+    Microsoft Excel Server Actions (VBA)
+</p>
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
+ <p>
+    <br>
+    Written in VBA to ping servers as well 
+    <br>
+    as create a Microsoft Remote Desktop
+    <br>
+    Manager file.
     </p>
 </kbd>
   </td>
