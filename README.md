@@ -6,7 +6,7 @@ Examples of my work
 ## Table of Contents
 - <a href="#ssrs-reports">Microsoft SQL Server Reporting Services (SSRS)</a>
 - <a href="#visual-studio">Microsoft Visual Studio Projects</a>
-- <a href="#office-addins">Microsoft Office</a>
+- <a href="#office-addins">Microsoft Office Projects</a>
 
 <br>
 <br>
@@ -175,14 +175,14 @@ Examples of my work
 <p>
 <img align="left" src="Images/ReadMe/office.png" width="32px" >
 
-### Microsoft Office
+### Microsoft Office Projects
 </p>
 </caption>
   <tr valign="top">
   <td>
 <kbd> 
  <p>
-    Microsoft Excel Clouding Markup
+    Microsoft Excel Clouding Markup (VSTO)
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpvstoexcelcloudmarkuptool.png" align="top" width="256px" title="Microsoft Excel Clouding Markup"/>
 <br>
@@ -199,7 +199,7 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    Microsoft Excel Script Help
+    Microsoft Excel Script Help (VSTO)
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
  <p>
@@ -213,7 +213,7 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    Microsoft Excel Server Actions
+    Microsoft Excel Server Actions (VBA)
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
  <p>
@@ -223,6 +223,22 @@ Examples of my work
     as create a Microsoft Remote Desktop
     <br>
     Manager file.
+    </p>
+</kbd>
+  </td>
+    <tr valign="top">
+  <td>
+<kbd> 
+ <p>
+    Microsoft Visio Shape Export (VSTO)
+</p>
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstovisioshapeextract.png" align="top" width="256px" title="Microsoft Visio Shape Export"/>
+<br>
+ <p>
+    <br>
+    Written in VB.NET, it allows the user to  
+    <br>
+    export the shape attributes to a .csv file.
     </p>
 </kbd>
   </td>
