@@ -285,7 +285,11 @@ Examples of my work
  <p>
     <br>
     An example of a network diagram.
-    </p>
+    <br>
+    The header and footer reference 
+    <br>
+    the file properties.
+    </p>   
 </kbd>
   </td>
     <td>
