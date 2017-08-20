@@ -159,9 +159,9 @@ Examples of my work
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Tool" />
  <p>
     <br>
-    Written in WPF/VB.NET, it allows the user 
+    Written in WPF/VB.NET, it allows the
     <br>
-    to batch plot AutoCAD files.
+    user to batch plot AutoCAD files.
     </p>
 </kbd>
   </td>
