@@ -210,6 +210,8 @@ Examples of my work
     Written in HTML/Javascript, it displays 
     <br>
     timezones with hyperlinks to temperature.
+    <br>
+    The time updates every second.
     </p>
 </kbd>
   </td>
