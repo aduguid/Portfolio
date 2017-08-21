@@ -8,9 +8,9 @@ Examples of my work
 - <a href="#visual-studio">Microsoft Visual Studio Projects</a>
 - <a href="#office-addins">Microsoft Office Projects</a>
 - <a href="https://code.msdn.microsoft.com/office/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=aduguid">MSDN Office Code Samples</a>
-<blockquote>
+
   <img align="center" src="Images/ReadMe/msdnrating.PNG" width="128px" >
-</blockquote>
+
 <br>
 <br>
 
