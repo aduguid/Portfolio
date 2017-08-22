@@ -141,7 +141,7 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    Active Directory Search
+    <a href="https://github.com/aduguid/ActiveDirectorySearch/blob/master/README.md">Active Directory Search</a>
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwinformactivediretorysearch.png" align="top" width="256px" title="Active Directory Search"/>
 <br>
@@ -188,7 +188,7 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    Documentum Script Administrator
+    <a href="https://github.com/aduguid/DocumentumScriptAdministrator/blob/master/README.md">Documentum Script Administrator</a>
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfdocumentumscriptadministrator.png" align="top" width="256px" title="Documentum Script Administrator"/>
 <br>
@@ -205,7 +205,7 @@ Examples of my work
     <td>
 <kbd> 
  <p>
-    SharePoint Webpart Timezones & Temperature
+    <a href="https://raw.githubusercontent.com/aduguid/SharePointWebparts/master/Timezones_with_Temp.dwp">SharePoint Webpart Timezones & Temperature</a>
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/sharepointwebparttimezoneweatherhyperlink.png" align="top" width="256px" title="SharePoint Webpart Timezones with Temperature"/>
 <br>
@@ -255,7 +255,7 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    Microsoft Excel Script Help (VSTO)
+    <a href="https://github.com/aduguid/ScriptHelp/blob/master/README.md">Microsoft Excel Script Help (VSTO)</a>
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
  <p>
@@ -269,7 +269,7 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    Microsoft Excel Favorites Ribbon (VSTO)
+    <a href="https://github.com/aduguid/MicrosoftExcelFavorites/blob/master/README.md">Microsoft Excel Favorites Ribbon (VSTO)</a>
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelfavoritesribbon.png" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
  <p>
@@ -284,7 +284,7 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    Microsoft Visio Shape Export (VSTO)
+    <a href="https://github.com/aduguid/MicrosoftVisioShapeExtract/blob/master/README.md">Microsoft Visio Shape Export (VSTO)</a>
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstovisioshapeextract.png" align="top" width="256px" title="Microsoft Visio Shape Export"/>
 <br>
@@ -316,7 +316,7 @@ Examples of my work
     <td>
 <kbd> 
  <p>
-    Microsoft Excel Server Actions (VBA)
+    <a href="https://github.com/aduguid/ServerActions/blob/master/README.md">Microsoft Excel Server Actions (VBA)</a>
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
  <p>
