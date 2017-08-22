@@ -14,7 +14,6 @@ Examples of my work
 <br>
 <br>
 <br>
-<br>
 
 <a id="user-content-ssrs-reports" class="anchor" href="#ssrs-reports" aria-hidden="true"> </a>
 <table style="width:100%">
@@ -115,7 +114,6 @@ Examples of my work
 <br>
 <br>
 <br>
-<br>
 
 <a id="user-content-visual-studio" class="anchor" href="#visual-studio" aria-hidden="true"> </a>
 <table style="width:100%">
@@ -199,7 +197,6 @@ Examples of my work
         </td>
     </tr>
 </table>
-<br>
 <br>
 <br>
 <br>
