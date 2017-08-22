@@ -28,7 +28,7 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    Data Dictionary
+    Data Dictionary <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/ExampleReports/Database%20Dictionary.rdl">Data Dictionary</a>
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsdatadictionary.png" align="top" width="256px" title="Data Dictionary"/>
 <br>
