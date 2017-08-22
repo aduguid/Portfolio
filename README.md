@@ -95,7 +95,7 @@ Examples of my work
       <td>
 <kbd> 
  <p>
-    Report Subscriptions
+   <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/ExampleReports/Subscriptions.rdl">Report Subscriptions</a>
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportsubscriptions.png" align="top" width="256px" title="Report Subscriptions" />
  <p>
