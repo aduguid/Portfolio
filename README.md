@@ -43,7 +43,7 @@ Examples of my work
   <td>
 <kbd> 
  <p>
-    Scheduled Jobs Gantt Chart
+    <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/ExampleReports/Scheduled%20Jobs.rdl">Scheduled Jobs Gantt Chart</a>
 </p>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsscheduledjobs.png" align="top" width="256px" title="Scheduled Jobs Gantt Chart" />
  <p>
