@@ -213,7 +213,6 @@ Examples of my work
                 Written in HTML, it displays this page.
             </kbd>
         </td>
-
     </tr>
 </table>
 <br>
