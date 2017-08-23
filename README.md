@@ -202,6 +202,18 @@ Examples of my work
                 The time updates every second.
             </kbd>
         </td>
+        <td>
+            <kbd>
+                <a href="https://github.com/aduguid/SoftwarePortfolio/edit/master/README.md">Mark Up/Mark Down Example</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/markupmarkdown.png" align="top" width="256px" title="Mark Up/Mark Down Example" />
+                <br>
+                <br>
+                Written in HTML, it displays this page.
+            </kbd>
+        </td>
+
     </tr>
 </table>
 <br>
