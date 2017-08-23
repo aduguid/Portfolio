@@ -44,6 +44,7 @@ Examples of my work
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsscheduledjobs.png" align="top" width="256px" title="Scheduled Jobs Gantt Chart" />
                 <br>
+                <br>
                 This report is used for querying the
                 <br>
                 scheduled jobs for a SQL Server database.
@@ -55,6 +56,7 @@ Examples of my work
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsscurve.png" align="top" width="256px" title="S Curve Cumulative Progress" />
+                <br>
                 <br>
                 This report is used for querying the
                 <br>
@@ -76,6 +78,7 @@ Examples of my work
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportlisting.png" align="top" width="256px" title="Report Listing" />
                 <br>
+                <br>
                 This report is used for querying the
                 <br>
                 deployed SSRS reports, their subscriptions
@@ -90,6 +93,7 @@ Examples of my work
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportsubscriptions.png" align="top" width="256px" title="Report Subscriptions" />
                 <br>
+                <br>
                 This report is used for querying the
                 <br>
                 deployed SSRS subscriptions.
@@ -101,6 +105,7 @@ Examples of my work
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsnestedtablixmatrixcalendar.PNG" align="top" width="256px" title="Calendar Report" />
+                <br>
                 <br>
                 This report uses a nested tablix
                 <br>
@@ -146,6 +151,7 @@ Examples of my work
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Tool" />
                 <br>
+                <br>
                 Written in WPF/VB.NET, it allows the
                 <br>
                 user to batch plot AutoCAD files.
@@ -157,6 +163,7 @@ Examples of my work
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Tool" />
+                <br>
                 <br>
                 Written in WPF/VB.NET, it allows the user
                 <br>
@@ -232,6 +239,7 @@ Examples of my work
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
                 <br>
+                <br>
                 Written in C#, it allows the user to use
                 <br>
                 a table to create different SQL scripts.
@@ -243,6 +251,7 @@ Examples of my work
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelfavoritesribbon.png" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
+                <br>
                 <br>
                 Written in VB.NET, it allows the user to
                 <br>
@@ -284,6 +293,7 @@ Examples of my work
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
+                <br>
                 <br>
                 Written in VBA to ping servers as well
                 <br>
