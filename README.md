@@ -18,10 +18,10 @@ Examples of my work
 <a id="user-content-ssrs-reports" class="anchor" href="#ssrs-reports" aria-hidden="true"> </a>
 <table style="width:100%">
     <caption>
-        <p>
+        <h2>
             <img align="left" src="Images/ReadMe/ssrs.png" width="32px">
             Microsoft SQL Server Reporting Services (SSRS)
-        </p>
+        </h2>
     </caption>
     <tr valign="top">
         <td>
@@ -118,10 +118,10 @@ Examples of my work
 <a id="user-content-visual-studio" class="anchor" href="#visual-studio" aria-hidden="true"> </a>
 <table style="width:100%">
     <caption>
-        <p>
+        <h2>
             <img align="left" src="Images/ReadMe/visualstudio.png" width="32px">
             Microsoft Visual Studio Projects
-        </p>
+        </h2>
     </caption>
     <tr valign="top">
         <td>
@@ -204,10 +204,10 @@ Examples of my work
 <a id="user-content-office-addins" class="anchor" href="#office-addins" aria-hidden="true"> </a>
 <table style="width:100%">
     <caption>
-        <p>
+        <h2>
             <img align="left" src="Images/ReadMe/office.png" width="32px">
             Microsoft Office Projects
-        </p>
+        </h2>
     </caption>
     <tr valign="top">
         <td>
