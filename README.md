@@ -15,6 +15,8 @@ Examples of my work
 <br>
 <br>
 
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
 <a id="user-content-ssrs-reports" class="anchor" href="#ssrs-reports" aria-hidden="true"> </a>
 <table style="width:100%">
     <caption>
@@ -315,3 +317,4 @@ Examples of my work
         </td>
     </tr>
 </table>
+</html>
