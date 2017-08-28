@@ -139,11 +139,13 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwinformactivediretorysearch.png" align="top" width="256px" title="Active Directory Search" />
                 <br>
                 <br>
-                Written in C#, it allows the user to
+                Written in C#/Windows Forms, it 
                 <br>
-                search Active Directory and save the
+                allows the user to search Active 
                 <br>
-                results to a .csv file
+                Directory and save the results 
+                <br>
+                to a .csv file
             </kbd>
         </td>
         <td>
@@ -154,7 +156,7 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Tool" />
                 <br>
                 <br>
-                Written in WPF/VB.NET, it allows the
+                Written in VB.NET/WPF, it allows the
                 <br>
                 user to batch plot AutoCAD files.
             </kbd>
@@ -167,7 +169,7 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Tool" />
                 <br>
                 <br>
-                Written in WPF/VB.NET, it allows the user
+                Written in VB.NET/WPF, it allows the user
                 <br>
                 to export entity attributes from AutoCAD files.
             </kbd>
@@ -182,7 +184,7 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfdocumentumscriptadministrator.png" align="top" width="256px" title="Documentum Script Administrator" />
                 <br>
                 <br>
-                Written in WPF/C#, it allows the user
+                Written in C#/WPF, it allows the user
                 <br>
                 to run a file as one command against
                 <br>
