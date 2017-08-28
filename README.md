@@ -126,11 +126,9 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsnestedtablixmatrixcalendar.PNG" align="top" width="256px" title="Calendar Report" />
                 <br>
                 <br>
-                This report uses a nested tablix
+                This report uses a nested tablix inside
                 <br>
-                inside of a matrix to create a
-                <br>
-                calendar view.
+                of a matrix to create a calendar view.
             </kbd>
         </td>
     </tr>
