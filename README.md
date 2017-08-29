@@ -83,9 +83,9 @@ Examples of my work
                 <br>
                 plotted against time. It is dynamicly
                 <br>
-                grouped by either quarter, month
+                grouped by either quarter, month or
                 <br>
-                or weekending.
+                weekending.
             </kbd>
         </td>
     </tr>
