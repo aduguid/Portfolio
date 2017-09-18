@@ -5,7 +5,7 @@ Examples of my work
 
 ## Table of Contents
 - <a href="#ssrs-reports">Microsoft SQL Server Reporting Services (SSRS)</a>
-  - (Dynamic grouping, CTEs, Inline graphing, nested chart in a tablix, nested tablix in a matrix)
+  - (Dynamic grouping, CTEs, Nested charts, tablix and matrix, Javascript, Functions)
 - <a href="#visual-studio">Microsoft Visual Studio Projects</a>
   - (Windows Forms, WPF, Automation, VB.NET, C#, SharePoint, HTML, Javascript)
 - <a href="#office-addins">Microsoft Office Projects</a>
