@@ -5,24 +5,11 @@ Examples of my work
 
 ## Table of Contents
 - <a href="#ssrs-reports">Microsoft SQL Server Reporting Services (SSRS)</a>
-  - Dynamic grouping (CTE case statement)
-  - Inline graphing (nested chart in a tablix)
-  - Calendar view (nested tablix in a matrix)
+  - (Dynamic grouping, CTEs, Inline graphing, nested chart in a tablix, nested tablix in a matrix)
 - <a href="#visual-studio">Microsoft Visual Studio Projects</a>
-  - Microsoft Windows Forms
-    - VB.NET/C#
-  - Microsoft Windows Presentation Foundation (WPF) 
-    - VB.NET/C#
-  - Automation
-    - AutoCAD
-    - EMC Documentum
-  - SharePoint Development
-    - HTML/Javascript
+  - (Windows Forms, WPF, Automation, VB.NET, C#, SharePoint, HTML, Javascript)
 - <a href="#office-addins">Microsoft Office Projects</a>
-  - Microsoft Excel
-    - VBA/VB.NET/C#
-  - Microsoft Visio
-    - VBA/VB.NET/C#
+  - (Word, Outlook, Excel, Visio, VBA, VB.NET, C#)
 - <a href="https://code.msdn.microsoft.com/office/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=aduguid">MSDN Office Code Samples</a>
   - Microsoft ranking
 <a href="https://code.msdn.microsoft.com/office/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=aduguid">
