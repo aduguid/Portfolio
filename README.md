@@ -71,7 +71,7 @@ Examples of my work
         </td>
         <td>
             <kbd>
-                Activity Monitor
+                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ExampleReports/Activity%20Moniter.rdl">Activity Monitor</a>
                 <br>
                 <br>
                 <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Activity Monitor" />
@@ -114,7 +114,7 @@ Examples of my work
         </td>
         <td>
             <kbd>
-                Execution Log
+                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ExampleReports/Execution%20Log.rdl">Execution Log</a>
                 <br>
                 <br>
                 <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Execution Log" />
@@ -129,7 +129,7 @@ Examples of my work
     <tr valign="top">
         <td>
             <kbd>
-                Report Documentation
+                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ExampleReports/Report%20Documentation.rdl">Report Documentation</a>
                 <br>
                 <br>
                 <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Report Documentation" />
@@ -142,7 +142,7 @@ Examples of my work
         </td>
         <td>
             <kbd>
-                Report Data Sources
+               <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ExampleReports/Data%20Sources.rdl">Report Data Sources</a>
                 <br>
                 <br>
                 <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Report Data Sources" />
@@ -155,7 +155,7 @@ Examples of my work
         </td>
         <td>
             <kbd>
-                Report Server Folder Permissions
+                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ExampleReports/Permissions.rdl">Report Server Folder Permissions</a>
                 <br>
                 <br>
                 <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Report Server Folder Permissions" />
