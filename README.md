@@ -71,21 +71,15 @@ Examples of my work
         </td>
         <td>
             <kbd>
-                S Curve Cumulative Progress
+                Activity Monitor
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsscurve.png" align="top" width="256px" title="S Curve Cumulative Progress" />
+                <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Activity Monitor" />
                 <br>
                 <br>
-                This report is used for querying the
+                This report queries the activity monitor
                 <br>
-                cumulative hours or sales quantities
-                <br>
-                plotted against time. It is dynamicly
-                <br>
-                grouped by either quarter, month or
-                <br>
-                weekending.
+                of a SQL Server.
             </kbd>
         </td>
     </tr>
@@ -120,6 +114,40 @@ Examples of my work
         </td>
         <td>
             <kbd>
+                Execution Log
+                <br>
+                <br>
+                <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Execution Log" />
+                <br>
+                <br>
+                This report is used for querying the
+                <br>
+                report server exection log table.
+            </kbd>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td>
+            <kbd>
+                S Curve Cumulative Progress
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsscurve.png" align="top" width="256px" title="S Curve Cumulative Progress" />
+                <br>
+                <br>
+                This report is used for querying the
+                <br>
+                cumulative hours or sales quantities
+                <br>
+                plotted against time. It is dynamicly
+                <br>
+                grouped by either quarter, month or
+                <br>
+                weekending.
+            </kbd>
+        </td>
+        <td>
+            <kbd>
                 Weekly Calendar
                 <br>
                 <br>
@@ -131,14 +159,12 @@ Examples of my work
                 of a matrix to create a calendar view.
             </kbd>
         </td>
-    </tr>
-    <tr valign="top">
         <td>
             <kbd>
-                Calendar Heatmap
+                Heatmap Calendar
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsheatmap_calendar.png" align="top" width="256px" title="Calendar Heatmap" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsheatmap_calendar.png" align="top" width="256px" title="Heatmap Calendar" />
                 <br>
                 <br>
                 This report is a heatmap calendar of
@@ -147,12 +173,6 @@ Examples of my work
                 <br>
                 base color.
             </kbd>
-        </td>
-        <td>
-                <br>
-        </td>
-        <td>
-                <br>
         </td>
     </tr>
 </table>
