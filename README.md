@@ -138,7 +138,7 @@ Examples of my work
                 Calendar Heatmap
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportlisting.png" align="top" width="256px" title="Calendar Heatmap" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsheatmap_calendar.png" align="top" width="256px" title="Calendar Heatmap" />
                 <br>
                 <br>
                 This report is a heatmap calendar of
