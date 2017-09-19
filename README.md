@@ -119,7 +119,7 @@ Examples of my work
                 <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ExampleReports/Report%20Documentation.rdl">Report Documentation</a>
                 <br>
                 <br>
-                <img src="Images/ReadMe/ssrsreportdocumentation.png" align="top" width="256px" title="Report Documentation" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportdocumentation.png" align="top" width="256px" title="Report Documentation" />
                 <br>
                 <br>
                 This report is used for querying the
