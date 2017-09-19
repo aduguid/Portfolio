@@ -282,7 +282,7 @@ Examples of my work
                 <a href="https://raw.githubusercontent.com/aduguid/SharePointWebparts/master/Timezones_with_Temp.dwp">SharePoint Webpart Timezones & Temperature</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/sharepointwebparttimezoneweatherhyperlink.png" align="top" width="256px" title="SharePoint Webpart Timezones with Temperature" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/sharepointwebparttimezoneweatherhyperlink.gif" align="top" width="256px" title="SharePoint Webpart Timezones with Temperature" />
                 <br>
                 <br>
                 Written in HTML/Javascript, it displays
