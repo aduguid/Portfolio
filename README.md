@@ -15,6 +15,8 @@ Examples of my work
 <a href="https://code.msdn.microsoft.com/office/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=aduguid">
   <img src="Images/ReadMe/msdnranking201709.png" width="128px" ">
 </a>
+
+<iframe src="https://social.msdn.microsoft.com/profile/aduguid/" style="position: relative; left: -100px; top: -100px">
 <br>
 <br>
 <br>
