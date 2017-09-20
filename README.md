@@ -13,7 +13,7 @@ Examples of my work
 - <a href="https://code.msdn.microsoft.com/office/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=aduguid">MSDN Office Code Samples</a>
   - Microsoft ranking
 <a href="https://code.msdn.microsoft.com/office/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=aduguid">
-  <img src="Images/ReadMe/msdnrating20170920.PNG" width="200px" ">
+  <img src="Images/ReadMe/msdnrating20170921.PNG" width="200px" ">
 </a>
 <br>
 <br>
