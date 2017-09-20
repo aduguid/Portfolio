@@ -10,9 +10,9 @@ Examples of my work
   - (Windows Forms, WPF, Automation, VB.NET, C#, SharePoint, HTML, Javascript)
 - <a href="#office-addins">Microsoft Office Projects</a>
   - (Word, Outlook, Excel, Visio, VBA, VB.NET, C#)
-- <a href="https://code.msdn.microsoft.com/office/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=aduguid">MSDN Office Code Samples</a>
+- <a href="https://code.msdn.microsoft.com/office/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=anthony duguid">MSDN Office Code Samples</a>
   - Microsoft ranking
-<a href="https://code.msdn.microsoft.com/office/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=aduguid">
+<a href="https://code.msdn.microsoft.com/office/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=anthony duguid">
   <img src="Images/ReadMe/msdnrating20170921.PNG" width="200px" ">
 </a>
 <br>
