@@ -39,3 +39,18 @@
         </td>
         </tr>
         </table>
+
+
+Units:
+ - 1st Division, 2nd Battalion, 5th Regiment, Weapons Co., Heavy Machine Guns Platoon
+ - 1st Division, 2nd Battalion, 9th Regiment, Weapons Co., Anti Armor Platoon
+ - 1st Division, 2nd Battalion, 4th Regiment, Weapons Co., Anti Armor Platoon
+ - 1st Division, G-7 Safety & Hazmat
+ - Marine Forces Reserve, 6th Engineer Support Battalion, 4th Marine Logistics Group
+
+Operations: 
+ - Mishap Investigations (Camp Pendleton - 1996)
+ - Joint Task Force Mission (JTF-6 ) (Coronado -1995)
+ - Distant Runner (Rwanda/Burundi-1994)
+ - Continue Hope (Somalia-1994)
+ - Quick Draw (Somalia-1994)
