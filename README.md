@@ -16,6 +16,7 @@ Examples of my work
   <img src="Images/ReadMe/msdnrating20170921.PNG" width="200px" ">
 </a>
 <br>
+<p>This is <a href="http://example.com" target="_blank">a link</a> that opens in a new window.</p>
 <br>
 <br>
 
