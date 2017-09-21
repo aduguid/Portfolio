@@ -42,8 +42,8 @@
 
 
 Units:
- - 1st Division, 2nd Battalion, 5th Regiment, Weapons Co., Heavy Machine Guns Platoon
- - 1st Division, 2nd Battalion, 9th Regiment, Weapons Co., Anti Armor Platoon
+ -  <a href="https://en.wikipedia.org/wiki/2nd_Battalion,_5th_Marines">1st Division, 2nd Battalion, 5th Regiment, Weapons Co., Heavy Machine Guns Platoon</a>
+ -  <a href="https://en.wikipedia.org/wiki/2nd_Battalion,_9th_Marines">1st Division, 2nd Battalion, 9th Regiment, Weapons Co., Anti Armor Platoon</a>
  - 1st Division, 2nd Battalion, 4th Regiment, Weapons Co., Anti Armor Platoon
  - 1st Division, G-7 Safety & Hazmat
  - Marine Forces Reserve, 6th Engineer Support Battalion, 4th Marine Logistics Group
