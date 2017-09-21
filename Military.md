@@ -18,7 +18,7 @@
         </td>
         <td align="left" width="33%">
             <kbd>
-                <a href="http://www.americanwarlibrary.com/display/usmc.htm">USMC Ribbons</a>
+                <a href="http://www.americanwarlibrary.com/display/usmc.htm">Ribbons</a>
                 <br>
                 <br>
                 <br>
@@ -41,7 +41,7 @@
         </td>
         <td align="center" width="33%">
             <kbd>
-                <a href="https://www.military-ranks.org/marine-corps/corporal">USMC Corporal</a>
+                <a href="https://www.military-ranks.org/marine-corps/corporal">Corporal</a>
                 <br>
                 <br>
                 <br>
