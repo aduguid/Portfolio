@@ -8,7 +8,6 @@
     <tr valign="top">
         <td align="center" width="33%">
             <kbd>
-                <a href="https://en.wikipedia.org/wiki/United_States_Marine_Corps">USMC</a>
                 <br>
                 <br>
                 <img src="/Images/Military/USMC.png" align="middle" width="128px" title="USMC" />
@@ -18,15 +17,16 @@
         </td>
         <td align="left" width="33%">
             <kbd>
-                <a href="http://www.americanwarlibrary.com/display/usmc.htm">Ribbons</a>
                 <br>
                 <br>
                 <img src="/Images/Military/Ribbons.png" align="top" width="256px" title="Ribbons" />
                 <br>
                 <br>
                 <a href="https://en.wikipedia.org/wiki/Armed_Forces_Expeditionary_Medal">Armed Forces Expeditionary Medal (1995)</a>
-                <br>Joint Meritorious Unit Award (1995)
-                <br>Marine Corps Good Conduct Medal (1995)
+                <br>
+                <a href="https://en.wikipedia.org/wiki/Joint_Meritorious_Unit_Award">Joint Meritorious Unit Award (1995)</a>
+                <br>
+                <a href="https://en.wikipedia.org/wiki/Good_Conduct_Medal_(United_States)">Marine Corps Good Conduct Medal (1995)</a>
                 <br>Navy Meritorious Unit Commendation (1995)
                 <br>United Nations Medal (1995)
                 <br>Marine Corps Expeditionary Medal (1994)
@@ -37,7 +37,6 @@
         </td>
         <td align="center" width="33%">
             <kbd>
-                <a href="https://www.military-ranks.org/marine-corps/corporal">Corporal</a>
                 <br>
                 <br>
                 <br>
