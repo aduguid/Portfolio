@@ -16,7 +16,7 @@
                 <br>
             </kbd>
         </td>
-        <td align="center" width="33%">
+        <td align="left" width="33%">
             <kbd>
                 <a href="http://www.americanwarlibrary.com/display/usmc.htm">USMC Ribbons</a>
                 <br>
@@ -28,6 +28,14 @@
                 <br>
                 <img src="/Images/Military/Ribbons.png" align="top" width="256px" title="Ribbons" />
                 <br>
+                <br>Armed Forces Expeditionary Medal (1995)
+                <br>Joint Meritorious Unit Award (1995)
+                <br>Marine Corps Good Conduct Medal (1995)
+                <br>Navy Meritorious Unit Commendation (1995)
+                <br>United Nations Medal (1995)
+                <br>Marine Corps Expeditionary Medal (1994)
+                <br>Navy Sea Service Deployment (1994)
+                <br>National Defense Service Medal (1993)
                 <br>
             </kbd>
         </td>
