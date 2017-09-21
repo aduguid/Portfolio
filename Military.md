@@ -44,9 +44,9 @@
 Units:
  -  <a href="https://en.wikipedia.org/wiki/2nd_Battalion,_5th_Marines">1st Division, 2nd Battalion, 5th Regiment, Weapons Co., Heavy Machine Guns Platoon</a>
  -  <a href="https://en.wikipedia.org/wiki/2nd_Battalion,_9th_Marines">1st Division, 2nd Battalion, 9th Regiment, Weapons Co., Anti Armor Platoon</a>
- - 1st Division, 2nd Battalion, 4th Regiment, Weapons Co., Anti Armor Platoon
- - 1st Division, G-7 Safety & Hazmat
- - Marine Forces Reserve, 6th Engineer Support Battalion, 4th Marine Logistics Group
+ -  <a href="https://en.wikipedia.org/wiki/2nd_Battalion,_4th_Marines">1st Division, 2nd Battalion, 4th Regiment, Weapons Co., Anti Armor Platoon</a>
+ -  <a href="https://en.wikipedia.org/wiki/1st_Marine_Division_(United_States)">1st Division, G-7 Safety & Hazmat</a>
+ -  <a href="https://en.wikipedia.org/wiki/6th_Engineer_Support_Battalion">Marine Forces Reserve, 6th Engineer Support Battalion, 4th Marine Logistics Group</a>
 
 Operations: 
  - Mishap Investigations (Camp Pendleton - 1996)
