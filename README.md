@@ -12,7 +12,7 @@ Examples of my work
   - (Word, Outlook, Excel, Visio, VBA, VB.NET, C#)
 - <a href="https://code.msdn.microsoft.com/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=Anthony%20Duguid">Microsoft Code Samples</a>
   - Microsoft ranking
-<a href="https://code.msdn.microsoft.com/office/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=anthony duguid">
+<a href="https://code.msdn.microsoft.com/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=Anthony%20Duguid">
   <img src="Images/ReadMe/msdnrating20170921.PNG" width="200px" ">
 </a>
 <br>
