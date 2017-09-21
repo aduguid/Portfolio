@@ -6,14 +6,8 @@
         </h2>
     </caption>
     <tr valign="top">
-        <td align="center" width="33%">
-            <kbd>
-                <br>
-                <br>
+        <td align="center" valign="middle" width="33%">
                 <img src="/Images/Military/USMC.png" align="middle" width="128px" title="USMC" />
-                <br>
-                <br>
-            </kbd>
         </td>
         <td align="left" width="33%">
             <kbd>
@@ -35,15 +29,8 @@
                 <br>
             </kbd>
         </td>
-        <td align="center" width="33%">
-            <kbd>
-                <br>
-                <br>
-                <br>
+        <td align="center" valign="middle" width="33%">
                 <img src="/Images/Military/Corporal.png" align="top" width="128px" title="Corporal" />
-                <br>
-                <br>
-            </kbd>
         </td>
         </tr>
         </table>
