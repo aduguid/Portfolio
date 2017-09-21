@@ -21,14 +21,10 @@
                 <a href="http://www.americanwarlibrary.com/display/usmc.htm">Ribbons</a>
                 <br>
                 <br>
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
                 <img src="/Images/Military/Ribbons.png" align="top" width="256px" title="Ribbons" />
                 <br>
-                <br>Armed Forces Expeditionary Medal (1995)
+                <br>
+                <a href="https://en.wikipedia.org/wiki/Armed_Forces_Expeditionary_Medal">Armed Forces Expeditionary Medal (1995)</a>
                 <br>Joint Meritorious Unit Award (1995)
                 <br>Marine Corps Good Conduct Medal (1995)
                 <br>Navy Meritorious Unit Commendation (1995)
