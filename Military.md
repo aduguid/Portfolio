@@ -21,11 +21,16 @@
                 <a href="https://en.wikipedia.org/wiki/Joint_Meritorious_Unit_Award">Joint Meritorious Unit Award (1995)</a>
                 <br>
                 <a href="https://en.wikipedia.org/wiki/Good_Conduct_Medal_(United_States)">Marine Corps Good Conduct Medal (1995)</a>
-                <br>Navy Meritorious Unit Commendation (1995)
-                <br>United Nations Medal (1995)
-                <br>Marine Corps Expeditionary Medal (1994)
-                <br>Navy Sea Service Deployment (1994)
-                <br>National Defense Service Medal (1993)
+                <br>
+                <a href="https://en.wikipedia.org/wiki/Meritorious_Unit_Commendation">Navy Meritorious Unit Commendation (1995)</a>
+                <br>
+                <a href="https://en.wikipedia.org/wiki/United_Nations_Medal">United Nations Medal (1995)</a>
+                <br>
+                <a href="https://en.wikipedia.org/wiki/Marine_Corps_Expeditionary_Medal">Marine Corps Expeditionary Medal (1994)</a>
+                <br>
+                <a href="https://en.wikipedia.org/wiki/Sea_Service_Ribbon">Navy Sea Service Deployment (1994)</a>
+                <br>
+                <a href="https://en.wikipedia.org/wiki/National_Defense_Service_Medal">National Defense Service Medal (1993)</a>
                 <br>
             </kbd>
         </td>
