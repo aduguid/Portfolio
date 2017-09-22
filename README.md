@@ -32,11 +32,7 @@ Examples of my work
 <td align="center" valign="middle" width="100px">
 <a href="https://social.msdn.microsoft.com/search/en-US?rq=site%3Ahttps%3A%2F%2Fblogs.msdn.microsoft.com&rn=blogs.msdn.microsoft.com&ral=1&query=Anthony+Duguid">Blog</a>
 </td>
-
 </table>
-
-<br>
-<br>
 <br>
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
