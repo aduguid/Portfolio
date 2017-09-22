@@ -10,7 +10,7 @@ Examples of my work
   
 <img align="left" src="Images/ReadMe/office.png" width="20px"><a href="#office-addins">Office Projects</a>
 
-- <a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">MSDN Profile</a>
+<img align="left" src="Images/ReadMe/msdn.png" width="20px"><a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">MSDN Profile</a>
   - <a href="https://social.msdn.microsoft.com/search/en-US?rq=site%3Ahttps%3A%2F%2Fblogs.msdn.microsoft.com&rn=blogs.msdn.microsoft.com&ral=1&query=Anthony+Duguid">Blog</a>
   - <a href="https://social.msdn.microsoft.com/Forums/en-US/user/threads?user=Anthony%20Duguid">Forum</a>
   - <a href="https://code.msdn.microsoft.com/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=Anthony%20Duguid">Gallery</a>
