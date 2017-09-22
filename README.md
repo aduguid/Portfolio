@@ -4,13 +4,13 @@
 Examples of my work
 
 ## Table of Contents
-- <a href="#ssrs-reports">Microsoft SQL Server Reporting Services (SSRS)</a>
+- <a href="#ssrs-reports">SQL Server Reporting Services (SSRS)</a>
   - (Dynamic grouping, CTEs, Nested charts, tablix and matrix, Javascript, Functions)
-- <a href="#visual-studio">Microsoft Visual Studio Projects</a>
+- <a href="#visual-studio">Visual Studio Projects</a>
   - (Windows Forms, WPF, Automation, VB.NET, C#, SharePoint, HTML, Javascript)
-- <a href="#office-addins">Microsoft Office Projects</a>
+- <a href="#office-addins">Office Projects</a>
   - (Word, Outlook, Excel, Visio, VBA, VB.NET, C#)
-- <a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">My Microsoft MSDN Profile</a>
+- <a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">MSDN Profile</a>
   - <a href="https://social.msdn.microsoft.com/search/en-US?rq=site%3Ahttps%3A%2F%2Fblogs.msdn.microsoft.com&rn=blogs.msdn.microsoft.com&ral=1&query=Anthony+Duguid">Blog</a>
   - <a href="https://social.msdn.microsoft.com/Forums/en-US/user/threads?user=Anthony%20Duguid">Forum</a>
   - <a href="https://code.msdn.microsoft.com/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=Anthony%20Duguid">Gallery</a>
@@ -28,7 +28,7 @@ Examples of my work
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/ssrs.png" width="32px">
-            Microsoft SQL Server Reporting Services (SSRS)
+            SQL Server Reporting Services (SSRS)
         </h2>
     </caption>
     <tr valign="top">
@@ -215,7 +215,7 @@ Examples of my work
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/visualstudio.png" width="32px">
-            Microsoft Visual Studio Projects
+            Visual Studio Projects
         </h2>
     </caption>
     <tr valign="top">
@@ -316,7 +316,7 @@ Examples of my work
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/office.png" width="32px">
-            Microsoft Office Projects
+            Office Projects
         </h2>
     </caption>
     <tr valign="top">
