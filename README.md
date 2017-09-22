@@ -43,12 +43,10 @@ Examples of my work
 <td align="center" valign="middle">
 <img align="center" src="Images/ReadMe/msdn.png" width="20px">
 </td>
-<td align="left" valign="middle">
-Microsoft Developer Network (MSDN)
-</td>
+<td align="center" valign="middle">
 
 <table style="width:100%">
-<tr valign="top">
+<tr valign="middle">
 <td align="center" valign="middle" width="100px">
 <a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">Profile</a>
 </td>
@@ -66,12 +64,14 @@ Microsoft Developer Network (MSDN)
 </td>
 <td align="center" valign="middle" width="100px">
 <a href="https://social.msdn.microsoft.com/search/en-US?rq=site%3Ahttps%3A%2F%2Fblogs.msdn.microsoft.com&rn=blogs.msdn.microsoft.com&ral=1&query=Anthony+Duguid">Blog</a>
-</tr>
+</td>
 </tr>
 </td>
 </table>
 </tr>
 </table>
+
+<br>
 <br>
 <br>
 <br>
