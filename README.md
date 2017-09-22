@@ -10,9 +10,13 @@ Examples of my work
   - (Windows Forms, WPF, Automation, VB.NET, C#, SharePoint, HTML, Javascript)
 - <a href="#office-addins">Microsoft Office Projects</a>
   - (Word, Outlook, Excel, Visio, VBA, VB.NET, C#)
-- <a href="https://code.msdn.microsoft.com/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=Anthony%20Duguid">Microsoft Code Samples</a>
-  - Microsoft ranking
-<a href="https://code.msdn.microsoft.com/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=Anthony%20Duguid">
+- Microsoft MSDN
+  - <a href="https://social.msdn.microsoft.com/Forums/en-US/user/threads?user=Anthony%20Duguid">Blog</a>
+  - <a href="https://social.msdn.microsoft.com/Forums/en-US/user/threads?user=Anthony%20Duguid">Forums</a>
+  - <a href="https://code.msdn.microsoft.com/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=Anthony%20Duguid">Gallery</a>
+  - <a href="https://social.msdn.microsoft.com/Forums/en-US/user/threads?user=Anthony%20Duguid">Wiki</a>
+
+<a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">
   <img src="Images/ReadMe/msdnrating20170921.PNG" width="200px" ">
 </a>
 <br>
