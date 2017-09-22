@@ -3,15 +3,53 @@
 # Software Portfolio
 Examples of my work
 
-## Table of Contents
-<img align="left" src="Images/ReadMe/ssrs.png" width="20px"><a href="#ssrs-reports">SQL Server Reporting Services (SSRS)</a>
-  
-<img align="left" src="Images/ReadMe/visualstudio.png" width="20px"><a href="#visual-studio">Visual Studio Projects</a>
-  
-<img align="left" src="Images/ReadMe/office.png" width="20px"><a href="#office-addins">Office Projects</a>
-
-<img align="left" src="Images/ReadMe/msdn.png" width="20px">Microsoft Developer Network (MSDN)
 <br>
+<br>
+
+<table style="width:100%">
+    <caption>
+        <h2>
+            Table of Contents
+        </h2>
+    </caption>
+
+<tr valign="top">
+<td align="center" valign="middle">
+<img align="center" src="Images/ReadMe/ssrs.png" width="20px">
+</td>
+<td align="left" valign="middle">
+<a href="#ssrs-reports">SQL Server Reporting Services (SSRS)</a>
+</td>
+</tr>
+
+<tr valign="top">
+<td align="center" valign="middle">
+<img align="center" src="Images/ReadMe/visualstudio.png" width="20px">
+</td>
+<td align="left" valign="middle">
+<a href="#visual-studio">Visual Studio Projects</a>
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="center" valign="middle">
+<img align="center" src="Images/ReadMe/office.png" width="20px">
+</td>
+<td align="left" valign="middle">
+<a href="#office-addins">Office Projects</a>
+</td>
+</tr>
+
+
+<tr valign="top">
+<td align="center" valign="middle">
+<img align="center" src="Images/ReadMe/msdn.png" width="20px">
+</td>
+<td align="left" valign="middle">
+Microsoft Developer Network (MSDN)
+</td>
+</tr>
 <table style="width:100%">
 <tr valign="top">
 <td align="center" valign="middle" width="100px">
@@ -31,7 +69,10 @@ Examples of my work
 </td>
 <td align="center" valign="middle" width="100px">
 <a href="https://social.msdn.microsoft.com/search/en-US?rq=site%3Ahttps%3A%2F%2Fblogs.msdn.microsoft.com&rn=blogs.msdn.microsoft.com&ral=1&query=Anthony+Duguid">Blog</a>
+</tr>
 </td>
+</table>
+</tr>
 </table>
 <br>
 <br>
