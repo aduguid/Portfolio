@@ -30,7 +30,6 @@ Examples of my work
 </td>
 </tr>
 
-
 <tr valign="top">
 <td align="center" valign="middle">
 <img align="center" src="Images/ReadMe/office.png" width="20px">
@@ -39,7 +38,6 @@ Examples of my work
 <a href="#office-addins">Office Projects</a>
 </td>
 </tr>
-
 
 <tr valign="top">
 <td align="center" valign="middle">
