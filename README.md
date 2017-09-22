@@ -5,13 +5,10 @@ Examples of my work
 
 ## Table of Contents
 <img align="left" src="Images/ReadMe/ssrs.png" width="20px"><a href="#ssrs-reports">SQL Server Reporting Services (SSRS)</a>
-(Dynamic grouping, CTEs, Nested charts, tablix and matrix, Javascript, Functions)
   
 <img align="left" src="Images/ReadMe/visualstudio.png" width="20px"><a href="#visual-studio">Visual Studio Projects</a>
-(Windows Forms, WPF, Automation, VB.NET, C#, SharePoint, HTML, Javascript)
   
 <img align="left" src="Images/ReadMe/office.png" width="20px"><a href="#office-addins">Office Projects</a>
-(Word, Outlook, Excel, Visio, VBA, VB.NET, C#)
 
 - <a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">MSDN Profile</a>
   - <a href="https://social.msdn.microsoft.com/search/en-US?rq=site%3Ahttps%3A%2F%2Fblogs.msdn.microsoft.com&rn=blogs.msdn.microsoft.com&ral=1&query=Anthony+Duguid">Blog</a>
