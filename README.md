@@ -4,7 +4,6 @@
 Examples of my work
 
 <br>
-<br>
 
 <table style="width:100%">
     <caption>
@@ -49,7 +48,7 @@ Examples of my work
 <td align="left" valign="middle">
 Microsoft Developer Network (MSDN)
 </td>
-</tr>
+
 <table style="width:100%">
 <tr valign="top">
 <td align="center" valign="middle" width="100px">
@@ -69,6 +68,7 @@ Microsoft Developer Network (MSDN)
 </td>
 <td align="center" valign="middle" width="100px">
 <a href="https://social.msdn.microsoft.com/search/en-US?rq=site%3Ahttps%3A%2F%2Fblogs.msdn.microsoft.com&rn=blogs.msdn.microsoft.com&ral=1&query=Anthony+Duguid">Blog</a>
+</tr>
 </tr>
 </td>
 </table>
