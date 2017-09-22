@@ -44,8 +44,7 @@ Examples of my work
 <img align="center" src="Images/ReadMe/msdn.png" width="20px">
 </td>
 <td align="center" valign="middle">
-
-<table style="width:100%">
+<table align="center" valign="middle" style="width:100%">
 <tr valign="middle">
 <td align="center" valign="middle" width="100px">
 <a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">Profile</a>
@@ -66,11 +65,15 @@ Examples of my work
 <a href="https://social.msdn.microsoft.com/search/en-US?rq=site%3Ahttps%3A%2F%2Fblogs.msdn.microsoft.com&rn=blogs.msdn.microsoft.com&ral=1&query=Anthony+Duguid">Blog</a>
 </td>
 </tr>
-</td>
 </table>
+</td>
 </tr>
 </table>
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
