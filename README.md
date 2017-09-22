@@ -10,7 +10,7 @@ Examples of my work
   - (Windows Forms, WPF, Automation, VB.NET, C#, SharePoint, HTML, Javascript)
 - <a href="#office-addins">Microsoft Office Projects</a>
   - (Word, Outlook, Excel, Visio, VBA, VB.NET, C#)
-- Microsoft MSDN
+- <a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">Microsoft MSDN</a>
   - <a href="https://social.msdn.microsoft.com/Forums/en-US/user/threads?user=Anthony%20Duguid">Blog</a>
   - <a href="https://social.msdn.microsoft.com/Forums/en-US/user/threads?user=Anthony%20Duguid">Forums</a>
   - <a href="https://code.msdn.microsoft.com/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=Anthony%20Duguid">Gallery</a>
