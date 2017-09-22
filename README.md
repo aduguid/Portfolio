@@ -43,9 +43,9 @@ Examples of my work
 <td align="center" valign="middle">
 <img align="center" src="Images/ReadMe/msdn.png" width="20px">
 </td>
-<td align="center" valign="middle">
-<table align="center" valign="middle" style="width:100%">
-<tr valign="middle">
+<td>
+<table style="width:100%">
+<tr valign="top">
 <td align="center" valign="middle" width="100px">
 <a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">Profile</a>
 </td>
