@@ -255,7 +255,7 @@ Examples of my work
         </h2>
     </caption>
     <tr valign="top">
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://github.com/aduguid/ActiveDirectorySearch/blob/master/README.md">Active Directory Search</a>
                 <br>
@@ -263,16 +263,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwinformactivediretorysearch.png" align="top" width="256px" title="Active Directory Search" />
                 <br>
                 <br>
-                Written in C#/Windows Forms, it 
+                <span style="max-width:256px;">Written in C#/Windows Forms, it allows the user to search Active Directory and save the results to a .csv file</span>
                 <br>
-                allows the user to search Active 
-                <br>
-                Directory and save the results 
-                <br>
-                to a .csv file
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 AutoCAD Automation Tool (Plotting)
                 <br>
@@ -280,12 +275,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Tool" />
                 <br>
                 <br>
-                Written in VB.NET/WPF, it allows the
+                <span style="max-width:256px;">Written in VB.NET/WPF, it allows the user to batch plot AutoCAD files.</span>
                 <br>
-                user to batch plot AutoCAD files.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 AutoCAD Automation Tool (Extracting)
                 <br>
@@ -293,14 +287,13 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Tool" />
                 <br>
                 <br>
-                Written in VB.NET/WPF, it allows the user
+                <span style="max-width:256px;">Written in VB.NET/WPF, it allows the user to export entity attributes from AutoCAD files.</span>
                 <br>
-                to export entity attributes from AutoCAD files.
             </kbd>
         </td>
     </tr>
     <tr valign="top">
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://github.com/aduguid/DocumentumScriptAdministrator/blob/master/README.md">Documentum Script Administrator</a>
                 <br>
@@ -308,14 +301,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfdocumentumscriptadministrator.png" align="top" width="256px" title="Documentum Script Administrator" />
                 <br>
                 <br>
-                Written in C#/WPF, it allows the user
+                <span style="max-width:256px;">Written in C#/WPF, it allows the user to run a file as one command against the idql32/64.</span>
                 <br>
-                to run a file as one command against
-                <br>
-                the idql32/64.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://raw.githubusercontent.com/aduguid/SharePointWebparts/master/Timezones_with_Temp.dwp">SharePoint Webpart Timezones & Temperature</a>
                 <br>
@@ -323,14 +313,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/sharepointwebparttimezoneweatherhyperlink.gif" align="top" width="256px" title="SharePoint Webpart Timezones with Temperature" />
                 <br>
                 <br>
-                Written in HTML/Javascript, it displays
+                <span style="max-width:256px;">Written in HTML/Javascript, it displays timezones with hyperlinks to temperature. The time updates every second.</span>
                 <br>
-                timezones with hyperlinks to temperature.
-                <br>
-                The time updates every second.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://github.com/aduguid/SoftwarePortfolio/edit/master/README.md">Mark Up/Mark Down Example</a>
                 <br>
@@ -338,7 +325,8 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/markupmarkdownexample.png" align="top" width="256px" title="Mark Up/Mark Down Example" />
                 <br>
                 <br>
-                Written in HTML, it displays this page.
+                <span style="max-width:256px;">Written in HTML, it displays this page.</span>
+                <br>
             </kbd>
         </td>
     </tr>
@@ -356,7 +344,7 @@ Examples of my work
         </h2>
     </caption>
     <tr valign="top">
-        <td>
+        <td width="33%">
             <kbd>
                 Microsoft Excel Clouding Markup (VSTO)
                 <br>
@@ -364,14 +352,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpvstoexcelcloudmarkuptool.png" align="top" width="256px" title="Microsoft Excel Clouding Markup" />
                 <br>
                 <br>
-                Written in C#, it allows the user to mark
+                <span style="max-width:256px;">Written in C#, it allows the user to mark up files with revision clouding around the selected cells in different colors.</span>
                 <br>
-                up files with revision clouding around
-                <br>
-                the selected cells in different colors.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://github.com/aduguid/ScriptHelp/blob/master/README.md">Microsoft Excel Script Help (VSTO)</a>
                 <br>
@@ -379,12 +364,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
                 <br>
                 <br>
-                Written in C#, it allows the user to use
+                <span style="max-width:256px;">Written in C#, it allows the user to use a table to create different SQL scripts.</span>
                 <br>
-                a table to create different SQL scripts.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://github.com/aduguid/MicrosoftExcelFavorites/blob/master/README.md">Microsoft Excel Favorites Ribbon (VSTO)</a>
                 <br>
@@ -392,13 +376,12 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelfavoritesribbon.png" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
                 <br>
                 <br>
-                Written in VB.NET, it allows the user to
+                <span style="max-width:256px;">Written in VB.NET, it allows the user to create a custom Excel favorites ribbon.</span>
                 <br>
-                create a custom Excel favorites ribbon.
             </kbd>
         </td>
     <tr valign="top">
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://github.com/aduguid/MicrosoftVisioShapeExtract/blob/master/README.md">Microsoft Visio Shape Export (VSTO)</a>
                 <br>
@@ -406,12 +389,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstovisioshapeextract.png" align="top" width="256px" title="Microsoft Visio Shape Export" />
                 <br>
                 <br>
-                Written in VB.NET, it allows the user to
+                <span style="max-width:256px;">Written in VB.NET, it allows the user to export the shape attributes to a .csv file.</span>
                 <br>
-                export the shape attributes to a .csv file.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 Microsoft Visio Network Diagram Example
                 <br>
@@ -419,14 +401,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/visiodiagram.png" align="top" width="256px" title="Microsoft Visio Network Diagram Example" />
                 <br>
                 <br>
-                An example of a network diagram.
+                <span style="max-width:256px;">An example of a network diagram. The header and footer reference the file properties.</span>
                 <br>
-                The header and footer reference
-                <br>
-                the file properties.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://github.com/aduguid/ServerActions/blob/master/README.md">Microsoft Excel Server Actions (VBA)</a>
                 <br>
@@ -434,11 +413,8 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
                 <br>
                 <br>
-                Written in VBA to ping servers as well
+                <span style="max-width:256px;">Written in VBA to ping servers as well as create a Microsoft Remote Desktop Manager file.</span>
                 <br>
-                as create a Microsoft Remote Desktop
-                <br>
-                Manager file.
             </kbd>
         </td>
     </tr>
