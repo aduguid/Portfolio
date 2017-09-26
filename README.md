@@ -90,7 +90,7 @@ Examples of my work
         </h2>
     </caption>
     <tr valign="top">
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/SystemReports/Database%20Dictionary.rdl">Data Dictionary</a>
                 <br>
@@ -98,12 +98,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsdatadictionary.png" align="top" width="256px" title="Data Dictionary" />
                 <br>
                 <br>
-                This report is used for querying the
+                <span style="max-width:256px;">This report is used for querying the data dictionary of a SQL Server database.</span>
                 <br>
-                data dictionary of a SQL Server database.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/SystemReports/Scheduled%20Jobs.rdl">Scheduled Jobs Gantt Chart</a>
                 <br>
@@ -111,12 +110,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsscheduledjobs.png" align="top" width="256px" title="Scheduled Jobs Gantt Chart" />
                 <br>
                 <br>
-                This report is used for querying the
+                <span style="max-width:256px;">This report is used for querying the scheduled jobs for a SQL Server database.</span>
                 <br>
-                scheduled jobs for a SQL Server database.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/SystemReports/Activity%20Moniter.rdl">Activity Monitor</a>
                 <br>
@@ -124,14 +122,13 @@ Examples of my work
                 <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Activity Monitor" />
                 <br>
                 <br>
-                This report queries the activity monitor
+                <span style="max-width:256px;">This report queries the activity monitor of a SQL Server.</span>
                 <br>
-                of a SQL Server.
             </kbd>
         </td>
     </tr>
     <tr valign="top">
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/SystemReports/Report%20List.rdl">Report Listing</a>
                 <br>
@@ -139,14 +136,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportlisting.png" align="top" width="256px" title="Report Listing" />
                 <br>
                 <br>
-                This report is used for querying the
+                <span style="max-width:256px;">This report is used for querying the deployed SSRS reports, their subscriptions and their execution logs.</span>
                 <br>
-                deployed SSRS reports, their subscriptions
-                <br>
-                and their execution logs.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/SystemReports/Subscriptions.rdl">Report Subscriptions</a>
                 <br>
@@ -154,12 +148,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportsubscriptions.png" align="top" width="256px" title="Report Subscriptions" />
                 <br>
                 <br>
-                This report is used for querying the
+                <span style="max-width:256px;">This report is used for querying the deployed SSRS subscriptions.</span>
                 <br>
-                deployed SSRS subscriptions.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/SystemReports/Execution%20Log.rdl">Execution Log</a>
                 <br>
@@ -167,14 +160,13 @@ Examples of my work
                 <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Execution Log" />
                 <br>
                 <br>
-                This report is used for querying the
+                <span style="max-width:256px;">This report is used for querying the report server exection log table.</span>
                 <br>
-                report server exection log table.
             </kbd>
         </td>
     </tr>
     <tr valign="top">
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/SystemReports/Report%20Documentation.rdl">Report Documentation</a>
                 <br>
@@ -182,12 +174,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportdocumentation.png" align="top" width="256px" title="Report Documentation" />
                 <br>
                 <br>
-                This report is used for querying the
+                <span style="max-width:256px;">This report is used for querying the deployed report XML.</span>
                 <br>
-                deployed report XML.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/SystemReports/Data%20Sources.rdl">Report Data Sources</a>
                 <br>
@@ -195,12 +186,11 @@ Examples of my work
                 <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Report Data Sources" />
                 <br>
                 <br>
-                This report is used for querying the
+                <span style="max-width:256px;">This report is used for querying the deployed data sources.</span>
                 <br>
-                deployed data sources.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/SystemReports/Permissions.rdl">Report Server Folder Permissions</a>
                 <br>
@@ -208,14 +198,13 @@ Examples of my work
                 <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Report Server Folder Permissions" />
                 <br>
                 <br>
-                This report is used for querying the
+                <span style="max-width:256px;">This report is used for querying the report server folder permissions.</span>
                 <br>
-                report server folder permissions.
             </kbd>
         </td>
     </tr>
     <tr valign="top">
-        <td>
+        <td width="33%">
             <kbd>
                 S Curve Cumulative Progress
                 <br>
@@ -223,18 +212,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsscurve.png" align="top" width="256px" title="S Curve Cumulative Progress" />
                 <br>
                 <br>
-                This report is used for querying the
+                <span style="max-width:256px;">This report is used for querying the cumulative hours or sales quantities plotted against time. It is dynamicly grouped by either quarter, month or weekending.</span>
                 <br>
-                cumulative hours or sales quantities
-                <br>
-                plotted against time. It is dynamicly
-                <br>
-                grouped by either quarter, month or
-                <br>
-                weekending.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 Weekly Calendar
                 <br>
@@ -242,12 +224,11 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsnestedtablixmatrixcalendar.PNG" align="top" width="256px" title="Weekly Calendar" />
                 <br>
                 <br>
-                This report uses a nested tablix inside
+                <span style="max-width:256px;">This report uses a nested tablix inside of a matrix to create a calendar view.</span>
                 <br>
-                of a matrix to create a calendar view.
             </kbd>
         </td>
-        <td>
+        <td width="33%">
             <kbd>
                 <a href="https://gist.githubusercontent.com/aduguid/4905cd812ef2c86ad3d026be852c62ad/raw/deff6b7cd79f2b729aa31e62795cfa32956cf4f3/SSRS.heatmap_example">Heat Map Calendar</a>
                 <br>
@@ -255,11 +236,8 @@ Examples of my work
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsheatmap_calendar.png" align="top" width="256px" title="Heat Map Calendar" />
                 <br>
                 <br>
-                This report is a heat map calendar of
+                <span style="max-width:256px;">This report is a heat map calendar of events. It uses a variable for the base color.</span>
                 <br>
-                events. It uses a variable for the 
-                <br>
-                base color.
             </kbd>
         </td>
     </tr>
