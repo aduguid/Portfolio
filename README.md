@@ -43,34 +43,39 @@ Examples of my work
 <td align="center" valign="middle">
 <img align="center" src="Images/ReadMe/msdn.png" width="20px">
 </td>
-<td>
-<kbd>
-Microsoft Developer Network
-<br>
-<br>
-<table style="width:100%">
-<tr valign="top">
-<td align="center" valign="middle" width="16.5%">
-<a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">Profile</a>
-</td>
-<td align="center" valign="middle" width="16.5%">
-<a href="https://social.msdn.microsoft.com/profile/leaderboard/year?name=Anthony%2520Duguid">Rank</a>
-</td>
-<td align="center" valign="middle" width="16.5%">
-<a href="https://code.msdn.microsoft.com/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=Anthony%20Duguid">Gallery</a>
-</td>
-<td align="center" valign="middle" width="16.5%">
-<a href="http://social.technet.microsoft.com/wiki/tags/aduguid/default.aspx">Wiki</a>
-</td>
-<td align="center" valign="middle" width="16.5%">
-<a href="https://social.msdn.microsoft.com/Forums/en-US/user/threads?user=Anthony%20Duguid">Forum</a>
-</td>
-<td align="center" valign="middle" width="16.5%">
-<a href="https://social.msdn.microsoft.com/search/en-US?rq=site%3Ahttps%3A%2F%2Fblogs.msdn.microsoft.com&rn=blogs.msdn.microsoft.com&ral=1&query=Anthony+Duguid">Blog</a>
-</td>
-</tr>
-</table>
-</kbd>
+<td align="center" valign="middle">
+
+
+<a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">
+<img src="Images/ReadMe/microsoft_profile.png" width="80">
+</a>
+
+
+<a href="https://social.msdn.microsoft.com/profile/leaderboard/year?name=Anthony%2520Duguid">
+<img src="Images/ReadMe/microsoft_rank.png" width="80">
+</a>
+
+
+<a href="https://code.msdn.microsoft.com/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=Anthony%20Duguid">
+<img src="Images/ReadMe/microsoft_gallery.png" width="80">
+</a>
+
+
+<a href="http://social.technet.microsoft.com/wiki/tags/aduguid/default.aspx">
+<img src="Images/ReadMe/microsoft_wiki.png" width="80">
+</a>
+
+
+<a href="https://social.msdn.microsoft.com/Forums/en-US/user/threads?user=Anthony%20Duguid">
+<img src="Images/ReadMe/microsoft_forum.png" width="80">
+</a>
+
+
+<a href="https://social.msdn.microsoft.com/search/en-US?rq=site%3Ahttps%3A%2F%2Fblogs.msdn.microsoft.com&rn=blogs.msdn.microsoft.com&ral=1&query=Anthony+Duguid">
+<img src="Images/ReadMe/microsoft_blog.png" width="80">
+</a>
+
+
 </td>
 </tr>
 </table>
