@@ -44,6 +44,10 @@ Examples of my work
 <img align="center" src="Images/ReadMe/msdn.png" width="20px">
 </td>
 <td>
+<kbd>
+Microsoft Developer Network
+<br>
+<br>
 <table style="width:100%">
 <tr valign="top">
 <td align="center" valign="middle" width="100px">
@@ -66,6 +70,7 @@ Examples of my work
 </td>
 </tr>
 </table>
+</kbd>
 </td>
 </tr>
 </table>
