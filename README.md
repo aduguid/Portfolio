@@ -92,7 +92,7 @@ Examples of my work
     <tr valign="top">
         <td>
             <kbd>
-                <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/ExampleReports/Database%20Dictionary.rdl">Data Dictionary</a>
+                <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/SystemReports/Database%20Dictionary.rdl">Data Dictionary</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsdatadictionary.png" align="top" width="256px" title="Data Dictionary" />
@@ -105,7 +105,7 @@ Examples of my work
         </td>
         <td>
             <kbd>
-                <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/ExampleReports/Scheduled%20Jobs.rdl">Scheduled Jobs Gantt Chart</a>
+                <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/SystemReports/Scheduled%20Jobs.rdl">Scheduled Jobs Gantt Chart</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsscheduledjobs.png" align="top" width="256px" title="Scheduled Jobs Gantt Chart" />
@@ -118,7 +118,7 @@ Examples of my work
         </td>
         <td>
             <kbd>
-                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ExampleReports/Activity%20Moniter.rdl">Activity Monitor</a>
+                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/SystemReports/Activity%20Moniter.rdl">Activity Monitor</a>
                 <br>
                 <br>
                 <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Activity Monitor" />
@@ -133,7 +133,7 @@ Examples of my work
     <tr valign="top">
         <td>
             <kbd>
-                <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/ExampleReports/Report%20List.rdl">Report Listing</a>
+                <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/SystemReports/Report%20List.rdl">Report Listing</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportlisting.png" align="top" width="256px" title="Report Listing" />
@@ -148,7 +148,7 @@ Examples of my work
         </td>
         <td>
             <kbd>
-                <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/ExampleReports/Subscriptions.rdl">Report Subscriptions</a>
+                <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/SystemReports/Subscriptions.rdl">Report Subscriptions</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportsubscriptions.png" align="top" width="256px" title="Report Subscriptions" />
@@ -161,7 +161,7 @@ Examples of my work
         </td>
         <td>
             <kbd>
-                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ExampleReports/Execution%20Log.rdl">Execution Log</a>
+                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/SystemReports/Execution%20Log.rdl">Execution Log</a>
                 <br>
                 <br>
                 <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Execution Log" />
@@ -176,7 +176,7 @@ Examples of my work
     <tr valign="top">
         <td>
             <kbd>
-                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ExampleReports/Report%20Documentation.rdl">Report Documentation</a>
+                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/SystemReports/Report%20Documentation.rdl">Report Documentation</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportdocumentation.png" align="top" width="256px" title="Report Documentation" />
@@ -189,7 +189,7 @@ Examples of my work
         </td>
         <td>
             <kbd>
-               <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ExampleReports/Data%20Sources.rdl">Report Data Sources</a>
+               <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/SystemReports/Data%20Sources.rdl">Report Data Sources</a>
                 <br>
                 <br>
                 <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Report Data Sources" />
@@ -202,7 +202,7 @@ Examples of my work
         </td>
         <td>
             <kbd>
-                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ExampleReports/Permissions.rdl">Report Server Folder Permissions</a>
+                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/SystemReports/Permissions.rdl">Report Server Folder Permissions</a>
                 <br>
                 <br>
                 <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Report Server Folder Permissions" />
