@@ -15,7 +15,6 @@ Examples of my work
 <tr valign="top">
 <td align="center" valign="middle">
 <img align="center" src="Images/ReadMe/ssrs.png" width="20px">
-
 </td>
 <td align="left" valign="middle">
 <a href="#ssrs-reports">SQL Server Reporting Services (SSRS)</a>
@@ -25,7 +24,6 @@ Examples of my work
 <tr valign="top">
 <td align="center" valign="middle">
 <img align="center" src="Images/ReadMe/visualstudio.png" width="20px">
-
 </td>
 <td align="left" valign="middle">
 <a href="#visual-studio">Visual Studio Projects</a>
@@ -35,7 +33,6 @@ Examples of my work
 <tr valign="top">
 <td align="center" valign="middle">
 <img align="center" src="Images/ReadMe/office.png" width="20px">
-
 </td>
 <td align="left" valign="middle">
 <a href="#office-addins">Office Projects</a>
@@ -45,7 +42,6 @@ Examples of my work
 <tr valign="top">
 <td align="center" valign="middle">
 <img align="center" src="Images/ReadMe/msdn.png" width="20px">
-
 </td>
 <td align="center" valign="middle">
 
