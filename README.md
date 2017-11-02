@@ -70,6 +70,8 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 
 <a href="http://example.com/" target="_blank">example</a>
 
+[link](url){:target="_blank"}
+
 <br>
 <br>
 <br>
