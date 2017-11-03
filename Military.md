@@ -52,7 +52,7 @@ Units:
 
 Operations: 
  - Mishap Investigations (Camp Pendleton - 1996)
- - Joint Task Force Mission (JTF-6 ) (Coronado -1995)
+ -  <a href="https://en.wikipedia.org/wiki/Joint_Task_Force_North">Joint Task Force Mission (JTF-6 ) (Coronado -1995)</a>
  - Distant Runner (Rwanda/Burundi-1994)
  - Continue Hope (Somalia-1994)
  - Quick Draw (Somalia-1994)
