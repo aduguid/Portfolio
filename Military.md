@@ -51,7 +51,7 @@ Units:
  -  <a href="https://en.wikipedia.org/wiki/6th_Engineer_Support_Battalion">Marine Forces Reserve, 6th Engineer Support Battalion, 4th Marine Logistics Group</a>
 
 Operations: 
- - Mishap Investigations (Camp Pendleton - 1996)
+ -  <a href="http://articles.latimes.com/1996-03-06/local/me-43821_1_camp-pendleton">Mishap Investigations (Camp Pendleton - 1996)</a>
  -  <a href="https://en.wikipedia.org/wiki/Joint_Task_Force_North">Joint Task Force Mission (JTF-6 ) (Coronado -1995)</a>
   -  <a href="https://www.mca-marines.org/leatherneck/1994/08/africa-operation-distant-runner-rescues-americans">Distant Runner (Rwanda/Burundi-1994)</a>
  -  <a href="https://en.wikipedia.org/wiki/Unified_Task_Force">Continue Hope (Somalia-1994)</a>
