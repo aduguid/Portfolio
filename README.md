@@ -416,5 +416,18 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
             </kbd>
         </td>
     </tr>
+        <tr valign="top">
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/aduguid/MicrosoftVisioShapeExtract/blob/master/README.md">Microsoft Access VBA Examples</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.access.examples.png" align="top" width="256px" title="Microsoft Access VBA Examples" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in VBA, here are examples of reports and code for MS Access.</span>
+                <br>
+            </kbd>
+    </tr>
 </table>
 </html>
