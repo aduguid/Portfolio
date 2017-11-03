@@ -7,7 +7,9 @@
     </caption>
     <tr valign="top">
         <td align="center" valign="middle" width="33%">
-                <img src="/Images/Military/USMC.png" align="middle" width="128px" title="USMC" />
+         <kbd>
+                <img src="/Images/Military/aduguid.jpg" align="middle" width="128px" title="USMC" />
+         </kbd>
         </td>
         <td align="left" width="33%">
             <kbd>
