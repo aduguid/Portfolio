@@ -2,7 +2,7 @@
 <table style="width:100%">
     <caption>
         <h2>
-            <img align="left" src="/Images/Military/USMC.png" width="32px">Cpl Anthony Duguid (USMC)
+            <img align="left" src="/Images/Military/USMC.png" width="32px">Cpl Anthony Duguid USMC
         </h2>
     </caption>
     <tr valign="top">
