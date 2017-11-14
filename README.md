@@ -363,7 +363,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in VB.NET, C# and VBA, it allows the user to use a table to create different SQL scripts.</span>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to use a table to create different SQL scripts.</span>
                 <br>
             </kbd>
         </td>
