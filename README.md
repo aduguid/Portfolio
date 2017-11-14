@@ -1,4 +1,4 @@
-<img align="left" src="Images/ReadMe/business_intelligence.png" width="150px">
+<img align="left" src="Images/ReadMe/business_intelligence.png" width="175px">
 
 # Anthony Duguid
 ## Software Portfolio
