@@ -118,10 +118,10 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ServerDatabase/Activity%20Moniter.rdl">Activity Monitor</a>
                 <br>
                 <br>
-                <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Activity Monitor" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsactivitymonitor.png" align="top" width="256px" title="Activity Monitor" />
                 <br>
                 <br>
-                <span style="max-width:256px;">This report queries the activity monitor of a SQL Server.</span>
+                <span style="max-width:256px;">This report queries the activity monitor from SQL Server.</span>
                 <br>
             </kbd>
         </td>
