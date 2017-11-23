@@ -1,4 +1,4 @@
-<img align="left" src="Images/ReadMe/business_intelligence.png" width="175px">
+<img alt="" class="avatar rounded-2" src="https://avatars1.githubusercontent.com/u/26686700?s=460&amp;v=4" width="175px">
 
 # Anthony Duguid
 ## Software Portfolio
