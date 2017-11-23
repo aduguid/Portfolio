@@ -156,7 +156,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ServerReports/Execution%20Log.rdl">Execution Log</a>
                 <br>
                 <br>
-                <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Execution Log" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportexecutionlog.png" align="top" width="256px" title="Execution Log" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This report is used for querying the report server exection log table.</span>
@@ -182,7 +182,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ServerReports/Data%20Sources.rdl">Report Data Sources</a>
                 <br>
                 <br>
-                <img src="Images/ReadMe/image-not-available.png" align="top" width="256px" title="Report Data Sources" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportdatasources.png" align="top" width="256px" title="Report Data Sources" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This report is used for querying the deployed data sources.</span>
