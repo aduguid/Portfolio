@@ -246,7 +246,19 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 Mobile Report Publisher example
                 <br>
                 <br>
-                <img align="center" src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrs.mobile.report.png" width="128px" title="Mobile Report Publisher example" />
+                <img align="center" src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrs.mobile.report.png" width="128px" title="Mobile Report Publisher" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This is an example from SQL Server Mobile Report Publisher.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                Geospatial Map example
+                <br>
+                <br>
+                <img align="center" src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrs.geospatial.map.png" width="256px" title="Geospatial Map" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This is an example from SQL Server Mobile Report Publisher.</span>
