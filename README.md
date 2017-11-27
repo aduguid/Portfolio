@@ -261,7 +261,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img align="center" src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrs.geospatial.map.png" width="256px" title="Geospatial Map" />
                 <br>
                 <br>
-                <span style="max-width:256px;">This is an example from SQL Server Mobile Report Publisher.</span>
+                <span style="max-width:256px;">This is an example of a geospatial map.</span>
                 <br>
             </kbd>
         </td>
