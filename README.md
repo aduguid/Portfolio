@@ -89,6 +89,44 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
         </h2>
     </caption>
     <tr valign="top">
+            <td width="33%">
+            <kbd>
+                <a href="https://gist.githubusercontent.com/aduguid/4905cd812ef2c86ad3d026be852c62ad/raw/deff6b7cd79f2b729aa31e62795cfa32956cf4f3/SSRS.heatmap_example">Heat Map Calendar</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsheatmap_calendar.png" align="top" width="256px" title="Heat Map Calendar" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This report is a heat map calendar of events. It uses a variable for the base color.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                Geospatial Map example
+                <br>
+                <br>
+                <img align="center" src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrs.geospatial.map.png" width="256px" title="Geospatial Map" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This is an example of a geospatial map.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%" align="center" >
+             <kbd>
+                Mobile Report Publisher example
+                <br>
+                <br>
+                <img align="center" src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrs.mobile.report.png" width="64px" title="Mobile Report Publisher" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This is an example from SQL Server Mobile Report Publisher.</span>
+                <br>
+            </kbd>
+        </td>
+            </tr>
+    <tr valign="top">
         <td width="33%">
             <kbd>
                 <a href="https://raw.githubusercontent.com/aduguid/SqlServerReportingServices/master/ServerDatabase/Database%20Dictionary.rdl">Data Dictionary</a>
@@ -224,44 +262,6 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <br>
                 <br>
                 <span style="max-width:256px;">This report uses a nested tablix inside of a matrix to create a calendar view.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href="https://gist.githubusercontent.com/aduguid/4905cd812ef2c86ad3d026be852c62ad/raw/deff6b7cd79f2b729aa31e62795cfa32956cf4f3/SSRS.heatmap_example">Heat Map Calendar</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsheatmap_calendar.png" align="top" width="256px" title="Heat Map Calendar" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This report is a heat map calendar of events. It uses a variable for the base color.</span>
-                <br>
-            </kbd>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="33%">
-            <kbd>
-                Mobile Report Publisher example
-                <br>
-                <br>
-                <img align="center" src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrs.mobile.report.png" width="128px" title="Mobile Report Publisher" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This is an example from SQL Server Mobile Report Publisher.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                Geospatial Map example
-                <br>
-                <br>
-                <img align="center" src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrs.geospatial.map.png" width="256px" title="Geospatial Map" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This is an example of a geospatial map.</span>
                 <br>
             </kbd>
         </td>
