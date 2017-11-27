@@ -240,6 +240,21 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
             </kbd>
         </td>
     </tr>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                Mobile Report Publisher example
+                <br>
+                <br>
+                <img align="center" src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrs.mobile.report.png" width="128px" title="Mobile Report Publisher example" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This is an example from SQL Server Mobile Report Publisher.</span>
+                <br>
+            </kbd>
+        </td>
+    </tr>
+    </tr>
 </table>
 <br>
 <br>
