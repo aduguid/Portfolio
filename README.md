@@ -433,7 +433,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
         </td>
         <td width="33%">
             <kbd>
-                <a href="https://github.com/aduguid/ServerActions/blob/master/README.md">Microsoft Excel Server Actions (VBA)</a>
+                <a href="https://github.com/aduguid/ServerActions/blob/master/README.md">Microsoft Excel Server Actions (VSTO)</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
