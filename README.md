@@ -415,7 +415,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstovisioshapeextract.png" align="top" width="256px" title="Microsoft Visio Shape Export" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in VB.NET, it allows the user to export the shape attributes to a .csv file.</span>
+                <span style="max-width:256px;">Written in VB.NET and VBA, it allows the user to export the shape attributes to a .csv file.</span>
                 <br>
             </kbd>
         </td>
