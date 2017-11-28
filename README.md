@@ -436,26 +436,12 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <a href="https://github.com/aduguid/MicrosoftVisioShapeExtract/blob/master/README.md">Microsoft Visio Shape Export (VSTO)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstovisioshapeextract.png" align="top" width="256px" title="Microsoft Visio Shape Export" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.visio.shape.extract.png" align="top" width="256px" title="Microsoft Visio Shape Export" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in VB.NET and VBA, it allows the user to export the shape attributes to a .csv file.</span>
                 <br>
             </kbd>
         </td>
-    </tr>
-        <tr valign="top">
-        <td width="33%">
-            <kbd>
-                Microsoft Visio Network Diagram Example
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/visiodiagram.png" align="top" width="256px" title="Microsoft Visio Network Diagram Example" />
-                <br>
-                <br>
-                <span style="max-width:256px;">An example of a network diagram. The header and footer reference the file properties.</span>
-                <br>
-            </kbd>
-    </tr>
 </table>
 </html>
