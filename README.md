@@ -372,6 +372,30 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
     <tr valign="top">
         <td width="33%">
             <kbd>
+                <a href="https://github.com/aduguid/ScriptHelp/blob/master/README.md">Microsoft Excel Script Help (VSTO)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to use a table to create different SQL scripts.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+              <kbd>
+                <a href="https://github.com/aduguid/ServerActions/blob/master/README.md">Microsoft Excel Server Actions (VSTO)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in VB.NET and VBA to ping servers as well as create a Microsoft Remote Desktop Manager file.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+              <kbd>
                 Microsoft Excel Clouding Markup (VSTO)
                 <br>
                 <br>
@@ -382,15 +406,16 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <br>
             </kbd>
         </td>
+    <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href="https://github.com/aduguid/ScriptHelp/blob/master/README.md">Microsoft Excel Script Help (VSTO)</a>
+                <a href="https://github.com/aduguid/MicrosoftAccessExamples/blob/master/README.md">Microsoft Access VBA Examples</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.access.examples.png" align="top" width="256px" title="Microsoft Access VBA Examples" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to use a table to create different SQL scripts.</span>
+                <span style="max-width:256px;">Written in VBA, here are examples of reports and code for MS Access.</span>
                 <br>
             </kbd>
         </td>
@@ -406,7 +431,6 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <br>
             </kbd>
         </td>
-    <tr valign="top">
         <td width="33%">
             <kbd>
                 <a href="https://github.com/aduguid/MicrosoftVisioShapeExtract/blob/master/README.md">Microsoft Visio Shape Export (VSTO)</a>
@@ -419,6 +443,8 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <br>
             </kbd>
         </td>
+    </tr>
+        <tr valign="top">
         <td width="33%">
             <kbd>
                 Microsoft Visio Network Diagram Example
@@ -428,32 +454,6 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <br>
                 <br>
                 <span style="max-width:256px;">An example of a network diagram. The header and footer reference the file properties.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/aduguid/ServerActions/blob/master/README.md">Microsoft Excel Server Actions (VSTO)</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in VB.NET and VBA to ping servers as well as create a Microsoft Remote Desktop Manager file.</span>
-                <br>
-            </kbd>
-        </td>
-    </tr>
-        <tr valign="top">
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/aduguid/MicrosoftAccessExamples/blob/master/README.md">Microsoft Access VBA Examples</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.access.examples.png" align="top" width="256px" title="Microsoft Access VBA Examples" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in VBA, here are examples of reports and code for MS Access.</span>
                 <br>
             </kbd>
     </tr>
