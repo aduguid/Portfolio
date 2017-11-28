@@ -289,7 +289,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwinformactivediretorysearch.png" align="top" width="256px" title="Active Directory Search" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in C#/Windows Forms, it allows the user to search Active Directory and save the results to a .csv file</span>
+                <span style="max-width:256px;">Written in C#/VB.NET, Windows Forms, it allows the user to search Active Directory and save the results to a .csv file</span>
                 <br>
             </kbd>
         </td>
@@ -301,7 +301,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Tool" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in VB.NET/WPF, it allows the user to batch plot AutoCAD files.</span>
+                <span style="max-width:256px;">Written in VB.NET, Windows Presentation Foundation (WPF), it allows the user to batch plot AutoCAD files.</span>
                 <br>
             </kbd>
         </td>
@@ -313,7 +313,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Tool" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in VB.NET/WPF, it allows the user to export entity attributes from AutoCAD files.</span>
+                <span style="max-width:256px;">Written in VB.NET, Windows Presentation Foundation (WPF), it allows the user to export entity attributes from AutoCAD files.</span>
                 <br>
             </kbd>
         </td>
@@ -327,7 +327,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfdocumentumscriptadministrator.png" align="top" width="256px" title="Documentum Script Administrator" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in C#/WPF, it allows the user to run a file as one command against the idql32/64.</span>
+                <span style="max-width:256px;">Written in C#/VB.NET, Windows Presentation Foundation (WPF), it allows the user to run a file as one command against the idql32/64.</span>
                 <br>
             </kbd>
         </td>
