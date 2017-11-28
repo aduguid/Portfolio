@@ -439,7 +439,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in VBA to ping servers as well as create a Microsoft Remote Desktop Manager file.</span>
+                <span style="max-width:256px;">Written in VB.NET and VBA to ping servers as well as create a Microsoft Remote Desktop Manager file.</span>
                 <br>
             </kbd>
         </td>
