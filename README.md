@@ -378,7 +378,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpvstoexcelcloudmarkuptool.png" align="top" width="256px" title="Microsoft Excel Clouding Markup" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in C#, it allows the user to mark up files with revision clouding around the selected cells in different colors.</span>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to mark up files with revision clouding around the selected cells in different colors.</span>
                 <br>
             </kbd>
         </td>
@@ -402,7 +402,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelfavoritesribbon.png" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in VB.NET, it allows the user to create a custom Excel favorites ribbon.</span>
+                <span style="max-width:256px;">Written in VB.NET and VBA, it allows the user to create a custom Excel favorites ribbon.</span>
                 <br>
             </kbd>
         </td>
