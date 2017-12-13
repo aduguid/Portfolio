@@ -258,7 +258,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 Weekly Calendar
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsnestedtablixmatrixcalendar.png?" align="top" width="256px" title="Weekly Calendar" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsnestedtablixmatrixcalendar.png" align="top" width="256px" title="Weekly Calendar" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This report uses a nested tablix inside of a matrix to create a calendar view.</span>
