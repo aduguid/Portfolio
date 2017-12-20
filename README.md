@@ -427,7 +427,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.favorites.png" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in VB.NET and VBA, it allows the user to create a custom Excel favorites ribbon.</span>
+                <span style="max-width:256px;">Written in C#/VB.NET and VBA, it allows the user to create a custom Excel favorites ribbon.</span>
                 <br>
             </kbd>
         </td>
