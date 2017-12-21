@@ -76,7 +76,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 
 ## GitHub Summary
 
-<img src="Images/ReadMe/github.profile.summary.png?" width="1000">
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/github.profile.summary.png?" width="1000">
 <br>
 <br>
 <br>
