@@ -73,6 +73,10 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 <br>
 <br>
 <br>
+
+## GitHub Summary
+
+<img src="Images/ReadMe/github.profile.summary.png" width="1000">
 <br>
 <br>
 <br>
