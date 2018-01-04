@@ -14,6 +14,15 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
             Table of Contents
         </h2>
     </caption>
+    
+<tr valign="top">
+<td align="center" valign="middle">
+<img align="center" src="Images/ReadMe/github.png" width="20px">
+</td>
+<td align="left" valign="middle">
+<a href="#github-summary">GitHub Summary</a>
+</td>
+</tr>
 
 <tr valign="top">
 <td align="center" valign="middle">
@@ -75,6 +84,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 <br>
 
 ## GitHub Summary
+<a id="user-content-github-summary" class="anchor" href="#github-summary" aria-hidden="true"> </a>
 <a href="https://github-profile-summary.com/user/aduguid">
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/github.profile.summary.png?" width="1000">
 <br>
