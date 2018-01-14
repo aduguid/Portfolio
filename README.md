@@ -80,6 +80,11 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 
 <br>
 <br>
+
+<a href="https://stackoverflow.com/users/9059424/tony-d">
+<img src="https://stackoverflow.com/users/flair/9059424.png" width="208" height="58" alt="profile for Tony D at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tony D at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
+
 <br>
 <br>
 
