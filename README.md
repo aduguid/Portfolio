@@ -43,7 +43,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 
 <tr valign="top">
 <td align="center" valign="middle">
-<img align="center" src="Images/ReadMe/stackoverflow.png" width="20px">
+<img align="center" src="Images/ReadMe/stackoverflow2.png" width="20px">
 </td>
 <td align="left" valign="middle">
 <a href="https://stackoverflow.com/users/9059424/tony-d">
