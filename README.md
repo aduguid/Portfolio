@@ -67,7 +67,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 <img align="center" src="Images/ReadMe/ssrs.png" width="20px">
 </td>
 <td align="left" valign="middle">
-<a href="#ssrs-reports">Business Intelligence Projects</a>
+<a href="#ssrs-reports">Business Intelligence</a>
 </td>
 </tr>
 
@@ -76,7 +76,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 <img align="center" src="Images/ReadMe/visualstudio.png" width="20px">
 </td>
 <td align="left" valign="middle">
-<a href="#visual-studio">Visual Studio Projects</a>
+<a href="#visual-studio">Visual Studio</a>
 </td>
 </tr>
 
@@ -85,7 +85,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 <img align="center" src="Images/ReadMe/office.png" width="20px">
 </td>
 <td align="left" valign="middle">
-<a href="#office-addins">Office Projects</a>
+<a href="#office-addins">Office</a>
 </td>
 </tr>
 
