@@ -67,7 +67,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 <img align="center" src="Images/ReadMe/ssrs.png" width="20px">
 </td>
 <td align="left" valign="middle">
-<a href="#ssrs-reports">SQL Server Reporting Services (SSRS)</a>
+<a href="#ssrs-reports">Business Intelligence Projects</a>
 </td>
 </tr>
 
@@ -111,7 +111,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/ssrs.png" width="32px">
-            SQL Server Reporting Services (SSRS)
+            Business Intelligence Projects
         </h2>
     </caption>
     <tr valign="top">
