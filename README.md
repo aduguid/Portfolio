@@ -46,9 +46,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 <img align="center" src="Images/ReadMe/stackoverflow2.png" width="20px">
 </td>
 <td align="left" valign="middle">
-<a href="https://stackoverflow.com/users/9059424/tony-d">
-<img src="https://stackoverflow.com/users/flair/9059424.png" width="150" height="40" alt="profile for Tony D at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Tony D at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+<a href="https://stackexchange.com/users/12441351/tony-d"><img src="https://stackexchange.com/users/flair/12441351.png" width="208" height="58" alt="profile for Tony D on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tony D on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 </td>
 </tr>
 
