@@ -20,8 +20,9 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 <img align="center" src="Images/ReadMe/msdn.png" width="20px">
 </td>
 <td align="center" valign="middle">
+
 <a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">
-<img src="Images/ReadMe/msdn_profile.png" width="80">
+<img src="Images/ReadMe/msdn_profile.png?" width="80">
 </a>
 <a href="https://social.msdn.microsoft.com/profile/leaderboard/year?name=Anthony%2520Duguid">
 <img src="Images/ReadMe/msdn_rank.png" width="80">
