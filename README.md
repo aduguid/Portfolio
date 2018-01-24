@@ -21,6 +21,8 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 </td>
 <td align="center" valign="middle">
 
+https://github.com/aduguid/SoftwarePortfolio/blob/master/Images/ReadMe/msdn_profile.png?
+
 <a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">
 <img src="Images/ReadMe/msdn_profile.png?" width="80">
 </a>
