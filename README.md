@@ -1,6 +1,6 @@
 <img alt="" class="avatar rounded-2" src="https://avatars1.githubusercontent.com/u/26686700?s=460&amp;v=4" width="175px">
 
-# Anthony Duguid
+
 ## Software Portfolio
 On this page are examples of my work. If you'd like to speak to me about employment, please contact me through my <a href="https://www.linkedin.com/in/anthonyduguid/">LinkedIn</a> profile.
 
@@ -22,7 +22,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 </td>
 <td align="left" valign="middle">
 
-<a href="https://social.technet.microsoft.com/profile/anthony%20duguid/">
+<a href="https://social.technet.microsoft.com/profile/aduguid/">
 <img src="Images/ReadMe/msdn_profile.png?" width="150">
 </a>
 
@@ -34,7 +34,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 <img align="center" src="Images/ReadMe/stackexchange.png" width="20px">
 </td>
 <td align="left" valign="middle">
-<a href="https://stackexchange.com/users/12441351/tony-d"><img src="https://stackexchange.com/users/flair/12441351.png?" width="208" height="58" alt="profile for Tony D on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tony D on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+<a href="https://stackexchange.com/users/9059424/aduguid"><img src="https://stackexchange.com/users/flair/12441351.png?" width="208" height="58" alt="profile for Tony D on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tony D on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 </td>
 </tr>
 
