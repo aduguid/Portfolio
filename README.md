@@ -1,6 +1,5 @@
 <img alt="" class="avatar rounded-2" src="https://avatars1.githubusercontent.com/u/26686700?s=460&amp;v=4" width="175px">
 
-
 ## Software Portfolio
 On this page are examples of my work. If you'd like to speak to me about employment, please contact me through my <a href="https://www.linkedin.com/in/anthonyduguid/">LinkedIn</a> profile.
 
