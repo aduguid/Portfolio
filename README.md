@@ -43,7 +43,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 </td>
 <td align="center" valign="middle">
 <a href="https://stackexchange.com/users/12441351">
-<img src="https://stackexchange.com/users/flair/12441351.png?theme=clean" width="208" height="58" alt="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+<img src="https://stackexchange.com/users/flair/12441351.png?theme=clean" height="58" alt="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites">
 </td>
 </tr>
 
