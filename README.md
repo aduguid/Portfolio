@@ -55,7 +55,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 <td align="left" valign="middle">
 <a href="#github-summary">GitHub Summary</a>
 </td>
-<td align="center" valign="middle">
+<td align="left" valign="middle">
     
 ![repositories 15](https://img.shields.io/badge/repositories-15-brightgreen.svg)
 <br>
