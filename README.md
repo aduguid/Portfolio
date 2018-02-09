@@ -394,7 +394,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/office.png" width="32px">
-            Office Projects
+            <a href="https://github.com/Office-projects">Office Projects</a>
         </h2>
     </caption>
     <tr valign="top">
