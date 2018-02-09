@@ -113,7 +113,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/ssrs.png" width="32px">
-            Business Intelligence Projects
+            <a href="https://github.com/SQL-Server-projects">Business Intelligence Projects</a>
         </h2>
     </caption>
     <tr valign="top">
@@ -305,7 +305,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/visualstudio.png" width="32px">
-            Visual Studio Projects
+            <a href="https://github.com/Visual-Studio-projects">Visual Studio Projects</a>
         </h2>
     </caption>
     <tr valign="top">
