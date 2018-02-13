@@ -403,7 +403,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <a href="https://github.com/aduguid/ScriptHelp/blob/master/README.md">Microsoft Excel Script Help (VSTO)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonscripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.scripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to use a table to create different SQL scripts.</span>
