@@ -400,7 +400,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href="https://github.com/aduguid/ScriptHelp/blob/master/README.md">Microsoft Excel Script Help (VSTO)</a>
+                <a href="https://github.com/Office-projects/Script-Help/blob/master/README.md">Microsoft Excel Script Help (VSTO)</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.scripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
@@ -412,7 +412,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
         </td>
         <td width="33%">
               <kbd>
-                <a href="https://github.com/aduguid/ServerActions/blob/master/README.md">Microsoft Excel Server Actions (VSTO)</a>
+                <a href="https://github.com/Office-projects/Server-Actions/blob/master/README.md">Microsoft Excel Server Actions (VSTO)</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
@@ -437,7 +437,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href="https://github.com/aduguid/MicrosoftAccessExamples/blob/master/README.md">Microsoft Access VBA Examples</a>
+                <a href="https://github.com/Office-projects/Access-examples/blob/master/README.md">Microsoft Access VBA Examples</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.access.examples.png" align="top" width="256px" title="Microsoft Access VBA Examples" />
@@ -449,7 +449,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
         </td>
         <td width="33%">
             <kbd>
-                <a href="https://github.com/aduguid/MicrosoftExcelFavorites/blob/master/README.md">Microsoft Excel Favorites Ribbon (VSTO)</a>
+                <a href="https://github.com/Office-projects/Excel-Favorites/blob/master/README.md">Microsoft Excel Favorites Ribbon (VSTO)</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.favorites.png" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
@@ -461,7 +461,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
         </td>
         <td width="33%">
             <kbd>
-                <a href="https://github.com/aduguid/MicrosoftVisioShapeExtract/blob/master/README.md">Microsoft Visio Shape Export (VSTO)</a>
+                <a href="https://github.com/Office-projects/Visio-Shape-Extract/blob/master/README.md">Microsoft Visio Shape Export (VSTO)</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.visio.shape.extract2.png" align="top" width="256px" title="Microsoft Visio Shape Export" />
