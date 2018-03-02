@@ -47,7 +47,6 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 </td>
 </tr>
 
-
 <tr valign="top">
 <td align="center" valign="middle">
 <img align="center" src="Images/ReadMe/github.png" width="20px">
