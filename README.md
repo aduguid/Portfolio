@@ -32,7 +32,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 
 <tr valign="top">
 <td align="left" valign="middle">
-<img align="center" src="Images/ReadMe/stackexchange.png" width="48px">
+<img align="center" src="Images/ReadMe/stackexchange.png?" width="48px">
 <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts">
     Stack Exchange 
 </a>
