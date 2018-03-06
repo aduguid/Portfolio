@@ -78,7 +78,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 <br>
 <br>
 
-<h2> <img align="center" src="Images/ReadMe/github.png" width="32px"> GitHub Summary </>
+<h2> <img align="center" src="Images/ReadMe/github.png" width="32px"> GitHub Summary </h2>
 <br>
 <br>
 <a id="user-content-github-summary" class="anchor" href="#github-summary" aria-hidden="true"> </a>
