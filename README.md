@@ -15,10 +15,8 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
     </caption>
 
 <tr valign="top">
-<td align="center" valign="middle">
-<img align="center" src="Images/ReadMe/msdn.png" width="20px">
-</td>
 <td align="left" valign="middle">
+    <img align="center" src="Images/ReadMe/msdn.png" width="48px">
 <a href="https://social.technet.microsoft.com/profile/aduguid/">Microsoft Developer Network 
 </a>
 
@@ -33,10 +31,8 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 </tr>
 
 <tr valign="top">
-<td align="center" valign="middle">
-<img align="center" src="Images/ReadMe/stackexchange.png" width="20px">
-</td>
 <td align="left" valign="middle">
+<img align="center" src="Images/ReadMe/stackexchange.png" width="48px">
 <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts">
     Stack Exchange 
 </a>
@@ -48,45 +44,30 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 </tr>
 
 <tr valign="top">
-<td align="center" valign="middle">
-<img align="center" src="Images/ReadMe/github.png" width="20px">
-</td>
 <td align="left" valign="middle">
+<img align="center" src="Images/ReadMe/github.png" width="48px">
 <a href="#github-summary">GitHub Summary</a>
 </td>
-<td align="left" valign="middle">
-    
-![repositories 15](https://img.shields.io/badge/repositories-15-brightgreen.svg)
-<br>
-![languages 8](https://img.shields.io/badge/languages-8-brightgreen.svg)
+</tr>
 
+<tr valign="top">
+<td align="left" valign="middle">
+<img align="center" src="Images/ReadMe/ssrs.png" width="48px">
+<a href="#ssrs-reports">Business Intelligence Projects</a>
 </td>
 </tr>
 
 <tr valign="top">
-<td align="center" valign="middle">
-<img align="center" src="Images/ReadMe/ssrs.png" width="20px">
-</td>
 <td align="left" valign="middle">
-<a href="#ssrs-reports">Business Intelligence</a>
+<img align="center" src="Images/ReadMe/visualstudio.png" width="48px">
+<a href="#visual-studio">Visual Studio Projects</a>
 </td>
 </tr>
 
 <tr valign="top">
-<td align="center" valign="middle">
-<img align="center" src="Images/ReadMe/visualstudio.png" width="20px">
-</td>
 <td align="left" valign="middle">
-<a href="#visual-studio">Visual Studio</a>
-</td>
-</tr>
-
-<tr valign="top">
-<td align="center" valign="middle">
-<img align="center" src="Images/ReadMe/office.png" width="20px">
-</td>
-<td align="left" valign="middle">
-<a href="#office-addins">Office</a>
+<img align="center" src="Images/ReadMe/office.png" width="48px">
+<a href="#office-addins">Office Projects</a>
 </td>
 </tr>
 
