@@ -18,8 +18,8 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 <tr valign="top">
 <td align="left" valign="middle">
     <img align="center" src="Images/ReadMe/msdn.png" width="48px">
-<a href="https://social.technet.microsoft.com/profile/aduguid/">Microsoft Developer Network 
-<a href="https://social.technet.microsoft.com/profile/aduguid/">
+<a href="https://social.msdn.microsoft.com/profile/aduguid/">Microsoft Developer Network 
+<a href="https://social.msdn.microsoft.com/profile/aduguid/">
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile.png?" width="150" valign="middle" align="right">
 </a>
 
