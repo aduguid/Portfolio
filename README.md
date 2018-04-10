@@ -4,7 +4,7 @@
 On this page are examples of my work. If you'd like to speak to me about employment, please contact me through my <a href="https://www.linkedin.com/in/anthonyduguid/">LinkedIn</a> profile.
 
 I am proficient with all phases of the system development life cycle (SDLC). Significant efforts include automating processes between applications, creating installations, creating help files and creating packaged software. Expertise in generating reports using SQL Server Reporting Services (SSRS) and Business Objects. I have built a synchronized Data Warehouse and multiple SSRS report solutions. Excellent knowledge in creating databases, tables, stored procedures, transactions, common table expressions, DDL/DML triggers, views, user defined data types, functions, cursors and indexes using T-SQL. Experience in performance tuning, query optimization and root cause analysis. Excellent analytical, communication and interpersonal skills. Proficient in technical writing and presentations and a good team player. Ability to work independently or as part of a team to accomplish critical business objectives and to make decisions under pressure. Efforts include utilizing a clean code approach to agile methodology.
- 
+
 <br>
 
 <table style="width:100%">
