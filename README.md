@@ -358,6 +358,25 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
             </kbd>
         </td>
     </tr>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                <a>Visual Studio Team Services Dashboard</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/team.services.dashboard.png" align="top" width="256px" title="Visual Studio Team Services Dashboard" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Created a dashboards in Visual Studio Team Services.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+        </td>
+        <td width="33%">
+        </td>
+    </tr>
+
 </table>
 <br>
 <br>
