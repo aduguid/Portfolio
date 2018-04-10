@@ -28,11 +28,11 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 
 <tr valign="top">
 <td align="left" valign="middle">
-<img align="center" src="Images/ReadMe/stackexchange.png?" width="50px">
+<img align="center" src="Images/ReadMe/stackexchange.png" width="48px">
 <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts">
     Stack Exchange 
 </a>   
-<a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts"><img src="https://stackexchange.com/users/flair/12441351.png?" width="208" height="58" alt="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" valign="middle" align="right"/></a>    
+<a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts"><img src="https://stackexchange.com/users/flair/12441351.png" width="208" height="58" alt="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" valign="middle" align="right"/></a>    
 
 </td>
 </tr>
