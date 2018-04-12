@@ -411,7 +411,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Actions" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in VB.NET and VBA to ping servers as well as create a Microsoft Remote Desktop Manager file.</span>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA to ping servers as well as create a Microsoft Remote Desktop Manager file.</span>
                 <br>
             </kbd>
         </td>
@@ -448,7 +448,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.favorites.png" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in C#/VB.NET and VBA, it allows the user to create a custom Excel favorites ribbon.</span>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to create a custom Excel favorites ribbon.</span>
                 <br>
             </kbd>
         </td>
@@ -460,7 +460,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.visio.shape.extract2.png" align="top" width="256px" title="Microsoft Visio Shape Export" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in VB.NET and VBA, it allows the user to export the shape attributes to a .csv file.</span>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to export the shape attributes to a .csv file.</span>
                 <br>
             </kbd>
         </td>
