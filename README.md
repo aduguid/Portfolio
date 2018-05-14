@@ -20,7 +20,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
     <img align="center" src="Images/ReadMe/msdn.png" width="48px">
 <a href="https://social.msdn.microsoft.com/profile/aduguid/">Microsoft Developer Network 
 <a href="https://social.msdn.microsoft.com/profile/aduguid/">
-<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile.png#1" width="150" valign="middle" align="right">
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile.png#2" width="150" valign="middle" align="right">
 </a>
 
 </td>
@@ -33,7 +33,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts">
     Stack Exchange 
 </a>   
-<a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts"><img src="https://stackexchange.com/users/flair/12441351.png" width="208" height="58" alt="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" valign="middle" align="right"/></a>    
+<a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts"><img src="https://stackexchange.com/users/flair/12441351.png?" width="208" height="58" alt="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" valign="middle" align="right"/></a>    
 
 </td>
 </tr>
