@@ -7,6 +7,7 @@ I am proficient with all phases of the system development life cycle (SDLC). Sig
 
 <br>
 
+
 <table style="width:100%">
     <caption>
         <h2>
