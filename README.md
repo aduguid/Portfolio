@@ -232,7 +232,7 @@ On this page are examples of my work. If you'd like to speak to me about employm
                 <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ServerReports/Permissions.rdl">Report Server Folder Permissions</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportfolderpermissions.png" align="top" width="256px" title="Report Server Folder Permissions" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportfolderpermissions.png?" align="top" width="256px" title="Report Server Folder Permissions" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This report is used for querying the report server folder permissions.</span>
