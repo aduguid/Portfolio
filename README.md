@@ -403,7 +403,7 @@ On this page are examples of my work. If you'd like to speak to me about employm
         </td>
         <td width="33%">
               <kbd>
-                <a href="https://github.com/Office-projects/Server-Actions/blob/master/README.md">Microsoft Excel Server Actions (VSTO)</a>
+                <a href="https://github.com/Office-projects/Server-Actions/blob/master/README.md">Microsoft Excel Server Help (VSTO)</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Help" />
