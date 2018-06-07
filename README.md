@@ -406,7 +406,7 @@ On this page are examples of my work. If you'd like to speak to me about employm
                 <a href="https://github.com/Office-projects/Server-Actions/blob/master/README.md">Microsoft Excel Server Help (VSTO)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vstoexcelribbonserveractions.gif" align="top" width="256px" title="Microsoft Excel Server Help" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.serverhelp.gif" align="top" width="256px" title="Microsoft Excel Server Help" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in C#, VB.NET and VBA to ping servers as well as create a Microsoft Remote Desktop Manager file.</span>
