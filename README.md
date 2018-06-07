@@ -415,10 +415,10 @@ On this page are examples of my work. If you'd like to speak to me about employm
         </td>
         <td width="33%">
               <kbd>
-                Microsoft Excel Clouding Markup (VSTO)
+                Microsoft Excel Engineering Markup (VSTO)
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpvstoexcelcloudmarkuptool.png" align="top" width="256px" title="Microsoft Excel Clouding Markup" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.markup.gif" align="top" width="256px" title="Microsoft Excel Engineering Markup" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to mark up files with revision clouding around the selected cells in different colors.</span>
