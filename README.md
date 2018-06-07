@@ -14,7 +14,7 @@ On this page are examples of my work. If you'd like to speak to me about employm
 
 <tr valign="top">
 <td align="left" valign="middle">
-    <img align="center" src="Images/ReadMe/msdn.png" width="48px">
+    <img align="center" src="Images/ReadMe/msdn.png" width="32px">
 <a href="https://social.msdn.microsoft.com/profile/aduguid/">Microsoft Developer Network 
 <a href="https://social.msdn.microsoft.com/profile/aduguid/">
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile.png#3" width="150" valign="middle" align="right">
@@ -26,7 +26,7 @@ On this page are examples of my work. If you'd like to speak to me about employm
 
 <tr valign="top">
 <td align="left" valign="middle">
-<img align="center" src="Images/ReadMe/stackexchange.png" width="48px">
+<img align="center" src="Images/ReadMe/stackexchange.png" width="32px">
 <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts">
     Stack Exchange 
 </a>   
@@ -37,28 +37,28 @@ On this page are examples of my work. If you'd like to speak to me about employm
 
 <tr valign="top">
 <td align="left" valign="middle">
-<img align="center" src="Images/ReadMe/github.png" width="48px">
+<img align="center" src="Images/ReadMe/github.png" width="32px">
 <a href="#github-summary">GitHub Summary</a>
 </td>
 </tr>
 
 <tr valign="top">
 <td align="left" valign="middle">
-<img align="center" src="Images/ReadMe/ssrs.png" width="48px">
+<img align="center" src="Images/ReadMe/ssrs.png" width="32px">
 <a href="#ssrs-reports">Business Intelligence Projects</a>
 </td>
 </tr>
 
 <tr valign="top">
 <td align="left" valign="middle">
-<img align="center" src="Images/ReadMe/visualstudio.png" width="48px">
+<img align="center" src="Images/ReadMe/visualstudio.png" width="32px">
 <a href="#visual-studio">Visual Studio Projects</a>
 </td>
 </tr>
 
 <tr valign="top">
 <td align="left" valign="middle">
-<img align="center" src="Images/ReadMe/office.png" width="48px">
+<img align="center" src="Images/ReadMe/office.png" width="32px">
 <a href="#office-addins">Office Projects</a>
 </td>
 </tr>
