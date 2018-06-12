@@ -69,7 +69,7 @@ On this page are examples of my work. If you'd like to speak to me about employm
 <br>
 <br>
 <br>
-
+<! https://profile-summary-for-github.com/search />
 <h2> <img align="center" src="Images/ReadMe/github.png" width="32px"> GitHub Summary </h2>
 <a id="user-content-github-summary" class="anchor" href="#github-summary" aria-hidden="true"> </a>
 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/github.profile.summary.png?" width="1000">
