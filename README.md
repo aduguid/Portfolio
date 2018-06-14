@@ -383,10 +383,6 @@ On this page are examples of my work. If you'd like to speak to me about employm
         </td>
         <td width="33%">
         </td>
-        <td width="33%">
-        </td>
-        <td width="33%">
-        </td>
     </tr>
 
 </table>
