@@ -359,15 +359,29 @@ On this page are examples of my work. If you'd like to speak to me about employm
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a>Visual Studio Team Services Dashboard</a>
+                <a>Visual Studio Team Services Dashboard (Report Project)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/team.services.dashboard.png" align="top" width="256px" title="Visual Studio Team Services Dashboard" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsts.dashboard.reportsproject.png" align="top" width="256px" title="Visual Studio Team Services Dashboard (Report Project)" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Created dashboards in Visual Studio Team Services.</span>
+                <span style="max-width:256px;">Dashboard for SSRS report solution project in Visual Studio Team Services.</span>
                 <br>
             </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a>Visual Studio Team Services Dashboard (All Projects)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsts.dashboard.allprojects.png" align="top" width="256px" title="Visual Studio Team Services Dashboard (All Projects)" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Dashboard for all projects in Visual Studio Team Services.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
         </td>
         <td width="33%">
         </td>
