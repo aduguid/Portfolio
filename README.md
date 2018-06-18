@@ -18,7 +18,7 @@ On this page are examples of my work. If you'd like to speak to me about employm
     <img align="center" src="Images/ReadMe/msdn.png" width="32px">
 <a href="https://social.msdn.microsoft.com/profile/aduguid/">Microsoft Developer Network 
 <a href="https://social.msdn.microsoft.com/profile/aduguid/">
-<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile.png#3" width="150" valign="middle" align="right">
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile2.png#3" width="150" valign="middle" align="right">
 </a>
 
 </td>
