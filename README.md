@@ -287,7 +287,7 @@ On this page are examples of my work. If you'd like to speak to me about employm
                 <a href="https://github.com/aduguid/ActiveDirectorySearch/blob/master/README.md">Active Directory Search</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwinformactivediretorysearch.png" align="top" width="256px" title="Active Directory Search" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwinformactivediretorysearch2.png" align="top" width="256px" title="Active Directory Search" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in C#/VB.NET, Windows Forms, it allows the user to search Active Directory and save the results to a .csv file</span>
