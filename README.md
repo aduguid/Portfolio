@@ -435,16 +435,17 @@ On this page are examples of my work. If you'd like to speak to me about employm
                 <br>
             </kbd>
         </td>
+    </tr>
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Office-projects/Access-examples/blob/master/README.md">Microsoft Access VBA Examples</a>
+                <a>Microsoft Excel Cell Extract Addin (VBA)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.access.examples.png" align="top" width="256px" title="Microsoft Access VBA Examples" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.excel.ribbon.cellextract.gif" align="top" width="256px" title="Microsoft Excel Cell Extract Addin" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in VBA, here are examples of reports and code for MS Access.</span>
+                <span style="max-width:256px;">Written in VBA, this project was done as an Excel Addin with a ribbon to import enrollment data from 500 files. The median import time is 2 seconds per file. I used a column mapping to the cell references in multiple sheets to generate the import specification.</span>
                 <br>
             </kbd>
         </td>
@@ -472,5 +473,20 @@ On this page are examples of my work. If you'd like to speak to me about employm
                 <br>
             </kbd>
         </td>
+    </tr>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Office-projects/Access-examples/blob/master/README.md">Microsoft Access VBA Examples</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.access.examples.png" align="top" width="256px" title="Microsoft Access VBA Examples" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in VBA, here are examples of reports and code for MS Access.</span>
+                <br>
+            </kbd>
+        </td>
+     </tr>
 </table>
 </html>
