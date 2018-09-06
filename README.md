@@ -1,4 +1,6 @@
-<img align="left" src="Images/ReadMe/Portfolio.gif" width="250px">
+<head>
+    <img align="left" src="Images/ReadMe/Portfolio.gif" width="250px">
+</head>
 
 On this page are examples of my work. If you'd like to speak to me about employment, please contact me through my <a href="https://www.linkedin.com/in/anthonyduguid/">LinkedIn</a> profile.
 
