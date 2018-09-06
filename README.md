@@ -192,10 +192,10 @@
         </td>
         <td width="33%">
             <kbd>
-                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ServerReports/Execution%20Log.rdl">Execution Log</a>
+                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ServerReports/Execution%20Log.rdl">Report Execution Log</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportexecutionlog.png" align="top" width="256px" title="Execution Log" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsreportexecutionlog.png" align="top" width="256px" title="Report Execution Log" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This report is used for querying the report server exection log table.</span>
