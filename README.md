@@ -452,6 +452,18 @@
         </td>
         <td width="33%">
             <kbd>
+                <a href="https://github.com/Office-projects/Excel-Timesheet/blob/master/README.md">Microsoft Excel Timesheet Ribbon (VBA)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/Office-projects/Excel-Timesheet/master/Images/ReadMe/screenshot.png" align="top" width="256px" title="Microsoft Excel Timesheet Ribbon" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This Add-In is used to produce a timesheet file with functionality to import your Google Timeline.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
                 <a href="https://github.com/Office-projects/Excel-Favorites/blob/master/README.md">Microsoft Excel Favorites Ribbon (VSTO)</a>
                 <br>
                 <br>
@@ -459,18 +471,6 @@
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to create a custom Excel favorites ribbon.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/Office-projects/Visio-Shape-Extract/blob/master/README.md">Microsoft Visio Shape Export (VSTO)</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.visio.shape.extract2.png" align="top" width="256px" title="Microsoft Visio Shape Export" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to export the shape attributes to a .csv file.</span>
                 <br>
             </kbd>
         </td>
@@ -485,6 +485,19 @@
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in VBA, here are examples of reports and code for MS Access.</span>
+                <br>
+            </kbd>
+        </td>
+                </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Office-projects/Visio-Shape-Extract/blob/master/README.md">Microsoft Visio Shape Export (VSTO)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.visio.shape.extract2.png" align="top" width="256px" title="Microsoft Visio Shape Export" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to export the shape attributes to a .csv file.</span>
                 <br>
             </kbd>
         </td>
