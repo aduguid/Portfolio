@@ -1,23 +1,11 @@
 <head>
     <img align="left" src="Images/ReadMe/Portfolio.gif" width="250px">
-    <kbd>
-    <kbd>
-        <img align="top" src="Images/ReadMe/stackexchange.png" width="32px">
-<a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts">
-    Stack Exchange 
-</a> 
-<br>
+
 <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts"><img src="https://stackexchange.com/users/flair/12441351.png#2" width="208" height="58" alt="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" valign="middle" align="center"/></a>    
-    </kbd>
-    <kbd>
-    <img align="center" src="Images/ReadMe/msdn.png" width="32px">
-<a href="https://social.msdn.microsoft.com/profile/aduguid/">Microsoft Developer Network 
-<a href="https://social.msdn.microsoft.com/profile/aduguid/">
-    <br>
-<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile2.png#3" width="150" valign="middle" align="center">
+
+<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile2.png#3" width="150" valign="middle" align="center" href="https://social.msdn.microsoft.com/profile/aduguid/">
 </a>
-    </kbd>
-        </kbd>
+
 </head>
 
 <br>
