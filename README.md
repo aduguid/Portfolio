@@ -4,12 +4,6 @@
 
 <br>
 <br>
-
-<kbd>
-<span style="max-width:256px;">On this page are examples of my work. If you'd like to speak to me about employment, please contact me through my <a href="https://www.linkedin.com/in/anthonyduguid/">LinkedIn</a> profile.
-</span>
-</kbd>
-
 <br>
 
 <table style="width:100%">
