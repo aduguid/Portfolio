@@ -172,7 +172,7 @@
                 <a href="https://github.com/Office-projects/Excel-Timesheet/blob/master/README.md">Microsoft Excel Timesheet Ribbon (VBA)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/Office-projects/Excel-Timesheet/master/Images/ReadMe/screenshot.png" align="top" width="256px" title="Microsoft Excel Timesheet Ribbon" />
+                <img src="https://raw.githubusercontent.com/Office-projects/Excel-Timesheet/master/Images/ReadMe/vba.excel.ribbon.timesheet.gif" align="top" width="256px" title="Microsoft Excel Timesheet Ribbon" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This Add-In is used to produce a timesheet file with functionality to import your Google Timeline.</span>
