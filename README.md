@@ -21,20 +21,6 @@
 
 <tr valign="top">
 <td align="left" valign="middle">
-<img align="center" src="Images/ReadMe/ssrs.png" width="32px">
-<a href="#ssrs-reports">Reporting Services</a>
-</td>
-</tr>
-
-<tr valign="top">
-<td align="left" valign="middle">
-<img align="center" src="Images/ReadMe/visualstudio.png" width="32px">
-<a href="#visual-studio">Visual Studio</a>
-</td>
-</tr>
-
-<tr valign="top">
-<td align="left" valign="middle">
 <img align="center" src="Images/ReadMe/autocad.png" width="32px">
 <a href="#autocad">AutoCAD</a>
 </td>
@@ -47,6 +33,20 @@
 </td>
 </tr>
 
+<tr valign="top">
+<td align="left" valign="middle">
+<img align="center" src="Images/ReadMe/ssrs.png" width="32px">
+<a href="#ssrs-reports">Reporting Services</a>
+</td>
+</tr>
+
+<tr valign="top">
+<td align="left" valign="middle">
+<img align="center" src="Images/ReadMe/visualstudio.png" width="32px">
+<a href="#visual-studio">Visual Studio</a>
+</td>
+</tr>
+
 </table>
 
 <br>
@@ -55,6 +55,58 @@
 <br>
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<a id="user-content-autocad" class="anchor" href="#autocad" aria-hidden="true"> </a>
+<table style="width:100%">
+    <caption>
+        <h2>
+            <img align="left" src="Images/ReadMe/autocad.png" width="32px">
+            AutoCAD Projects
+        </h2>
+    </caption>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                AutoCAD Automation Plotting Tool
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Plotting Tool" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in VB.NET, Windows Presentation Foundation (WPF), it allows the user to batch plot AutoCAD files with options to convert drawings to pdf files. Plot styles are applied to the drawings during the conversion. Logging is implemented with Log4Net to track errors during the conversion of 200,000 files. There was less than a 0.5% failure in the process. The processing time took 3 virtual machines 5 days to complete. The median processing time was 10 seconds per file. It can also send the files to a plotter with a selected page size in the active space either model or paper. There is also an option to add or remove a layered watermark using a .dwt file. </span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                AutoCAD Automation Extracting Tool
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Extracting Tool" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This applicaiton allows the user to loop through each entity in a piping and instrumentation drawing to extract entities and attribute values. Depending on the parameter options entities are extracted within clouding for new project work or no clouding as with as building at project completion. The application uses stored layer names to determine the cloud types. A standard list of entities and attributes are used to query the extracted data for reporting in SSRS. There is an option in the settings to use either a SQL Server localDB or a server database. SQL Server localDB is used for the portable version. The original project was migrated from VBA/dvb project file. This application is in Visual Studio 2015 in VB .NET/WPF using the AutoCAD 2016 object model. The procedures are multi-threaded using background workers. The application uses late binding for a current session of AutoCAD and early binding for a new session. ClickOnce deployment is used for the install. The API documentation is done with Microsoft Sandcastle. The application diagrams are done with Microsoft Visio. The “As Is” documentation is done in a markdown file..</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                Title Block Export Tool
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/dvb.titleblock.tool.png" align="top" width="256px" title="Title Block Export Tool" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Title Block Tool was developed in a compiled VBA/dvb file with the database in Microsoft Access & Oracle. Microsoft Access is used for the portable version. The custom AutoCAD menu is in DIESEL. It extracts title blocks from multiple files by using standardized naming conventions for the title block names. The title block and attribute names are stored in a template table and referenced during the extraction process. A custom edit attributes form is used to select values from dropdown lists to improve data quality. The application also allows the users to bulk update the title blocks from the database back to the original files. The modules and classes are exported with a procedure for source control check-in. The install was done in Wise Installer.</span>
+                <br>
+            </kbd>
+        </td>
+    </tr>
+    
+</table>
+<br>
+<br>
+<br>
 
 <a id="user-content-ssrs-reports" class="anchor" href="#ssrs-reports" aria-hidden="true"> </a>
 <table style="width:100%">
@@ -333,58 +385,6 @@
         </td>
     </tr>
 
-</table>
-<br>
-<br>
-<br>
-
-<a id="user-content-autocad" class="anchor" href="#autocad" aria-hidden="true"> </a>
-<table style="width:100%">
-    <caption>
-        <h2>
-            <img align="left" src="Images/ReadMe/autocad.png" width="32px">
-            AutoCAD Projects
-        </h2>
-    </caption>
-    <tr valign="top">
-        <td width="33%">
-            <kbd>
-                AutoCAD Automation Plotting Tool
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Plotting Tool" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in VB.NET, Windows Presentation Foundation (WPF), it allows the user to batch plot AutoCAD files with options to convert drawings to pdf files. Plot styles are applied to the drawings during the conversion. Logging is implemented with Log4Net to track errors during the conversion of 200,000 files. There was less than a 0.5% failure in the process. The processing time took 3 virtual machines 5 days to complete. The median processing time was 10 seconds per file. It can also send the files to a plotter with a selected page size in the active space either model or paper. There is also an option to add or remove a layered watermark using a .dwt file. </span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                AutoCAD Automation Extracting Tool
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Extracting Tool" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This applicaiton allows the user to loop through each entity in a piping and instrumentation drawing to extract entities and attribute values. Depending on the parameter options entities are extracted within clouding for new project work or no clouding as with as building at project completion. The application uses stored layer names to determine the cloud types. A standard list of entities and attributes are used to query the extracted data for reporting in SSRS. There is an option in the settings to use either a SQL Server localDB or a server database. SQL Server localDB is used for the portable version. The original project was migrated from VBA/dvb project file. This application is in Visual Studio 2015 in VB .NET/WPF using the AutoCAD 2016 object model. The procedures are multi-threaded using background workers. The application uses late binding for a current session of AutoCAD and early binding for a new session. ClickOnce deployment is used for the install. The API documentation is done with Microsoft Sandcastle. The application diagrams are done with Microsoft Visio. The “As Is” documentation is done in a markdown file..</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                Title Block Export Tool
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/dvb.titleblock.tool.png" align="top" width="256px" title="Title Block Export Tool" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Title Block Tool was developed in a compiled VBA/dvb file with the database in Microsoft Access & Oracle. Microsoft Access is used for the portable version. The custom AutoCAD menu is in DIESEL. It extracts title blocks from multiple files by using standardized naming conventions for the title block names. The title block and attribute names are stored in a template table and referenced during the extraction process. A custom edit attributes form is used to select values from dropdown lists to improve data quality. The application also allows the users to bulk update the title blocks from the database back to the original files. The modules and classes are exported with a procedure for source control check-in. The install was done in Wise Installer.</span>
-                <br>
-            </kbd>
-        </td>
-    </tr>
-    
 </table>
 <br>
 <br>
