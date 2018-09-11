@@ -67,7 +67,7 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                AutoCAD Automation Plotting Tool
+                Plotting Tool
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Plotting Tool" />
@@ -79,7 +79,7 @@
         </td>
         <td width="33%">
             <kbd>
-                AutoCAD Automation Extracting Tool
+                Attribute Extract Tool
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Extracting Tool" />
