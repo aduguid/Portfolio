@@ -286,32 +286,6 @@
         </td>
         <td width="33%">
             <kbd>
-                AutoCAD Automation Tool (Plotting)
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Tool" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in VB.NET, Windows Presentation Foundation (WPF), it allows the user to batch plot AutoCAD files.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                AutoCAD Automation Tool (Extracting)
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Tool" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in VB.NET, Windows Presentation Foundation (WPF), it allows the user to export entity attributes from AutoCAD files.</span>
-                <br>
-            </kbd>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="33%">
-            <kbd>
                 <a href="https://github.com/aduguid/DocumentumScriptAdministrator/blob/master/README.md">Documentum Script Administrator</a>
                 <br>
                 <br>
@@ -331,18 +305,6 @@
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in HTML/Javascript, it displays timezones with hyperlinks to temperature. The time updates every second.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/aduguid/SoftwarePortfolio/edit/master/README.md">Mark Up/Mark Down Example</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/markupmarkdownexample.png" align="top" width="256px" title="Mark Up/Mark Down Example" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in HTML, it displays this page.</span>
                 <br>
             </kbd>
         </td>
@@ -373,6 +335,16 @@
             </kbd>
         </td>
         <td width="33%">
+            <kbd>
+                <a href="https://github.com/aduguid/SoftwarePortfolio/edit/master/README.md">Mark Up/Mark Down Example</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/markupmarkdownexample.png" align="top" width="256px" title="Mark Up/Mark Down Example" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in HTML, it displays this page.</span>
+                <br>
+            </kbd>
         </td>
     </tr>
 
@@ -380,6 +352,59 @@
 <br>
 <br>
 <br>
+
+<a id="user-content-autocad" class="anchor" href="#autocad" aria-hidden="true"> </a>
+<table style="width:100%">
+    <caption>
+        <h2>
+            <img align="left" src="Images/ReadMe/autocad.png" width="32px">
+            AutoCAD Projects
+        </h2>
+    </caption>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                AutoCAD Automation Plotting Tool
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Plotting Tool" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in VB.NET, Windows Presentation Foundation (WPF), it allows the user to batch plot AutoCAD files.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                AutoCAD Automation Extracting Tool
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Extracting Tool" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in VB.NET, Windows Presentation Foundation (WPF), it allows the user to export entity attributes from AutoCAD files.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                Title Block Export Tool
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="Title Block Export Tool" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in VB.NET, Windows Presentation Foundation (WPF), it allows the user to export entity attributes from AutoCAD files.</span>
+                <br>
+            </kbd>
+        </td>
+    </tr>
+    
+</table>
+<br>
+<br>
+<br>
+
 
 <a id="user-content-office-addins" class="anchor" href="#office-addins" aria-hidden="true"> </a>
 <table style="width:100%">
