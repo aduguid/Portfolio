@@ -157,13 +157,13 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a>Microsoft Excel Cell Extract Addin (VBA)</a>
+                <a href="https://github.com/Office-projects/Excel-Favorites/blob/master/README.md">Microsoft Excel Favorites Ribbon (VSTO)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.excel.ribbon.cellextract.gif" align="top" width="256px" title="Microsoft Excel Cell Extract Addin" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.favorites.gif" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in VBA, this project was done as an Excel Addin with a ribbon to import enrollment data from 500 files. The median import time is 2 seconds per file. I used a column mapping to the cell references in multiple sheets to generate the import specification.</span>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to create a custom Excel favorites ribbon.</span>
                 <br>
             </kbd>
         </td>
@@ -179,15 +179,15 @@
                 <br>
             </kbd>
         </td>
-        <td width="33%">
+            <td width="33%">
             <kbd>
-                <a href="https://github.com/Office-projects/Excel-Favorites/blob/master/README.md">Microsoft Excel Favorites Ribbon (VSTO)</a>
+                <a>Microsoft Excel Cell Extract Addin (VBA)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.favorites.gif" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.excel.ribbon.cellextract.gif" align="top" width="256px" title="Microsoft Excel Cell Extract Addin" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to create a custom Excel favorites ribbon.</span>
+                <span style="max-width:256px;">Written in VBA, this project was done as an Excel Addin with a ribbon to import enrollment data from 500 files. The median import time is 2 seconds per file. I used a column mapping to the cell references in multiple sheets to generate the import specification.</span>
                 <br>
             </kbd>
         </td>
