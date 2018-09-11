@@ -119,10 +119,10 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Office-projects/Script-Help/blob/master/README.md">Microsoft Excel Script Help (VSTO)</a>
+                <a href="https://github.com/Office-projects/Script-Help/blob/master/README.md">Excel Script Help (VSTO)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.scripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.scripthelp.gif" align="top" width="256px" title="Excel Script Help" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to use a table to create different SQL scripts.</span>
@@ -131,10 +131,10 @@
         </td>
         <td width="33%">
               <kbd>
-                <a href="https://github.com/Office-projects/Server-Actions/blob/master/README.md">Microsoft Excel Server Help (VSTO)</a>
+                <a href="https://github.com/Office-projects/Server-Actions/blob/master/README.md">Excel Server Help (VSTO)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.serverhelp.gif" align="top" width="256px" title="Microsoft Excel Server Help" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.serverhelp.gif" align="top" width="256px" title="Excel Server Help" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in C#, VB.NET and VBA to ping servers as well as create a Microsoft Remote Desktop Manager file.</span>
@@ -143,10 +143,10 @@
         </td>
         <td width="33%">
               <kbd>
-                Microsoft Excel Engineering Markup (VSTO)
+                Excel Markup (VSTO)
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.markup.gif" align="top" width="256px" title="Microsoft Excel Engineering Markup" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.markup.gif" align="top" width="256px" title="Excel Markup" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to mark up files with revision clouding around the selected cells in different colors.</span>
@@ -157,7 +157,7 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Office-projects/Excel-Favorites/blob/master/README.md">Microsoft Excel Favorites Ribbon (VSTO)</a>
+                <a href="https://github.com/Office-projects/Excel-Favorites/blob/master/README.md">Excel Favorites (VSTO)</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.favorites.gif" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
@@ -169,7 +169,7 @@
         </td>
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Office-projects/Excel-Timesheet/blob/master/README.md">Microsoft Excel Timesheet Ribbon (VBA)</a>
+                <a href="https://github.com/Office-projects/Excel-Timesheet/blob/master/README.md">Excel Timesheet (VBA)</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/Office-projects/Excel-Timesheet/master/Images/ReadMe/vba.excel.ribbon.timesheet.gif" align="top" width="256px" title="Microsoft Excel Timesheet Ribbon" />
@@ -181,7 +181,7 @@
         </td>
             <td width="33%">
             <kbd>
-                <a>Microsoft Excel Cell Extract Addin (VBA)</a>
+                <a>Excel Cell Extract Ribbon (VBA)</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.excel.ribbon.cellextract.gif" align="top" width="256px" title="Microsoft Excel Cell Extract Addin" />
@@ -195,10 +195,10 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Office-projects/Access-examples/blob/master/README.md">Microsoft Access VBA Examples</a>
+                <a href="https://github.com/Office-projects/Access-examples/blob/master/README.md">Access VBA Examples</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.access.examples.png" align="top" width="256px" title="Microsoft Access VBA Examples" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.access.examples.png" align="top" width="256px" title="Access VBA Examples" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in VBA, here are examples of reports and code for MS Access.</span>
@@ -208,10 +208,10 @@
                 </td>
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Office-projects/Visio-Shape-Extract/blob/master/README.md">Microsoft Visio Shape Export (VSTO)</a>
+                <a href="https://github.com/Office-projects/Visio-Shape-Extract/blob/master/README.md">Visio Shape Export (VSTO)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.visio.shape.extract2.png" align="top" width="256px" title="Microsoft Visio Shape Export" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.visio.shape.extract2.png" align="top" width="256px" title="Visio Shape Export" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to export the shape attributes to a .csv file.</span>
