@@ -67,7 +67,7 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                Plotting Tool
+                Batch Plotting Tool
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Plotting Tool" />
