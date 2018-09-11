@@ -42,6 +42,13 @@
 
 <tr valign="top">
 <td align="left" valign="middle">
+<img align="center" src="Images/ReadMe/autocad.png" width="32px">
+<a href="#autocad">AutoCAD Projects</a>
+</td>
+</tr>
+
+<tr valign="top">
+<td align="left" valign="middle">
 <img align="center" src="Images/ReadMe/office.png" width="32px">
 <a href="#office-addins">Office Projects</a>
 </td>
