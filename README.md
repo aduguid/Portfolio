@@ -391,7 +391,7 @@
                 Title Block Export Tool
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="Title Block Export Tool" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/dvb.titleblock.tool.png" align="top" width="256px" title="Title Block Export Tool" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Title Block Tool was developed in a compiled VBA/dvb file with the database in Microsoft Access & Oracle. Microsoft Access is used for the portable version. The custom AutoCAD menu is in DIESEL. It extracts title blocks from multiple files by using standardized naming conventions for the title block names. The title block and attribute names are stored in a template table and referenced during the extraction process. A custom edit attributes form is used to select values from dropdown lists to improve data quality. The application also allows the users to bulk update the title blocks from the database back to the original files. The modules and classes are exported with a procedure for source control check-in. The install was done in Wise Installer.</span>
