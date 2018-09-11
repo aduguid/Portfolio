@@ -21,49 +21,34 @@
 
 <tr valign="top">
 <td align="left" valign="middle">
-<img align="center" src="Images/ReadMe/github.png" width="32px">
-<a href="#github-summary">GitHub Summary</a>
-</td>
-</tr>
-
-<tr valign="top">
-<td align="left" valign="middle">
 <img align="center" src="Images/ReadMe/ssrs.png" width="32px">
-<a href="#ssrs-reports">Business Intelligence Projects</a>
+<a href="#ssrs-reports">Reporting Services</a>
 </td>
 </tr>
 
 <tr valign="top">
 <td align="left" valign="middle">
 <img align="center" src="Images/ReadMe/visualstudio.png" width="32px">
-<a href="#visual-studio">Visual Studio Projects</a>
+<a href="#visual-studio">Visual Studio</a>
 </td>
 </tr>
 
 <tr valign="top">
 <td align="left" valign="middle">
 <img align="center" src="Images/ReadMe/autocad.png" width="32px">
-<a href="#autocad">AutoCAD Projects</a>
+<a href="#autocad">AutoCAD</a>
 </td>
 </tr>
 
 <tr valign="top">
 <td align="left" valign="middle">
 <img align="center" src="Images/ReadMe/office.png" width="32px">
-<a href="#office-addins">Office Projects</a>
+<a href="#office-addins">Office</a>
 </td>
 </tr>
 
 </table>
 
-<br>
-<br>
-<br>
-<br>
-<a id="user-content-github-summary" class="anchor" href="#github-summary" aria-hidden="true"> </a>
-<! https://profile-summary-for-github.com/search />
-<h2> <img align="center" src="Images/ReadMe/github.png" width="32px"> GitHub Summary </h2>
-<img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/github.profile.summary.png?" width="1000">
 <br>
 <br>
 <br>
@@ -76,7 +61,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/ssrs.png" width="32px">
-            <a href="https://github.com/SQL-Server-projects">Business Intelligence Projects</a>
+            <a href="https://github.com/SQL-Server-projects">Reporting Services Projects</a>
         </h2>
     </caption>
     <tr valign="top">
