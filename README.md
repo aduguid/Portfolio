@@ -406,7 +406,7 @@
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/ssrsnestedtablixmatrixcalendar.png" align="top" width="256px" title="Weekly Calendar" />
                 <br>
                 <br>
-                <span style="max-width:256px;">This report uses a nested tablix inside of a matrix to create a calendar view.</span>
+                <span style="max-width:256px;">This report uses a nested tablix inside of a matrix to show a calendar view. The document map is used to navigate the report or exported spreadsheet. The dynamic grouping is used to produce a summary page and a calendar per page/grouping. I use bookmarks to navigate from the summary page to individual calendars. Assigning colours to groups is done by using a DENSE_RANK to produce a row number per group per calendar items. That row number is matched to a row number of a colour view. Embedded code written in Visual Basic is used to assign alternating row colours.</span>
                 <br>
             </kbd>
         </td>
