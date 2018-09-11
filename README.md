@@ -108,6 +108,123 @@
 <br>
 <br>
 
+<a id="user-content-office-addins" class="anchor" href="#office-addins" aria-hidden="true"> </a>
+<table style="width:100%">
+    <caption>
+        <h2>
+            <img align="left" src="Images/ReadMe/office.png" width="32px">
+            <a href="https://github.com/Office-projects">Office Projects</a>
+        </h2>
+    </caption>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Office-projects/Script-Help/blob/master/README.md">Microsoft Excel Script Help (VSTO)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.scripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to use a table to create different SQL scripts.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+              <kbd>
+                <a href="https://github.com/Office-projects/Server-Actions/blob/master/README.md">Microsoft Excel Server Help (VSTO)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.serverhelp.gif" align="top" width="256px" title="Microsoft Excel Server Help" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA to ping servers as well as create a Microsoft Remote Desktop Manager file.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+              <kbd>
+                Microsoft Excel Engineering Markup (VSTO)
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.markup.gif" align="top" width="256px" title="Microsoft Excel Engineering Markup" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to mark up files with revision clouding around the selected cells in different colors.</span>
+                <br>
+            </kbd>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                <a>Microsoft Excel Cell Extract Addin (VBA)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.excel.ribbon.cellextract.gif" align="top" width="256px" title="Microsoft Excel Cell Extract Addin" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in VBA, this project was done as an Excel Addin with a ribbon to import enrollment data from 500 files. The median import time is 2 seconds per file. I used a column mapping to the cell references in multiple sheets to generate the import specification.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Office-projects/Excel-Timesheet/blob/master/README.md">Microsoft Excel Timesheet Ribbon (VBA)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/Office-projects/Excel-Timesheet/master/Images/ReadMe/screenshot.png" align="top" width="256px" title="Microsoft Excel Timesheet Ribbon" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This Add-In is used to produce a timesheet file with functionality to import your Google Timeline.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Office-projects/Excel-Favorites/blob/master/README.md">Microsoft Excel Favorites Ribbon (VSTO)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.favorites.png" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to create a custom Excel favorites ribbon.</span>
+                <br>
+            </kbd>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Office-projects/Access-examples/blob/master/README.md">Microsoft Access VBA Examples</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.access.examples.png" align="top" width="256px" title="Microsoft Access VBA Examples" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in VBA, here are examples of reports and code for MS Access.</span>
+                <br>
+            </kbd>
+        </td>
+                </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Office-projects/Visio-Shape-Extract/blob/master/README.md">Microsoft Visio Shape Export (VSTO)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.visio.shape.extract2.png" align="top" width="256px" title="Microsoft Visio Shape Export" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to export the shape attributes to a .csv file.</span>
+                <br>
+            </kbd>
+        </td>
+     </tr>
+</table>
+
+<br>
+<br>
+<br>
+
 <a id="user-content-ssrs-reports" class="anchor" href="#ssrs-reports" aria-hidden="true"> </a>
 <table style="width:100%">
     <caption>
@@ -390,117 +507,4 @@
 <br>
 <br>
 
-
-<a id="user-content-office-addins" class="anchor" href="#office-addins" aria-hidden="true"> </a>
-<table style="width:100%">
-    <caption>
-        <h2>
-            <img align="left" src="Images/ReadMe/office.png" width="32px">
-            <a href="https://github.com/Office-projects">Office Projects</a>
-        </h2>
-    </caption>
-    <tr valign="top">
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/Office-projects/Script-Help/blob/master/README.md">Microsoft Excel Script Help (VSTO)</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.scripthelp.gif" align="top" width="256px" title="Microsoft Excel Script Help" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to use a table to create different SQL scripts.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-              <kbd>
-                <a href="https://github.com/Office-projects/Server-Actions/blob/master/README.md">Microsoft Excel Server Help (VSTO)</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.serverhelp.gif" align="top" width="256px" title="Microsoft Excel Server Help" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in C#, VB.NET and VBA to ping servers as well as create a Microsoft Remote Desktop Manager file.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-              <kbd>
-                Microsoft Excel Engineering Markup (VSTO)
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.markup.gif" align="top" width="256px" title="Microsoft Excel Engineering Markup" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to mark up files with revision clouding around the selected cells in different colors.</span>
-                <br>
-            </kbd>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="33%">
-            <kbd>
-                <a>Microsoft Excel Cell Extract Addin (VBA)</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.excel.ribbon.cellextract.gif" align="top" width="256px" title="Microsoft Excel Cell Extract Addin" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in VBA, this project was done as an Excel Addin with a ribbon to import enrollment data from 500 files. The median import time is 2 seconds per file. I used a column mapping to the cell references in multiple sheets to generate the import specification.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/Office-projects/Excel-Timesheet/blob/master/README.md">Microsoft Excel Timesheet Ribbon (VBA)</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/Office-projects/Excel-Timesheet/master/Images/ReadMe/screenshot.png" align="top" width="256px" title="Microsoft Excel Timesheet Ribbon" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This Add-In is used to produce a timesheet file with functionality to import your Google Timeline.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/Office-projects/Excel-Favorites/blob/master/README.md">Microsoft Excel Favorites Ribbon (VSTO)</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.favorites.png" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to create a custom Excel favorites ribbon.</span>
-                <br>
-            </kbd>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/Office-projects/Access-examples/blob/master/README.md">Microsoft Access VBA Examples</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.access.examples.png" align="top" width="256px" title="Microsoft Access VBA Examples" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in VBA, here are examples of reports and code for MS Access.</span>
-                <br>
-            </kbd>
-        </td>
-                </td>
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/Office-projects/Visio-Shape-Extract/blob/master/README.md">Microsoft Visio Shape Export (VSTO)</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.visio.shape.extract2.png" align="top" width="256px" title="Microsoft Visio Shape Export" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to export the shape attributes to a .csv file.</span>
-                <br>
-            </kbd>
-        </td>
-     </tr>
-</table>
 </html>
