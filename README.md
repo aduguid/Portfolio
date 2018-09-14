@@ -18,27 +18,39 @@
         </h2>
     </caption>
     <tr valign="top">
-        <td align="left" valign="middle">
+        <td width="25%" align="left" valign="middle">
             <img align="middle" src="Images/ReadMe/autocad.png" width="32px">
             <a href="#autocad">AutoCAD</a>
         </td>
+        <td align="left" valign="middle">
+            AutoCAD automation projects in .NET and VBA</a>
+        </td>
     </tr>
     <tr valign="top">
-        <td align="left" valign="middle">
+        <td width="25%" align="left" valign="middle">
             <img align="middle" src="Images/ReadMe/office.png" width="32px">
             <a href="#office-addins">Office</a>
         </td>
-    </tr>
-    <tr valign="top">
         <td align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/ssrs.png" width="32px">
-            <a href="#ssrs-reports">Reporting Services</a>
+            Microsoft Office automation projects in .NET and VBA (Access, Excel, Visio)</a>
         </td>
     </tr>
     <tr valign="top">
+        <td width="25%" align="left" valign="middle">
+            <img align="middle" src="Images/ReadMe/ssrs.png" width="32px">
+            <a href="#ssrs-reports">Reporting Services</a>
+        </td>
         <td align="left" valign="middle">
+            Microsoft Reporting Services projects on the report server as well as SharePoint</a>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="25%" align="left" valign="middle">
             <img align="middle" src="Images/ReadMe/visualstudio.png" width="32px">
             <a href="#visual-studio">Visual Studio</a>
+        </td>
+        <td align="left" valign="middle">
+            Various projects in C#, VB.NET, JavaScript and Markdown including Active Directory attribute export, Documentum batch script, SharePoint web parts, Visual Studio Team Services dashboards</a>
         </td>
     </tr>
 </table>
