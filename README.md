@@ -131,7 +131,7 @@
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.scripthelp.gif" align="top" width="256px" title="Excel Script Help" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to use a table to create different SQL scripts.
+                <span style="max-width:256px;">This Add-In is used for cleaning & creating a script for batch loading records into SQL Server, Oracle, Documentum, Markup or Markdown Languages. The functionality within the ribbon allows a quick way of preparing a bulk data load. Otherwise, the requests can be both time-consuming and error prone. Written in C#, VB.NET and VBA.
                 </span>
                 <br>
             </kbd>
@@ -144,7 +144,7 @@
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.serverhelp.gif" align="top" width="256px" title="Excel Server Help" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in C#, VB.NET and VBA to ping servers as well as create a Microsoft Remote Desktop Manager file.
+                <span style="max-width:256px;">This Add-In allows the user to ping a list of servers and creates a file for Microsoft Remote Desktop Manager from an Excel table. This is used for quickly determining which servers are offline in a list. Written in C#, VB.NET and VBA.
                 </span>
                 <br>
             </kbd>
@@ -157,7 +157,7 @@
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.markup.gif" align="top" width="256px" title="Excel Markup" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to mark up files with revision clouding around the selected cells in different colors.</span>
+                <span style="max-width:256px;">This Add-In is used for marking up Excel files with revisions. There are two common methods of indicating where a revision has changed a drawing that contains a system diagram. The first is the cloud method, were each change is enclosed by a cloud shape. The second method involves placing a triangle with the revision number next to each effected portion of the drawing. The cloud method indicates changes from the most recent revision only, whereas the second method indicates all revisions to the drawing because all of the previous revision circles remain on the drawing. Written in C#, VB.NET and VBA.</span>
                 <br>
             </kbd>
         </td>
