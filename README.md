@@ -242,7 +242,7 @@
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/sharepoint.teamsite.ssrs.png" align="top" width="256px" title="SharePoint Report Viewer Heat Map Calendar" />
                 <br>
                 <br>
-                <span style="max-width:256px;">The SharePoint team site was setup with a report viewer web part. The report uses a nested tablix inside of a matrix to show a calendar view. The heat map is implemented using a function with a report variable for the base color to produce a gradient of the color. Each day on the calendar is a hyperlink to a detailed Reporting Services report.</span>
+                <span style="max-width:256px;">The SharePoint team site was setup with a report viewer web part. The report uses a nested tablix inside of a matrix to show a calendar view. The heat map is implemented using a function with a report variable for the base color to produce a gradients of the color. Each day on the calendar is a hyperlink to a detailed Reporting Services report.</span>
                 <br>
             </kbd>
         </td>
