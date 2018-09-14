@@ -32,7 +32,7 @@
             <a href="#office-addins">Office</a>
         </td>
         <td align="left" valign="middle">
-            Microsoft Office projects in .NET and VBA (Access, Excel, Visio)</a>
+            Microsoft Office projects in .NET and VBA (Access, Excel, Outlook, Visio)</a>
         </td>
     </tr>
     <tr valign="top">
@@ -223,6 +223,18 @@
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to export the shape attributes to a .csv file.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                Outlook Calendar Add-In (VSTO)
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.outlook.ribbon.calendar.png" align="top" width="256px" title="Outlook Calendar Add-In" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to import calendars.</span>
                 <br>
             </kbd>
         </td>
