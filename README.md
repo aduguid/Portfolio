@@ -21,7 +21,7 @@
             <a href="#profiles">Profiles</a>
         </td>
         <td align="left" valign="middle">
-            Online profiles</a>
+            Coding website profiles</a>
         </td>
     </tr>
     <tr valign="top">
