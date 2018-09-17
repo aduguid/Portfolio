@@ -21,7 +21,7 @@
     </caption>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/autocad.png" width="32px">
+            <img align="middle" src="Images/ReadMe/app_autocad.png" width="32px">
             <a href="#autocad">AutoCAD</a>
         </td>
         <td align="left" valign="middle">
@@ -30,7 +30,7 @@
     </tr>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/office.png" width="32px">
+            <img align="middle" src="Images/ReadMe/app_office.png" width="32px">
             <a href="#office-addins">Office</a>
         </td>
         <td align="left" valign="middle">
@@ -39,7 +39,7 @@
     </tr>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/ssrs.png" width="32px">
+            <img align="middle" src="Images/ReadMe/app_sql.png" width="32px">
             <a href="#ssrs-reports">Reporting Services</a>
         </td>
         <td align="left" valign="middle">
@@ -48,7 +48,7 @@
     </tr>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/visualstudio.png" width="32px">
+            <img align="middle" src="Images/ReadMe/app_visual.png" width="32px">
             <a href="#visual-studio">Visual Studio</a>
         </td>
         <td align="left" valign="middle">
@@ -66,7 +66,7 @@
 <table style="width:100%">
     <caption>
         <h2>
-            <img align="left" src="Images/ReadMe/autocad.png" width="32px">
+            <img align="left" src="Images/ReadMe/app_autocad.png" width="32px">
             AutoCAD Projects
         </h2>
     </caption>
@@ -120,7 +120,7 @@
 <table style="width:100%">
     <caption>
         <h2>
-            <img align="left" src="Images/ReadMe/office.png" width="32px">
+            <img align="left" src="Images/ReadMe/app_office.png" width="32px">
             <a href="https://github.com/Office-projects">Office Projects</a>
         </h2>
     </caption>
@@ -251,7 +251,7 @@
 <table style="width:100%">
     <caption>
         <h2>
-            <img align="left" src="Images/ReadMe/ssrs.png" width="32px">
+            <img align="left" src="Images/ReadMe/app_sql.png" width="32px">
             <a href="https://github.com/SQL-Server-projects">Reporting Services Projects</a>
         </h2>
     </caption>
@@ -443,7 +443,7 @@
 <table style="width:100%">
     <caption>
         <h2>
-            <img align="left" src="Images/ReadMe/visualstudio.png" width="32px">
+            <img align="left" src="Images/ReadMe/app_visual.png" width="32px">
             <a href="https://github.com/Visual-Studio-projects">Visual Studio Projects</a>
         </h2>
     </caption>
