@@ -1,9 +1,5 @@
 <img align="left" src="Images/ReadMe/Portfolio.gif" width="250px">
 
-<a href="https://social.msdn.microsoft.com/profile/aduguid/">
-    <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile2.png#3" width="150" valign="top" align="right" alt="MSDN Profile">
-</a><a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts"><img src="https://stackexchange.com/users/flair/12441351.png#2" width="175" height="50" alt="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" valign="top" align="right" /></a><a href="https://social.msdn.microsoft.com/profile/aduguid/"></a>
-
 <br>
 <br>
 <br>
@@ -19,6 +15,15 @@
             Table of Contents
         </h2>
     </caption>
+    <tr valign="top">
+        <td width="25%" align="left" valign="middle">
+            <img align="middle" src="Images/ReadMe/app_autocad2.png" width="32px">
+            <a href="#profiles">Profiles</a>
+        </td>
+        <td align="left" valign="middle">
+            Online profiles</a>
+        </td>
+    </tr>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
             <img align="middle" src="Images/ReadMe/app_autocad.png" width="32px">
@@ -76,6 +81,62 @@
 </table>
 
 <br>
+<br>
+<br>
+<br>
+
+<a id="user-content-autocad" class="anchor" href="#profiles" aria-hidden="true"> </a>
+<table style="width:100%">
+    <caption>
+        <h2>
+            <img align="left" src="Images/ReadMe/app_autocad2.png" width="32px">
+            Online Profiles
+        </h2>
+    </caption>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                GitHub
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/github.profile.summary.png" align="top" width="256px" title="GitHub" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This ...  </span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                Microsoft Developer Network
+                <br>
+                <br>
+               <a href="https://social.msdn.microsoft.com/profile/aduguid/">
+    <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile2.png#3" width="256px" align="top" alt="MSDN Profile">
+                </a>
+                <br>
+                <br>
+                <span style="max-width:256px;">This...
+                </span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                Stack Exchange
+                <br>
+                <br>
+                <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts"><img src="https://stackexchange.com/users/flair/12441351.png#2" width="256px" alt="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" align="top" /></a><a href="https://social.msdn.microsoft.com/profile/aduguid/"></a>
+                <br>
+                <br>
+                <span style="max-width:256px;">This...
+                </span>
+                <br>
+            </kbd>
+        </td>
+    </tr>
+</table>
+
 <br>
 <br>
 <br>
