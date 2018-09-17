@@ -96,7 +96,7 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                GitHub
+                <a href="https://github.com/aduguid">GitHub</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/github.profilepage.png" align="top" width="256px" title="GitHub" />
@@ -108,7 +108,7 @@
         </td>
         <td width="33%">
             <kbd>
-                Microsoft Developer Network
+                <a href="https://social.msdn.microsoft.com/profile/aduguid/">Microsoft Developer Network</a>
                 <br>
                 <br>
                <a href="https://social.msdn.microsoft.com/profile/aduguid/">
@@ -123,7 +123,7 @@
         </td>
         <td width="33%">
             <kbd>
-                Stack Exchange
+                <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts">Stack Exchange</a>
                 <br>
                 <br>
                 <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts"><img src="https://stackexchange.com/users/flair/12441351.png#2" width="256px" alt="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" align="top" /></a><a href="https://social.msdn.microsoft.com/profile/aduguid/"></a>
