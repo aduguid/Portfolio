@@ -99,7 +99,7 @@
                 GitHub
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/github.profile.summary.png" align="top" width="256px" title="GitHub" />
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/github.profilepage.png" align="top" width="256px" title="GitHub" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This ...  </span>
