@@ -85,7 +85,7 @@
 <br>
 <br>
 
-<a id="user-content-autocad" class="anchor" href="#profiles" aria-hidden="true"> </a>
+<a id="user-content-profile" class="anchor" href="#profiles" aria-hidden="true"> </a>
 <table style="width:100%">
     <caption>
         <h2>
@@ -102,7 +102,7 @@
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/github.profilepage.png" align="top" width="256px" title="GitHub" />
                 <br>
                 <br>
-                <span style="max-width:256px;">This ...  </span>
+                <span style="max-width:256px;">Collaborating with colleagues on multiple open source projects </span>
                 <br>
             </kbd>
         </td>
@@ -116,7 +116,7 @@
                 </a>
                 <br>
                 <br>
-                <span style="max-width:256px;">This...
+                <span style="max-width:256px;">Sharing example projects in several programming languages.
                 </span>
                 <br>
             </kbd>
@@ -129,7 +129,7 @@
                 <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts"><img src="https://stackexchange.com/users/flair/12441351.png#2" width="256px" alt="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" align="top" /></a><a href="https://social.msdn.microsoft.com/profile/aduguid/"></a>
                 <br>
                 <br>
-                <span style="max-width:256px;">This...
+                <span style="max-width:256px;">Contributing advice for developers with coding errors.
                 </span>
                 <br>
             </kbd>
