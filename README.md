@@ -43,7 +43,7 @@
             <a href="#power-bi-projects">Power BI</a>
         </td>
         <td align="left" valign="middle">
-            Microsoft Power BI projects (Comming soon)</a>
+            Microsoft Power BI projects (Coming soon)</a>
         </td>
     </tr>
     <tr valign="top">
@@ -61,7 +61,7 @@
             <a href="#tableau-projects">Tableau</a>
         </td>
         <td align="left" valign="middle">
-            Tableau projects (Comming soon)</a>
+            Tableau projects (Coming soon)</a>
         </td>
     </tr>
     <tr valign="top">
