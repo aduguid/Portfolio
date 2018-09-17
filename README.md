@@ -17,7 +17,7 @@
     </caption>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/app_autocad2.png" width="32px">
+            <img align="middle" src="Images/ReadMe/app_profile.png" width="32px">
             <a href="#profiles">Profiles</a>
         </td>
         <td align="left" valign="middle">
@@ -89,7 +89,7 @@
 <table style="width:100%">
     <caption>
         <h2>
-            <img align="left" src="Images/ReadMe/app_autocad2.png" width="32px">
+            <img align="left" src="Images/ReadMe/app_profile.png" width="32px">
             Online Profiles
         </h2>
     </caption>
