@@ -102,7 +102,7 @@
                 <a href="https://github.com/aduguid"><img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/github.profilepage.png" align="top" width="256px" title="GitHub" /></a>
                 <br>
                 <br>
-                <span style="max-width:256px;">Collaborating with colleagues on multiple open source projects </span>
+                <span style="max-width:256px;">Collaborating with colleagues on multiple open source-projects </span>
                 <br>
             </kbd>
         </td>
