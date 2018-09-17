@@ -90,7 +90,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_profile.png" width="32px">
-            Online Profiles
+            Profiles
         </h2>
     </caption>
     <tr valign="top">
