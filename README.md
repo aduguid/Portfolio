@@ -39,11 +39,29 @@
     </tr>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
+            <img align="middle" src="Images/ReadMe/app_powerbi.png" width="32px">
+            <a href="#power-bi-projects">Power BI</a>
+        </td>
+        <td align="left" valign="middle">
+            Microsoft Power BI projects (Comming soon)</a>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="25%" align="left" valign="middle">
             <img align="middle" src="Images/ReadMe/app_sql.png" width="32px">
             <a href="#ssrs-reports">Reporting Services</a>
         </td>
         <td align="left" valign="middle">
             Microsoft Reporting Services projects on the report server as well as SharePoint</a>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="25%" align="left" valign="middle">
+            <img align="middle" src="Images/ReadMe/app_tableau.png" width="32px">
+            <a href="#tableau-projects">Tableau</a>
+        </td>
+        <td align="left" valign="middle">
+            Tableau projects (Comming soon)</a>
         </td>
     </tr>
     <tr valign="top">
