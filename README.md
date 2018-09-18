@@ -99,7 +99,7 @@
                 <a href="https://github.com/aduguid">GitHub</a>
                 <br>
                 <br>
-                <a href="https://github.com/aduguid"><img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/github.profilepage.png" align="top" width="256px" title="GitHub" /></a>
+                <a href="https://github.com/aduguid"><img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/github.profilepage.png" align="top" width="256px" title="https://github.com" /></a>
                 <br>
                 <br>
                 <span style="max-width:256px;">Collaborating with colleagues on multiple open source-projects </span>
@@ -112,7 +112,7 @@
                 <br>
                 <br>
                <a href="https://social.msdn.microsoft.com/profile/aduguid/">
-    <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile2.png#3" width="256px" align="top" alt="MSDN Profile">
+    <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile2.png#3" width="256px" align="top" alt="MSDN Profile" title="https://social.msdn.microsoft.com">
                 </a>
                 <br>
                 <br>
@@ -131,11 +131,11 @@
                 <br>
                 <span style="max-width:256px;">Contributing advice for developers with coding issues.
                     <br><br>
-                <a href="https://stackoverflow.com/users/9059424/aduguid" title="https://stackoverflow.com">STACK OVERFLOW</a>
+                  * <a href="https://stackoverflow.com/users/9059424/aduguid" title="https://stackoverflow.com">STACK OVERFLOW</a>
                     <br><br>
-                <a href="https://dba.stackexchange.com/users/142423/aduguid" title="https://dba.stackexchange.com">DATABASE ADMINISTRATORS</a>
+                  * <a href="https://dba.stackexchange.com/users/142423/aduguid" title="https://dba.stackexchange.com">DATABASE ADMINISTRATORS</a>
                     <br><br>
-                <a href="https://codereview.stackexchange.com/users/158032/aduguid" title="https://codereview.stackexchange.com">CODE REVIEW</a>
+                  * <a href="https://codereview.stackexchange.com/users/158032/aduguid" title="https://codereview.stackexchange.com">CODE REVIEW</a>
                 </span>
                 <br>
             </kbd>
