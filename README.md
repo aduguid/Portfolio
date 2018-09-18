@@ -63,7 +63,7 @@
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
             <img align="middle" src="Images/ReadMe/app_tableau.png" width="32px">
-            <a href="#tableau-projects">Tableau</a>
+            <a href="#tableau">Tableau</a>
         </td>
         <td align="left" valign="middle">
             Tableau projects (Coming soon)</a>
@@ -543,6 +543,34 @@
                 <br>
                 <span style="max-width:256px;">This report uses a nested tablix inside of a matrix to show a calendar view. The document map is used to navigate the report or exported spreadsheet. The dynamic grouping is used to produce a summary page and a calendar per page/grouping. I use bookmarks to navigate from the summary page to individual calendars. Assigning colours to groups is done by using a DENSE_RANK to produce a row number per group per calendar items. That row number is matched to a row number of a colour view. Embedded code written in Visual Basic is used to assign alternating row colours.</span>
                 <br>
+            </kbd>
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+<br>
+
+<a id="user-content-tableau" class="anchor" href="#tableau" aria-hidden="true"> </a>
+<table style="width:100%">
+    <caption>
+        <h2>
+            <img align="left" src="Images/ReadMe/app_tableau.png" width="32px">
+            Tableau Projects
+        </h2>
+    </caption>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
             </kbd>
         </td>
     </tr>
