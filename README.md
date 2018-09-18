@@ -45,7 +45,7 @@
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
             <img align="middle" src="Images/ReadMe/app_powerbi.png" width="32px">
-            <a href="#power-bi-projects">Power BI</a>
+            <a href="#powerbi">Power BI</a>
         </td>
         <td align="left" valign="middle">
             Microsoft Power BI projects (Coming soon)</a>
@@ -323,6 +323,30 @@
                 <br>
                 <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to import calendars.</span>
                 <br>
+            </kbd>
+        </td>
+    </tr>
+</table>
+
+<a id="user-content-powerbi" class="anchor" href="#powerbi" aria-hidden="true"> </a>
+<table style="width:100%">
+    <caption>
+        <h2>
+            <img align="left" src="Images/ReadMe/app_powerbi.png" width="32px">
+            Power BI Projects
+        </h2>
+    </caption>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
             </kbd>
         </td>
     </tr>
