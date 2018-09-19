@@ -152,7 +152,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_autocad.png" width="32px">
-            AutoCAD Projects
+            AutoCAD
         </h2>
     </caption>
     <tr valign="top">
@@ -206,7 +206,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_office.png" width="32px">
-            Office Projects
+            Office
         </h2>
     </caption>
     <tr valign="top">
@@ -337,7 +337,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_powerbi.png" width="32px">
-            Power BI Projects
+            Power BI
         </h2>
     </caption>
     <tr valign="top">
@@ -365,7 +365,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_sql.png" width="32px">
-            Reporting Services Projects
+            Reporting Services
         </h2>
     </caption>
     <tr valign="top">
@@ -557,7 +557,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_tableau.png" width="32px">
-            Tableau Projects
+            Tableau
         </h2>
     </caption>
     <tr valign="top">
@@ -585,7 +585,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_visual.png" width="32px">
-            Visual Studio Projects
+            Visual Studio
         </h2>
     </caption>
     <tr valign="top">
