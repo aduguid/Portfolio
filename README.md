@@ -206,7 +206,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_office.png" width="32px">
-            <a href="https://github.com/Office-projects">Office Projects</a>
+            Office Projects
         </h2>
     </caption>
     <tr valign="top">
@@ -365,7 +365,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_sql.png" width="32px">
-            <a href="https://github.com/SQL-Server-projects">Reporting Services Projects</a>
+            Reporting Services Projects
         </h2>
     </caption>
     <tr valign="top">
@@ -585,7 +585,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_visual.png" width="32px">
-            <a href="https://github.com/Visual-Studio-projects">Visual Studio Projects</a>
+            Visual Studio Projects
         </h2>
     </caption>
     <tr valign="top">
