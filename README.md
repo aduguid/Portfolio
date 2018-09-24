@@ -1,12 +1,8 @@
-<img align="middle" src="Images/ReadMe/Portfolio.gif" width="350px">
+<img align="center" src="Images/ReadMe/Portfolio.gif" width="300px">
 
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 -----
 
