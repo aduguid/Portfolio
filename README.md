@@ -1,4 +1,4 @@
-<img align="left" src="Images/ReadMe/Portfolio.gif" width="250px">
+<img align="middle" src="Images/ReadMe/Portfolio.gif" width="350px">
 
 <br>
 <br>
