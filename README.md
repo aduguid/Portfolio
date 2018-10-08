@@ -35,7 +35,7 @@
             <a href="#office-addins">Office</a>
         </td>
         <td align="left" valign="middle">
-            Microsoft Office projects in .NET and VBA (Access, Excel, Outlook, Visio)</a>
+            Microsoft Office projects in .NET and VBA (Access, Excel, Outlook, Visio, Word)</a>
         </td>
     </tr>
     <tr valign="top">
