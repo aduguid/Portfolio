@@ -111,7 +111,7 @@
                 </a>
                 <br>
                 <br>
-                <span style="max-width:256px;">Sharing example projects in several programming languages.
+                <span style="max-width:256px;">Sharing example projects and wiki articles in several programming languages.
 				    <br><br>
                   * <a href="https://code.msdn.microsoft.com/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=aduguid" title="https://code.msdn.microsoft.com">MSDN Developer Code Samples</a>
                     <br><br>
