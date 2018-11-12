@@ -43,7 +43,7 @@
             <a href="#powerbi">Power BI</a>
         </td>
         <td align="left" valign="middle">
-            Microsoft Power BI projects (Coming soon)</a>
+            Microsoft Power BI projects</a>
         </td>
     </tr>
     <tr valign="top">
@@ -342,10 +342,26 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
+                Student Withdraw Demographics
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/powerbi.demographics.example.png" align="top" width="256px" title="Student Withdraw Demographics" />
+                <br>
+                <br>
+                <span style="max-width:256px;">...</span>
+                <br>
             </kbd>
         </td>
         <td width="33%">
             <kbd>
+                Course Progress to Target
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/powerbi.report.png" align="top" width="256px" title="Course Progress to Target" />
+                <br>
+                <br>
+                <span style="max-width:256px;">...</span>
+                <br>
             </kbd>
         </td>
         <td width="33%">
