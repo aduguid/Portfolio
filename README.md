@@ -211,10 +211,10 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Office-projects/Script-Help/blob/master/README.md">Excel Script Help (VSTO)</a>
+                <a href="https://github.com/Excel-projects/Script-Help/blob/master/README.md">Excel Script Help (VSTO)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.scripthelp.gif" align="top" width="256px" title="Excel Script Help" />
+                <img src="https://raw.githubusercontent.com/Excel-projects/Script-Help/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Excel Script Help" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This Add-In is used for cleaning & creating a script for batch loading records into SQL Server, Oracle, Documentum, Markup or Markdown Languages. The functionality within the ribbon allows a quick way of preparing a bulk data load. Otherwise, the requests can be both time-consuming and error prone. Written in C#, VB.NET and VBA.
@@ -224,10 +224,10 @@
         </td>
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Office-projects/Server-Actions/blob/master/README.md">Excel Server Help (VSTO)</a>
+                <a href="https://github.com/Excel-projects/Server-Actions/blob/master/README.md">Excel Server Help (VSTO)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.serverhelp.gif" align="top" width="256px" title="Excel Server Help" />
+                <img src="https://raw.githubusercontent.com/Excel-projects/Server-Help/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Excel Server Help" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This Add-In allows the user to ping a list of servers and creates a file for Microsoft Remote Desktop Manager from an Excel table. This is used for quickly determining which servers are offline in a list. Written in C#, VB.NET and VBA.
@@ -237,10 +237,10 @@
         </td>
         <td width="33%">
             <kbd>
-                Excel Markup (VSTO)
+                <a href="https://github.com/Excel-projects/Excel-Markup/blob/master/README.md">Excel Markup (VSTO)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.markup.gif" align="top" width="256px" title="Excel Markup" />
+                <img src="https://raw.githubusercontent.com/Excel-projects/Excel-Markup/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Excel Markup" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This Add-In is used for marking up Excel files with revisions. There are two common methods of indicating where a revision has changed a drawing that contains a system diagram. The first is the cloud method, were each change is enclosed by a cloud shape. The second method involves placing a triangle with the revision number next to each effected portion of the drawing. The cloud method indicates changes from the most recent revision only, whereas the second method indicates all revisions to the drawing because all of the previous revision circles remain on the drawing. Written in C#, VB.NET and VBA.</span>
@@ -251,10 +251,10 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Office-projects/Excel-Favorites/blob/master/README.md">Excel Favorites (VSTO)</a>
+                <a href="https://github.com/Excel-projects/Excel-Favorites/blob/master/README.md">Excel Favorites (VSTO)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.excel.ribbon.favorites.gif" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
+                <img src="https://raw.githubusercontent.com/Excel-projects/Excel-Favorites/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This Add-In gives the user a custom favorites ribbon. Key distinctive attributes include dedicated buttons for changing the visibility/sort order of sheets, copying visible cells, Excel's camera feature, Snipping Tool, Problem Steps Recorder (PSR) and Windows Calculator. Written in C#, VB.NET and VBA.</span>
@@ -263,10 +263,10 @@
         </td>
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Office-projects/Excel-Timesheet/blob/master/README.md">Excel Timesheet (VBA)</a>
+                <a href="https://github.com/Excel-projects/Excel-Timesheet/blob/master/README.md">Excel Timesheet (VBA)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/Office-projects/Excel-Timesheet/master/Images/ReadMe/vba.excel.ribbon.timesheet.gif" align="top" width="256px" title="Microsoft Excel Timesheet Ribbon" />
+                <img src="https://raw.githubusercontent.com/Excel-projects/Excel-Timesheet/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Microsoft Excel Timesheet Ribbon" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This Add-In is used to produce a timesheet file with functionality to import your Google Timeline.</span>
@@ -289,7 +289,7 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Office-projects/Access-examples/blob/master/README.md">Access VBA Examples</a>
+                <a href="https://github.com/Access-projects/Access-examples/blob/master/README.md">Access VBA Examples</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.access.examples.png" align="top" width="256px" title="Access VBA Examples" />
@@ -302,7 +302,7 @@
         </td>
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Office-projects/Visio-Shape-Extract/blob/master/README.md">Visio Shape Export (VSTO)</a>
+                <a href="https://github.com/Visio-projects/Visio-Shape-Extract/blob/master/README.md">Visio Shape Export (VSTO)</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vsto.visio.shape.extract2.png" align="top" width="256px" title="Visio Shape Export" />
