@@ -277,7 +277,7 @@
                 <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/vba.excel.ribbon.cellextract.gif" align="top" width="256px" title="Microsoft Excel Cell Extract Addin" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in VBA, this project was done as an Excel Addin with a ribbon to import enrollment data from 500 files. The median import time is 2 seconds per file. I used a column mapping to the cell references in multiple sheets to generate the import specification.</span>
+                <span style="max-width:256px;">This project was done as an Excel Addin VBA Addin with a ribbon to import enrollment data from multiple files. The median import time is 2 seconds per file. I used a column mapping to the cell references in multiple sheets to generate the import specification.</span>
                 <br>
             </kbd>
         </td>
