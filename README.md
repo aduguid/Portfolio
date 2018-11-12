@@ -614,10 +614,10 @@
         </td>
         <td width="33%">
             <kbd>
-                <a href="https://raw.githubusercontent.com/aduguid/SharePointWebparts/master/Timezones_with_Temp.dwp">SharePoint Webpart Timezones & Temperature</a>
+                <a href="https://raw.githubusercontent.com/SharePoint-projects/Content-Editor-examples/master/Timezones_with_Temp.dwp">SharePoint Webpart Timezones & Temperature</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/sharepointwebparttimezoneweatherhyperlink.gif" align="top" width="256px" title="SharePoint Webpart Timezones with Temperature" />
+                <img src="https://raw.githubusercontent.com/SharePoint-projects/Content-Editor-examples/master/Images/ReadMe/sharepointwebparttimezoneweatherhyperlink.gif" align="top" width="256px" title="SharePoint Webpart Timezones with Temperature" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Written in HTML/Javascript, it displays timezones with hyperlinks to temperature. The time updates every second.</span>
