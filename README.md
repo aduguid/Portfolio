@@ -112,6 +112,10 @@
                 <br>
                 <br>
                 <span style="max-width:256px;">Sharing example projects in several programming languages.
+				    <br><br>
+                  * <a href="https://code.msdn.microsoft.com/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=aduguid" title="https://code.msdn.microsoft.com">MSDN Developer Code Samples</a>
+                    <br><br>
+                  * <a href="https://social.technet.microsoft.com/wiki/contents/articles/tags/aduguid/default.aspx" title="https://social.technet.microsoft.com">MSDN Wiki Articles</a>
                 </span>
                 <br>
             </kbd>
