@@ -224,7 +224,7 @@
         </td>
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Excel-projects/Server-Actions/blob/master/README.md">Excel Server Help (VSTO)</a>
+                <a href="https://github.com/Excel-projects/Server-Help/blob/master/README.md">Excel Server Help (VSTO)</a>
                 <br>
                 <br>
                 <img src="https://raw.githubusercontent.com/Excel-projects/Server-Help/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Excel Server Help" />
