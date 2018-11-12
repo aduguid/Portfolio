@@ -107,7 +107,7 @@
                 <br>
                 <br>
                <a href="https://social.msdn.microsoft.com/profile/aduguid/">
-    <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile2.png#3" width="256px" align="top" alt="MSDN Profile" title="https://social.msdn.microsoft.com">
+    <img src="https://raw.githubusercontent.com/aduguid/SoftwarePortfolio/master/Images/ReadMe/msdn_profile.png#1" width="256px" align="top" alt="MSDN Profile" title="https://social.msdn.microsoft.com">
                 </a>
                 <br>
                 <br>
