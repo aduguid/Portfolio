@@ -71,7 +71,7 @@
             <a href="#visual-studio">Visual Studio</a>
         </td>
         <td align="left" valign="middle">
-            Various projects in C#, VB.NET, JavaScript and Markdown including Active Directory attribute export, Documentum batch script, SharePoint web parts, Visual Studio Team Services dashboards</a>
+            Various projects in C#, VB.NET, JavaScript and Markdown including Active Directory attribute export, Documentum batch script, SharePoint web parts, Visual Studio Azure DevOps Services dashboards</a>
         </td>
     </tr>
 </table>
