@@ -160,7 +160,7 @@
                 Attribute Extract Tool
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityextract.png" align="top" width="256px" title="AutoCAD Automation Extracting Tool" />
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vbnet.wpf.autocad.batchutility.extract.gif" align="top" width="256px" title="AutoCAD Automation Extracting Tool" />
                 <br>
                 <br>
                 <span style="max-width:256px;">This application allows the user to loop through each entity in a piping and instrumentation drawing to extract entities and attribute values. Depending on the parameter options entities are extracted within clouding for new project work or no clouding as with as building at project completion. The application uses stored layer names to determine the cloud types. A standard list of entities and attributes are used to query the extracted data for reporting in SSRS. There is an option in the settings to use either a SQL Server localDB or a server database. SQL Server localDB is used for the portable version. The original project was migrated from VBA/dvb project file. This application is in Visual Studio 2015 in VB .NET/WPF using the AutoCAD 2016 object model. The procedures are multi-threaded using background workers. The application uses late binding for a current session of AutoCAD and early binding for a new session. ClickOnce deployment is used for the install. The API documentation is done with Microsoft Sandcastle. The application diagrams are done with Microsoft Visio. The “As Is” documentation is done in a markdown file.                     </span>
