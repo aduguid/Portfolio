@@ -62,7 +62,7 @@
             <a href="#tableau">Tableau</a>
         </td>
         <td align="left" valign="middle">
-            Tableau projects (Coming soon)</a>
+            Tableau projects</a>
         </td>
     </tr>
     <tr valign="top">
@@ -337,7 +337,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_powerbi.png" width="32px">
-            Power BI
+            Power BI (still working on this one)
         </h2>
     </caption>
     <tr valign="top">
@@ -573,7 +573,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_tableau.png" width="32px">
-            Tableau
+            Tableau (still working on this one)
         </h2>
     </caption>
     <tr valign="top">
