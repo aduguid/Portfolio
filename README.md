@@ -651,7 +651,7 @@
                 <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vsts.dashboard.reportsproject.png" align="top" width="256px" title="Azure DevOps Services Dashboard (Report Project)" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Dashboard for SSRS report solution project in Visual Studio Team Services.</span>
+                <span style="max-width:256px;">Dashboard for SSRS report solution project in Azure DevOps Services.</span>
                 <br>
             </kbd>
         </td>
@@ -660,7 +660,7 @@
                 <a>Azure DevOps Services Dashboard (All Projects)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vsts.dashboard.allprojects.png" align="top" width="256px" title="Visual Studio Team Services Dashboard (All Projects)" />
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vsts.dashboard.allprojects.png" align="top" width="256px" title="Azure DevOps Services Dashboard (All Projects)" />
                 <br>
                 <br>
                 <span style="max-width:256px;">Dashboard for all projects in Azure DevOps Services.</span>
