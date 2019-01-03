@@ -269,7 +269,8 @@
                 <img src="https://raw.githubusercontent.com/Excel-projects/Excel-Timesheet/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Microsoft Excel Timesheet Ribbon" />
                 <br>
                 <br>
-                <span style="max-width:256px;">This Add-In is used to produce a timesheet file with functionality to import your Google Timeline.</span>
+                <span style="max-width:256px;">This Add-In is used to produce a timesheet file with functionality to import your Google Timeline. The standard timesheet has options for start and end dates, day of week and default start, end and break times. The Google timeline options are start and end dates, UTC selection, daylight savings time parameters and title filter for timeline entries. There is also a right click shortcut to open your Google timeline to the date of the row that is currently selected.
+		    </span>
                 <br>
             </kbd>
         </td>
