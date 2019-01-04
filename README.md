@@ -349,7 +349,7 @@
                 <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.demographics.example.png" align="top" width="256px" title="Student Withdraw Demographics" />
                 <br>
                 <br>
-                <span style="max-width:256px;">...</span>
+                <span style="max-width:256px;">High attrition rates in education have been a concern for many years in Australia. The following visual allows the user to gain insights to demographic information by filtering in several different ways including: gender, age, post code, teacher, department and course.</span>
                 <br>
             </kbd>
         </td>
