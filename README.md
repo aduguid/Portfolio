@@ -2,9 +2,6 @@
     <img src="Images/ReadMe/Portfolio.gif" width="300px">
 </p>
 
-
-
-
 -----
 
 <table style="width:100%">
