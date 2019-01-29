@@ -39,20 +39,20 @@
     </tr>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/app_powerbi.png" width="32px">
-            <a href="#powerbi">Power BI</a>
-        </td>
-        <td align="left" valign="middle">
-            Microsoft Power BI projects</a>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="25%" align="left" valign="middle">
             <img align="middle" src="Images/ReadMe/app_sql.png" width="32px">
             <a href="#ssrs-reports">Reporting Services</a>
         </td>
         <td align="left" valign="middle">
             Microsoft Reporting Services projects on the report server as well as SharePoint</a>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="25%" align="left" valign="middle">
+            <img align="middle" src="Images/ReadMe/app_powerbi.png" width="32px">
+            <a href="#powerbi">Power BI</a>
+        </td>
+        <td align="left" valign="middle">
+            Microsoft Power BI projects</a>
         </td>
     </tr>
     <tr valign="top">
@@ -332,50 +332,6 @@
 <br>
 <br>
 
-<a id="user-content-powerbi" class="anchor" href="#powerbi" aria-hidden="true"> </a>
-<table style="width:100%">
-    <caption>
-        <h2>
-            <img align="left" src="Images/ReadMe/app_powerbi.png" width="32px">
-            Power BI (still working on this one)
-        </h2>
-    </caption>
-    <tr valign="top">
-        <td width="33%">
-            <kbd>
-                Student Withdraw Demographics
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.demographics.example.png" align="top" width="256px" title="Student Withdraw Demographics" />
-                <br>
-                <br>
-                <span style="max-width:256px;">High attrition rates in education have been a concern for many years in Australia. The following visual allows the user to gain insights to demographic information by filtering in several different ways including: gender, age, post code, teacher, department and course.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                Course Progress to Target
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.report.png" align="top" width="256px" title="Course Progress to Target" />
-                <br>
-                <br>
-                <span style="max-width:256px;">...</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-            </kbd>
-        </td>
-    </tr>
-</table>
-
-<br>
-<br>
-<br>
-
 <a id="user-content-ssrs-reports" class="anchor" href="#ssrs-reports" aria-hidden="true"> </a>
 <table style="width:100%">
     <caption>
@@ -559,6 +515,50 @@
                 <br>
                 <span style="max-width:256px;">This report uses a nested tablix inside of a matrix to show a calendar view. The document map is used to navigate the report or exported spreadsheet. The dynamic grouping is used to produce a summary page and a calendar per page/grouping. I use bookmarks to navigate from the summary page to individual calendars. Assigning colours to groups is done by using a DENSE_RANK to produce a row number per group per calendar items. That row number is matched to a row number of a colour view. Embedded code written in Visual Basic is used to assign alternating row colours.</span>
                 <br>
+            </kbd>
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+<br>
+
+<a id="user-content-powerbi" class="anchor" href="#powerbi" aria-hidden="true"> </a>
+<table style="width:100%">
+    <caption>
+        <h2>
+            <img align="left" src="Images/ReadMe/app_powerbi.png" width="32px">
+            Power BI (still working on this one)
+        </h2>
+    </caption>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                Student Withdraw Demographics
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.demographics.example.png" align="top" width="256px" title="Student Withdraw Demographics" />
+                <br>
+                <br>
+                <span style="max-width:256px;">High attrition rates in education have been a concern for many years in Australia. The following visual allows the user to gain insights to demographic information by filtering in several different ways including: gender, age, post code, teacher, department and course.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                Course Progress to Target
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.report.png" align="top" width="256px" title="Course Progress to Target" />
+                <br>
+                <br>
+                <span style="max-width:256px;">...</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
             </kbd>
         </td>
     </tr>
