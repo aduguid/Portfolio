@@ -341,6 +341,18 @@
         </h2>
     </caption>
     <tr valign="top">
+	  <td width="33%">
+            <kbd>
+                Weekly Calendar
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/ssrsnestedtablixmatrixcalendar.png" align="top" width="256px" title="Weekly Calendar" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This report uses a nested tablix inside of a matrix to show a calendar view. The document map is used to navigate the report or exported spreadsheet. The dynamic grouping is used to produce a summary page and a calendar per page/grouping. I use bookmarks to navigate from the summary page to individual calendars. Assigning colours to groups is done by using a DENSE_RANK to produce a row number per group per calendar items. That row number is matched to a row number of a colour view. Embedded code written in Visual Basic is used to assign alternating row colours.</span>
+                <br>
+            </kbd>
+        </td>
         <td width="33%">
             <kbd>
                 <a href="https://gist.githubusercontent.com/aduguid/4905cd812ef2c86ad3d026be852c62ad/raw/deff6b7cd79f2b729aa31e62795cfa32956cf4f3/SSRS.heatmap_example">SharePoint Report Viewer Heat Map Calendar</a>
@@ -355,25 +367,13 @@
         </td>
         <td width="33%">
             <kbd>
-                Geospatial Map example
+                S Curve Cumulative Progress
                 <br>
                 <br>
-                <img align="center" src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/ssrs.geospatial.map.png" width="256px" title="Geospatial Map" />
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/ssrsscurve.png" align="top" width="256px" title="S Curve Cumulative Progress" />
                 <br>
                 <br>
-                <span style="max-width:256px;">This is an example of a geospatial map.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%" align="center">
-            <kbd>
-                Mobile Report Publisher example
-                <br>
-                <br>
-                <img align="center" src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/ssrs.mobile.report.png" width="64px" title="Mobile Report Publisher" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This is an example from SQL Server Mobile Report Publisher.</span>
+                <span style="max-width:256px;">This report is used for querying the cumulative hours or sales quantities plotted against time. It is dynamicly grouped by either quarter, month or weekending.</span>
                 <br>
             </kbd>
         </td>
@@ -488,32 +488,6 @@
                 <br>
                 <br>
                 <span style="max-width:256px;">This report is used for querying the report server folder permissions.</span>
-                <br>
-            </kbd>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="33%">
-            <kbd>
-                S Curve Cumulative Progress
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/ssrsscurve.png" align="top" width="256px" title="S Curve Cumulative Progress" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This report is used for querying the cumulative hours or sales quantities plotted against time. It is dynamicly grouped by either quarter, month or weekending.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                Weekly Calendar
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/ssrsnestedtablixmatrixcalendar.png" align="top" width="256px" title="Weekly Calendar" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This report uses a nested tablix inside of a matrix to show a calendar view. The document map is used to navigate the report or exported spreadsheet. The dynamic grouping is used to produce a summary page and a calendar per page/grouping. I use bookmarks to navigate from the summary page to individual calendars. Assigning colours to groups is done by using a DENSE_RANK to produce a row number per group per calendar items. That row number is matched to a row number of a colour view. Embedded code written in Visual Basic is used to assign alternating row colours.</span>
                 <br>
             </kbd>
         </td>
