@@ -535,6 +535,14 @@
         </td>
         <td width="33%">
             <kbd>
+                Service Now Dashboard
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.servicenow.png" align="top" width="256px" title="Service Now Dashboard" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This Power BI dashboard is used for loading Service Now records from the task table using Rest API. The connection is parameterized to let the number of months be updated as well as the assignment group which is reflected in the dashboard title.</span>
+                <br>
             </kbd>
         </td>
     </tr>
