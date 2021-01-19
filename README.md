@@ -505,7 +505,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_powerbi.png" width="32px">
-            Power BI (still working on this one)
+            Power BI
         </h2>
     </caption>
     <tr valign="top">
