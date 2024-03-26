@@ -50,7 +50,7 @@
     </tr>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/app_powerbi.png" width="32px">
+            <img align="middle" src="Images/ReadMe/app_powerbi2.png" width="32px">
             <a href="#powerbi">Power BI</a>
         </td>
         <td align="left" valign="middle">
