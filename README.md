@@ -42,7 +42,7 @@
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
             <img align="middle" src="Images/ReadMe/app_pbirs.png" width="32px">
-            <a href="#ssrs-reports">Reporting Server</a>
+            <a href="#ssrs-reports">Report Server</a>
         </td>
         <td align="left" valign="middle">
             Microsoft Report Server projects</a>
