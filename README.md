@@ -338,8 +338,8 @@
 <table style="width:100%">
     <caption>
         <h2>
-            <img align="left" src="Images/ReadMe/app_sql.png" width="32px">
-            Reporting Services
+            <img align="left" src="Images/ReadMe/app_pbirs.png" width="32px">
+            Reporting Server
         </h2>
     </caption>
     <tr valign="top">
@@ -504,7 +504,7 @@
 <table style="width:100%">
     <caption>
         <h2>
-            <img align="left" src="Images/ReadMe/app_powerbi.png" width="32px">
+            <img align="left" src="Images/ReadMe/app_powerbi2.png" width="32px">
             Power BI
         </h2>
     </caption>
