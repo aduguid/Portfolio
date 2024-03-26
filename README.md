@@ -41,11 +41,11 @@
     </tr>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/app_sql.png" width="32px">
-            <a href="#ssrs-reports">Reporting Services</a>
+            <img align="middle" src="Images/ReadMe/app_pbirs.png" width="32px">
+            <a href="#ssrs-reports">Reporting Server</a>
         </td>
         <td align="left" valign="middle">
-            Microsoft Reporting Services projects on the report server as well as SharePoint</a>
+            Microsoft Reporting Server projects</a>
         </td>
     </tr>
     <tr valign="top">
