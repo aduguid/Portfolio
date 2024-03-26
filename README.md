@@ -45,7 +45,7 @@
             <a href="#ssrs-reports">Reporting Server</a>
         </td>
         <td align="left" valign="middle">
-            Microsoft Reporting Server projects</a>
+            Microsoft Report Server projects</a>
         </td>
     </tr>
     <tr valign="top">
@@ -339,7 +339,7 @@
     <caption>
         <h2>
             <img align="left" src="Images/ReadMe/app_pbirs.png" width="32px">
-            Reporting Server
+            Report Server
         </h2>
     </caption>
     <tr valign="top">
