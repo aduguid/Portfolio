@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Images/ReadMe/Portfolio.gif" width="300px">
+    <img src="Images/ReadMe/Title.png" width="300px">
 </p>
 
 
@@ -14,38 +14,11 @@
     </caption>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/app_profile.png" width="32px">
+            <img align="middle" src="Images/ReadMe/person2.png" width="32px">
             <a href="#profiles">Profiles</a>
         </td>
         <td align="left" valign="middle">
             Coding website profiles</a>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="25%" align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/app_autocad.png" width="32px">
-            <a href="#autocad">AutoCAD</a>
-        </td>
-        <td align="left" valign="middle">
-            AutoCAD automation projects in .NET and VBA</a>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="25%" align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/app_office.png" width="32px">
-            <a href="#office-addins">Office</a>
-        </td>
-        <td align="left" valign="middle">
-            Microsoft Office projects in .NET and VBA (Access, Excel, Outlook, Visio, Word)</a>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="25%" align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/app_pbirs.png" width="32px">
-            <a href="#ssrs-reports">Report Server</a>
-        </td>
-        <td align="left" valign="middle">
-            Microsoft Report Server projects</a>
         </td>
     </tr>
     <tr valign="top">
@@ -59,11 +32,11 @@
     </tr>
     <tr valign="top">
         <td width="25%" align="left" valign="middle">
-            <img align="middle" src="Images/ReadMe/app_tableau.png" width="32px">
-            <a href="#tableau">Tableau</a>
+            <img align="middle" src="Images/ReadMe/app_pbirs.png" width="32px">
+            <a href="#ssrs-reports">Report Server</a>
         </td>
         <td align="left" valign="middle">
-            Tableau projects</a>
+            Microsoft Report Server projects</a>
         </td>
     </tr>
     <tr valign="top">
@@ -73,6 +46,24 @@
         </td>
         <td align="left" valign="middle">
             Various projects in C#, VB.NET, JavaScript and Markdown including Active Directory attribute export, Documentum batch script, SharePoint web parts, Azure DevOps Services dashboards</a>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="25%" align="left" valign="middle">
+            <img align="middle" src="Images/ReadMe/app_office.png" width="32px">
+            <a href="#office-addins">Office</a>
+        </td>
+        <td align="left" valign="middle">
+            Microsoft Office projects in .NET and VBA (Access, Excel, Outlook, Visio, Word)</a>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="25%" align="left" valign="middle">
+            <img align="middle" src="Images/ReadMe/app_autocad.png" width="32px">
+            <a href="#autocad">AutoCAD</a>
+        </td>
+        <td align="left" valign="middle">
+            AutoCAD automation projects in .NET and VBA</a>
         </td>
     </tr>
 </table>
@@ -86,7 +77,7 @@
 <table style="width:100%">
     <caption>
         <h2>
-            <img align="left" src="Images/ReadMe/app_profile.png" width="32px">
+            <img align="left" src="Images/ReadMe/person2.png" width="32px">
             Profiles
         </h2>
     </caption>
@@ -148,104 +139,48 @@
 <br>
 <br>
 
-<a id="user-content-autocad" class="anchor" href="#autocad" aria-hidden="true"> </a>
+<a id="user-content-powerbi" class="anchor" href="#powerbi" aria-hidden="true"> </a>
 <table style="width:100%">
     <caption>
         <h2>
-            <img align="left" src="Images/ReadMe/app_autocad.png" width="32px">
-            AutoCAD
+            <img align="left" src="Images/ReadMe/app_powerbi2.png" width="32px">
+            Power BI
         </h2>
     </caption>
-    <tr valign="top">
+        <tr valign="top">
         <td width="33%">
             <kbd>
-                Attribute Extract Tool
+                User Metrics 
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vbnet.wpf.autocad.batchutility.extract.gif" align="top" width="256px" title="AutoCAD Automation Extracting Tool" />
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.daily_dashboard.png" align="top" width="256px" title="User Metrics" />
                 <br>
                 <br>
-                <span style="max-width:256px;">The AutoCAD Automation Extracting Tool allows the user to loop through each entity in a piping and instrumentation drawing to then extract entities and attribute values. Depending on the parameter options entities are extracted within clouding for new project work or no clouding as with as building at project completion. The application uses stored layer names to determine the cloud types. A standard list of entities and attributes are used to query the extracted data for reporting in SSRS. There is an option in the settings to use either a SQL Server localDB or a server database. SQL Server localDB is used for the portable version. The original project was migrated from VBA/dvb project file. This application is in Visual Studio 2015 in VB .NET/WPF using the AutoCAD 2016 object model. The procedures are multi-threaded using background workers. The application uses late binding for a current session of AutoCAD and early binding for a new session. ClickOnce deployment is used for the install. The API documentation is done with Microsoft Sandcastle. The application diagrams are done with Microsoft Visio. The “As Is” documentation is done in a markdown file in Azure DevOps Services.                     </span>
+                <span style="max-width:256px;">The User Metrics Dashboard is a comprehensive Power BI solution designed to provide stakeholders with a clear and concise overview of key performance metrics across various timeframes. This user-friendly dashboard offers a visually appealing interface that facilitates easy interpretation of data trends and patterns, empowering decision-makers to make informed strategic decisions. These metrics are strategically broken down by different timeframes, enabling users to analyze trends over several different intervals.</span>
                 <br>
             </kbd>
         </td>
         <td width="33%">
             <kbd>
-                Batch Plotting Tool
+                Data Quality
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Plotting Tool" />
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.data_quality.png" align="top" width="256px" title="Data Quality" />
                 <br>
                 <br>
-                <span style="max-width:256px;">The AutoCAD Automation Plotting Tool allows the user to batch plot AutoCAD files with options to convert drawings to pdf files. Plot styles are applied to the drawings during the conversion. Logging is implemented with Log4Net to track errors during the conversion of 200,000 files. There was less than a 0.5% failure in the process. The processing time took 3 virtual machines 5 days to complete. The median processing time was 10 seconds per file. It can also send the files to a plotter with a selected page size in the active space either model or paper. There is also an option to add or remove a layered watermark using a .dwt file. It was written in VB.NET, Windows Presentation Foundation (WPF) in Visual Studio 2017. 
-                </span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                Title Block Tool
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/dvb.titleblock.tool2.png" align="top" width="256px" title="Title Block Tool" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Title Block Tool extracts entity block attributes from multiple files by using standardized naming conventions for the title block names. The title block and attribute names are stored in a template table and referenced during the extraction process. A custom edit attributes form is used to select values from dropdown lists to improve data quality. The application also allows the users to bulk update the title blocks from the database back to the original files. The modules and classes are exported with a procedure for source control check-in. The install was done in Wise Installer. It was developed in a compiled VBA/dvb file with the database in Microsoft Access & Oracle. Microsoft Access is used for the portable version. The custom AutoCAD menu is in DIESEL.
-                </span>
-                <br>
-            </kbd>
-        </td>
-    </tr>
-</table>
-
-<br>
-<br>
-<br>
-
-<a id="user-content-office-addins" class="anchor" href="#office-addins" aria-hidden="true"> </a>
-<table style="width:100%">
-    <caption>
-        <h2>
-            <img align="left" src="Images/ReadMe/app_office.png" width="32px">
-            Office
-        </h2>
-    </caption>
-    <tr valign="top">
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/Excel-projects/Script-Help/blob/master/README.md">Excel Script Help (VSTO)</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/Excel-projects/Script-Help/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Excel Script Help" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This Add-In is used for cleaning & creating a script for batch loading records into SQL Server, Oracle, Documentum, Markup or Markdown Languages. The functionality within the ribbon allows a quick way of preparing a bulk data load. Otherwise, the requests can be both time-consuming and error prone. Written in C#, VB.NET and VBA.
-                </span>
+                <span style="max-width:256px;">The Data Quality Trends Dashboard in Power BI provides a comprehensive overview of key metrics including completeness, accuracy, timeliness, and consistency over time, allowing organizations to monitor and analyze the quality of their data assets effectively.</span>
                 <br>
             </kbd>
         </td>
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Excel-projects/Server-Help/blob/master/README.md">Excel Server Help (VSTO)</a>
+                Attendance Dashboard
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/Excel-projects/Server-Help/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Excel Server Help" />
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.calendar_heatmap.png" align="top" width="256px" title="Attendance Dashboard" />
                 <br>
                 <br>
-                <span style="max-width:256px;">This Add-In allows the user to ping a list of servers and creates a file for Microsoft Remote Desktop Manager from an Excel table. This is used for quickly determining which servers are offline in a list. Written in C#, VB.NET and VBA.
-                </span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/Excel-projects/Excel-Markup/blob/master/README.md">Excel Markup (VSTO)</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/Excel-projects/Excel-Markup/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Excel Markup" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This Add-In is used for marking up Excel files with revisions. There are two common methods of indicating where a revision has changed a drawing that contains a system diagram. The first is the cloud method, were each change is enclosed by a cloud shape. The second method involves placing a triangle with the revision number next to each effected portion of the drawing. The cloud method indicates changes from the most recent revision only, whereas the second method indicates all revisions to the drawing because all of the previous revision circles remain on the drawing. Written in C#, VB.NET and VBA.</span>
+                <span style="max-width:256px;">The Attendance Dashboard is a comprehensive visualization tool designed to provide insights into employee office attendance patterns over time. Utilizing Power BI's dynamic features, this dashboard offers a visually appealing representation of attendance data, allowing managers and HR professionals to track attendance trends, identify areas of concern, and make informed decisions to optimize workforce management.</span>
                 <br>
             </kbd>
         </td>
@@ -253,77 +188,43 @@
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a href="https://github.com/Excel-projects/Excel-Favorites/blob/master/README.md">Excel Favorites (VSTO)</a>
+                Marketing Metrics
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/Excel-projects/Excel-Favorites/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.metrics_dashboard.png" align="top" width="256px" title="Marketing Metrics" />
+		<br>
+		<br>
+		<img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.metrics_dashboard_mobile.png" align="top" width="50px" title="Marketing Metrics" />
                 <br>
                 <br>
-                <span style="max-width:256px;">This Add-In gives the user a custom favorites ribbon. Key distinctive attributes include dedicated buttons for changing the visibility/sort order of sheets, copying visible cells, Excel's camera feature, Snipping Tool, Problem Steps Recorder (PSR) and Windows Calculator. Written in C#, VB.NET and VBA.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/Excel-projects/Excel-Timesheet/blob/master/README.md">Excel Timesheet (VBA)</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/Excel-projects/Excel-Timesheet/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Microsoft Excel Timesheet Ribbon" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This Add-In is used to produce a timesheet file with functionality to import your Google Timeline. The standard timesheet has options for start and end dates, day of week and default start, end and break times. The Google timeline options are start and end dates, UTC selection, daylight savings time parameters and title filter for timeline entries. There is also a right click shortcut to open your Google timeline to the date of the row that is currently selected.
-		    </span>
+                <span style="max-width:256px;">The Marketing Performance Insights Dashboard is a comprehensive visualization tool designed to provide marketing professionals with actionable insights, client engagement, and overall performance. Developed using Power BI, this dashboard offers a user-friendly interface that consolidates key metrics from various marketing channels, enabling stakeholders to make data-driven decisions and optimize marketing strategies. Additionally, the dashboard is optimized for mobile viewing, ensuring that marketing professionals can access key insights and metrics on-the-go, facilitating quick decision-making and responsiveness to real-time data trends.</span>
                 <br>
             </kbd>
         </td>
         <td width="33%">
             <kbd>
-                <a>Excel Cell Extract Ribbon (VBA)</a>
+                Dynamic Trend Analysis
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vba.excel.ribbon.cellextract.gif" align="top" width="256px" title="Microsoft Excel Cell Extract Addin" />
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.dynamic_trend.png" align="top" width="256px" title="Dynamic Trend Analysis" />
+		<br>
+		<br>
+		<img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.dynamic_trend_mobile.png" align="top" width="50px" title="Dynamic Trend Analysis" />
                 <br>
                 <br>
-                <span style="max-width:256px;">This project was done as an Excel VBA Addin with a ribbon to import enrollment data from multiple files. The median import time is 2 seconds per file. I used a column mapping to the cell references in multiple sheets to generate the import specification.</span>
-                <br>
-            </kbd>
-        </td>
-    </tr>
-    <tr valign="top">
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/Access-projects/Access-examples/blob/master/README.md">Access VBA Examples</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vba.access.examples.png" align="top" width="256px" title="Access VBA Examples" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in VBA, here are examples of reports and code for MS Access.</span>
-                <br>
-            </kbd>
-        </td>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/Visio-projects/Visio-Shape-Extract/blob/master/README.md">Visio Shape Export (VSTO)</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vsto.visio.shape.extract2.png" align="top" width="256px" title="Visio Shape Export" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to export the shape attributes to a .csv file.</span>
+                <span style="max-width:256px;">The Trend Analysis Page within the Marketing Performance Insights Dashboard provides a deeper examination of historical data trends across key performance metrics. Through intuitive visualizations such as line graphs, heatmaps, and trendlines, marketers can identify patterns, seasonal fluctuations, and long-term growth trajectories. This page enables users to uncover insights into which marketing strategies have consistently driven success over time and identify emerging trends that may inform future campaign planning and optimization efforts. Additionally, interactive features allow users to drill down into specific time periods or segments, providing granular insights for informed decision-making and strategy refinement.</span>
                 <br>
             </kbd>
         </td>
         <td width="33%">
             <kbd>
-                Outlook Calendar Add-In (VSTO)
+                Service Ticket Dashboard
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vsto.outlook.ribbon.calendar.png" align="top" width="256px" title="Outlook Calendar Add-In" />
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.tickets.png" align="top" width="256px" title="Service Ticket Dashboard" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to import calendars.</span>
+                <span style="max-width:256px;">The ServiceNow Ticket Analytics Dashboard is a comprehensive visualization tool designed to provide deep insights into the performance, trends, and key metrics related to tickets generated within the ServiceNow platform. Leveraging the power of Power BI, this dashboard offers a user-friendly interface that allows stakeholders, IT managers, and support teams to monitor, analyze, and optimize ticket management processes effectively.</span>
                 <br>
             </kbd>
         </td>
@@ -500,86 +401,6 @@
 <br>
 <br>
 
-<a id="user-content-powerbi" class="anchor" href="#powerbi" aria-hidden="true"> </a>
-<table style="width:100%">
-    <caption>
-        <h2>
-            <img align="left" src="Images/ReadMe/app_powerbi2.png" width="32px">
-            Power BI
-        </h2>
-    </caption>
-    <tr valign="top">
-        <td width="33%">
-            <kbd>
-                Student Withdraw Demographics
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.demographics.example.png" align="top" width="256px" title="Student Withdraw Demographics" />
-                <br>
-                <br>
-                <span style="max-width:256px;">High attrition rates in education have been a concern for many years in Australia. The following visual allows the user to gain insights to demographic information by filtering in several different ways including: gender, age, post code, teacher, department and course.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                Course Progress to Target
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.report.png" align="top" width="256px" title="Course Progress to Target" />
-                <br>
-                <br>
-                <span style="max-width:256px;">...</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                Service Now Dashboard
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.servicenow.png" align="top" width="256px" title="Service Now Dashboard" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This Power BI dashboard is used for loading Service Now records from the task table using Rest API. The connection is parameterized to let the number of months be updated as well as the assignment group which is reflected in the dashboard title.</span>
-                <br>
-            </kbd>
-        </td>
-    </tr>
-</table>
-
-<br>
-<br>
-<br>
-
-<a id="user-content-tableau" class="anchor" href="#tableau" aria-hidden="true"> </a>
-<table style="width:100%">
-    <caption>
-        <h2>
-            <img align="left" src="Images/ReadMe/app_tableau.png" width="32px">
-            Tableau (still working on this one)
-        </h2>
-    </caption>
-    <tr valign="top">
-        <td width="33%">
-            <kbd>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-            </kbd>
-        </td>
-    </tr>
-</table>
-
-<br>
-<br>
-<br>
-
 <a id="user-content-visual-studio" class="anchor" href="#visual-studio" aria-hidden="true"> </a>
 <table style="width:100%">
     <caption>
@@ -588,6 +409,44 @@
             Visual Studio
         </h2>
     </caption>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                <a>Azure DevOps Services</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/azure_devops.services.png" align="top" width="256px" title="Azure DevOps Services" />
+                <br>
+                <br>
+                <span style="max-width:256px;">I've setup Azure DevOps Services to manage software development lifecycle efficiently. With dedicated repositories for Power BI, reports, integrations, and database schemas, alongside a hierarchical permissions structure, the organization ensures secure collaboration and version control.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a>Azure DevOps Services Dashboard (Report Project)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vsts.dashboard.reportsproject.png" align="top" width="256px" title="Azure DevOps Services Dashboard (Report Project)" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Dashboard for SSRS report solution project in Azure DevOps Services.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a>Azure DevOps Services Dashboard (All Projects)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vsts.dashboard.allprojects.png" align="top" width="256px" title="Azure DevOps Services Dashboard (All Projects)" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Dashboard for all projects in Azure DevOps Services.</span>
+                <br>
+            </kbd>
+        </td>
+    </tr>
     <tr valign="top">
         <td width="33%">
             <kbd>
@@ -626,40 +485,188 @@
             </kbd>
         </td>
     </tr>
+</table>
+
+<br>
+<br>
+<br>
+
+<a id="user-content-office-addins" class="anchor" href="#office-addins" aria-hidden="true"> </a>
+<table style="width:100%">
+    <caption>
+        <h2>
+            <img align="left" src="Images/ReadMe/app_office.png" width="32px">
+            Office
+        </h2>
+    </caption>
     <tr valign="top">
         <td width="33%">
             <kbd>
-                <a>Azure DevOps Services Dashboard (Report Project)</a>
+                <a href="https://github.com/Excel-projects/Script-Help/blob/master/README.md">Excel Script Help (VSTO)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vsts.dashboard.reportsproject.png" align="top" width="256px" title="Azure DevOps Services Dashboard (Report Project)" />
+                <img src="https://raw.githubusercontent.com/Excel-projects/Script-Help/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Excel Script Help" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Dashboard for SSRS report solution project in Azure DevOps Services.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a>Azure DevOps Services Dashboard (All Projects)</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vsts.dashboard.allprojects.png" align="top" width="256px" title="Azure DevOps Services Dashboard (All Projects)" />
-                <br>
-                <br>
-                <span style="max-width:256px;">Dashboard for all projects in Azure DevOps Services.</span>
+                <span style="max-width:256px;">This Add-In is used for cleaning & creating a script for batch loading records into SQL Server, Oracle, Documentum, Markup or Markdown Languages. The functionality within the ribbon allows a quick way of preparing a bulk data load. Otherwise, the requests can be both time-consuming and error prone. Written in C#, VB.NET and VBA.
+                </span>
                 <br>
             </kbd>
         </td>
         <td width="33%">
             <kbd>
-                <a href="https://github.com/aduguid/Portfolio/edit/master/README.md">Mark Up/Mark Down Example</a>
+                <a href="https://github.com/Excel-projects/Server-Help/blob/master/README.md">Excel Server Help (VSTO)</a>
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/markupmarkdownexample.png" align="top" width="256px" title="Mark Up/Mark Down Example" />
+                <img src="https://raw.githubusercontent.com/Excel-projects/Server-Help/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Excel Server Help" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in HTML, it displays this page.</span>
+                <span style="max-width:256px;">This Add-In allows the user to ping a list of servers and creates a file for Microsoft Remote Desktop Manager from an Excel table. This is used for quickly determining which servers are offline in a list. Written in C#, VB.NET and VBA.
+                </span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Excel-projects/Excel-Markup/blob/master/README.md">Excel Markup (VSTO)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/Excel-projects/Excel-Markup/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Excel Markup" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This Add-In is used for marking up Excel files with revisions. There are two common methods of indicating where a revision has changed a drawing that contains a system diagram. The first is the cloud method, were each change is enclosed by a cloud shape. The second method involves placing a triangle with the revision number next to each effected portion of the drawing. The cloud method indicates changes from the most recent revision only, whereas the second method indicates all revisions to the drawing because all of the previous revision circles remain on the drawing. Written in C#, VB.NET and VBA.</span>
+                <br>
+            </kbd>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Excel-projects/Excel-Favorites/blob/master/README.md">Excel Favorites (VSTO)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/Excel-projects/Excel-Favorites/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Microsoft Excel Favorites Ribbon" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This Add-In gives the user a custom favorites ribbon. Key distinctive attributes include dedicated buttons for changing the visibility/sort order of sheets, copying visible cells, Excel's camera feature, Snipping Tool, Problem Steps Recorder (PSR) and Windows Calculator. Written in C#, VB.NET and VBA.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Excel-projects/Excel-Timesheet/blob/master/README.md">Excel Timesheet (VBA)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/Excel-projects/Excel-Timesheet/master/Images/ReadMe/excel.ribbon.gif" align="top" width="256px" title="Microsoft Excel Timesheet Ribbon" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This Add-In is used to produce a timesheet file with functionality to import your Google Timeline. The standard timesheet has options for start and end dates, day of week and default start, end and break times. The Google timeline options are start and end dates, UTC selection, daylight savings time parameters and title filter for timeline entries. There is also a right click shortcut to open your Google timeline to the date of the row that is currently selected.
+		    </span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a>Excel Cell Extract Ribbon (VBA)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vba.excel.ribbon.cellextract.gif" align="top" width="256px" title="Microsoft Excel Cell Extract Addin" />
+                <br>
+                <br>
+                <span style="max-width:256px;">This project was done as an Excel VBA Addin with a ribbon to import enrollment data from multiple files. The median import time is 2 seconds per file. I used a column mapping to the cell references in multiple sheets to generate the import specification.</span>
+                <br>
+            </kbd>
+        </td>
+    </tr>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Access-projects/Access-examples/blob/master/README.md">Access VBA Examples</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vba.access.examples.png" align="top" width="256px" title="Access VBA Examples" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in VBA, here are examples of reports and code for MS Access.</span>
+                <br>
+            </kbd>
+        </td>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://github.com/Visio-projects/Visio-Shape-Extract/blob/master/README.md">Visio Shape Export (VSTO)</a>
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vsto.visio.shape.extract2.png" align="top" width="256px" title="Visio Shape Export" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to export the shape attributes to a .csv file.</span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                Outlook Calendar Add-In (VSTO)
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vsto.outlook.ribbon.calendar.png" align="top" width="256px" title="Outlook Calendar Add-In" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Written in C#, VB.NET and VBA, it allows the user to import calendars.</span>
+                <br>
+            </kbd>
+        </td>
+    </tr>
+</table>
+
+<br>
+<br>
+<br>
+
+<a id="user-content-autocad" class="anchor" href="#autocad" aria-hidden="true"> </a>
+<table style="width:100%">
+    <caption>
+        <h2>
+            <img align="left" src="Images/ReadMe/app_autocad.png" width="32px">
+            AutoCAD
+        </h2>
+    </caption>
+    <tr valign="top">
+        <td width="33%">
+            <kbd>
+                Attribute Extract Tool
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/vbnet.wpf.autocad.batchutility.extract.gif" align="top" width="256px" title="AutoCAD Automation Extracting Tool" />
+                <br>
+                <br>
+                <span style="max-width:256px;">The AutoCAD Automation Extracting Tool allows the user to loop through each entity in a piping and instrumentation drawing to then extract entities and attribute values. Depending on the parameter options entities are extracted within clouding for new project work or no clouding as with as building at project completion. The application uses stored layer names to determine the cloud types. A standard list of entities and attributes are used to query the extracted data for reporting in SSRS. There is an option in the settings to use either a SQL Server localDB or a server database. SQL Server localDB is used for the portable version. The original project was migrated from VBA/dvb project file. This application is in Visual Studio 2015 in VB .NET/WPF using the AutoCAD 2016 object model. The procedures are multi-threaded using background workers. The application uses late binding for a current session of AutoCAD and early binding for a new session. ClickOnce deployment is used for the install. The API documentation is done with Microsoft Sandcastle. The application diagrams are done with Microsoft Visio. The “As Is” documentation is done in a markdown file in Azure DevOps Services.                     </span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                Batch Plotting Tool
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/csharpwpfautocadbatchutilityprocess.png" align="top" width="256px" title="AutoCAD Automation Plotting Tool" />
+                <br>
+                <br>
+                <span style="max-width:256px;">The AutoCAD Automation Plotting Tool allows the user to batch plot AutoCAD files with options to convert drawings to pdf files. Plot styles are applied to the drawings during the conversion. Logging is implemented with Log4Net to track errors during the conversion of 200,000 files. There was less than a 0.5% failure in the process. The processing time took 3 virtual machines 5 days to complete. The median processing time was 10 seconds per file. It can also send the files to a plotter with a selected page size in the active space either model or paper. There is also an option to add or remove a layered watermark using a .dwt file. It was written in VB.NET, Windows Presentation Foundation (WPF) in Visual Studio 2017. 
+                </span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                Title Block Tool
+                <br>
+                <br>
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/dvb.titleblock.tool2.png" align="top" width="256px" title="Title Block Tool" />
+                <br>
+                <br>
+                <span style="max-width:256px;">Title Block Tool extracts entity block attributes from multiple files by using standardized naming conventions for the title block names. The title block and attribute names are stored in a template table and referenced during the extraction process. A custom edit attributes form is used to select values from dropdown lists to improve data quality. The application also allows the users to bulk update the title blocks from the database back to the original files. The modules and classes are exported with a procedure for source control check-in. The install was done in Wise Installer. It was developed in a compiled VBA/dvb file with the database in Microsoft Access & Oracle. Microsoft Access is used for the portable version. The custom AutoCAD menu is in DIESEL.
+                </span>
                 <br>
             </kbd>
         </td>
