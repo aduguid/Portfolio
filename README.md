@@ -122,10 +122,10 @@
         </td>
         <td width="33%">
             <kbd>
-                <a href="https://sourcerer.io/aduguid">Sourcerer</a>
+                <a>Sourcerer</a>
                 <br>
                 <br>
-                <a href="https://sourcerer.io/aduguid"><img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/sourcerer.profile.png" align="top" width="256px" title="https://sourcerer.io" /></a>
+                <a><img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/sourcerer.profile.png" align="top" width="256px" title="https://sourcerer.io" /></a>
                 <br>
                 <br>
                 <span style="max-width:256px;">A visual profile for software engineers that helps to learn things about yourself, connect with others, and become a better engineer. View graphs and charts about my GitHub repositories.</span>
