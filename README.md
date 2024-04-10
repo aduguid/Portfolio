@@ -84,7 +84,7 @@
     <tr valign="top">
 	   <td width="33%">
             <kbd>
-                <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts">Stack Exchange</a>
+                <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts">Stack Exchange Profile</a>
                 <br>
                 <br>
                 <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts"><img src="https://stackexchange.com/users/flair/12441351.png#2" width="256px" alt="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" align="top" /></a><a href="https://social.msdn.microsoft.com/profile/aduguid/"></a>
@@ -92,18 +92,18 @@
                 <br>
                 <span style="max-width:256px;">A network of question-and-answer websites on topics in diverse fields, each site covering a specific topic, where questions, answers, and users are subject to a reputation award process. The reputation system allows the sites to be self-moderating. I contributing advice for developers with coding issues.
                     <br><br>
-                  * <a href="https://stackoverflow.com/users/9059424/aduguid" title="https://stackoverflow.com">STACK OVERFLOW</a>
+                  * <a href="https://stackoverflow.com/users/9059424/aduguid" title="https://stackoverflow.com">Stack Overflow Profile</a>
                     <br><br>
-                  * <a href="https://dba.stackexchange.com/users/142423/aduguid" title="https://dba.stackexchange.com">DATABASE ADMINISTRATORS</a>
+                  * <a href="https://dba.stackexchange.com/users/142423/aduguid" title="https://dba.stackexchange.com">Database Administrators Profile</a>
                     <br><br>
-                  * <a href="https://codereview.stackexchange.com/users/158032/aduguid" title="https://codereview.stackexchange.com">CODE REVIEW</a>
+                  * <a href="https://codereview.stackexchange.com/users/158032/aduguid" title="https://codereview.stackexchange.com">Code Review Profile</a>
                 </span>
                 <br>
             </kbd>
 	    </td>
         <td width="33%">
             <kbd>
-                <a href="https://social.msdn.microsoft.com/profile/aduguid/">Microsoft Developer Network</a>
+                <a href="https://social.msdn.microsoft.com/profile/aduguid/">Microsoft Learn Profile</a>
                 <br>
                 <br>
                <a href="https://social.msdn.microsoft.com/profile/aduguid/">
@@ -111,9 +111,7 @@
                 </a>
                 <br>
                 <br>
-                <span style="max-width:256px;">Microsoft Profile
-		<br><br>
-                  * <a href="https://learn.microsoft.com/en-au/users/anthonyduguid/achievements?tab=tab-other">Microsoft Learn</a>
+                <span style="max-width:256px;">An online platform provided by Microsoft that offers a wide range of courses, tutorials, and learning paths covering various Microsoft technologies, products, and services. It's designed to help developers, IT professionals, and learners of all skill levels to gain knowledge and expertise in areas such as Azure cloud computing, Microsoft 365, Dynamics 365, Power Platform, Windows development, and more.
                 </span>
                 <br>
             </kbd>
