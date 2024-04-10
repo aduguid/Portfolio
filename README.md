@@ -111,24 +111,10 @@
                 </a>
                 <br>
                 <br>
-                <span style="max-width:256px;">Sharing example projects and wiki articles in several programming languages.
-				    <br><br>
-                  * <a href="https://code.msdn.microsoft.com/site/search?f%5B0%5D.Type=User&f%5B0%5D.Value=aduguid" title="https://code.msdn.microsoft.com">MSDN Developer Code Samples</a>
-                    <br><br>
-                  * <a href="https://social.technet.microsoft.com/wiki/contents/articles/tags/aduguid/default.aspx" title="https://social.technet.microsoft.com">MSDN Wiki Articles</a>
+                <span style="max-width:256px;">Microsoft Profile
+		<br><br>
+                  * <a href="https://learn.microsoft.com/en-au/users/anthonyduguid/achievements?tab=tab-other">Microsoft Learn</a>
                 </span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a>Sourcerer</a>
-                <br>
-                <br>
-                <a><img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/sourcerer.profile.png" align="top" width="256px" title="https://sourcerer.io" /></a>
-                <br>
-                <br>
-                <span style="max-width:256px;">A visual profile for software engineers that helps to learn things about yourself, connect with others, and become a better engineer. View graphs and charts about my GitHub repositories.</span>
                 <br>
             </kbd>
         </td>
