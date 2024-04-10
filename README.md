@@ -343,44 +343,6 @@
             </kbd>
         </td>
     </tr>
-    <tr valign="top">
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ServerReports/Report%20Documentation.rdl">Report Documentation</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/ssrsreportdocumentation.png" align="top" width="256px" title="Report Documentation" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This report is used for querying the deployed report XML.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ServerReports/Data%20Sources.rdl">Report Data Sources</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/ssrsreportdatasources.png" align="top" width="256px" title="Report Data Sources" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This report is used for querying the deployed data sources.</span>
-                <br>
-            </kbd>
-        </td>
-        <td width="33%">
-            <kbd>
-                <a href="https://github.com/aduguid/SqlServerReportingServices/blob/master/ServerReports/Permissions.rdl">Report Server Folder Permissions</a>
-                <br>
-                <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/ssrsreportfolderpermissions.png?" align="top" width="256px" title="Report Server Folder Permissions" />
-                <br>
-                <br>
-                <span style="max-width:256px;">This report is used for querying the report server folder permissions.</span>
-                <br>
-            </kbd>
-        </td>
-    </tr>
 </table>
 
 <br>
