@@ -90,7 +90,7 @@
                 <a href="https://stackexchange.com/users/12441351/aduguid?tab=accounts"><img src="https://stackexchange.com/users/flair/12441351.png#2" width="256px" alt="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for aduguid on Stack Exchange, a network of free, community-driven Q&amp;A sites" align="top" /></a><a href="https://social.msdn.microsoft.com/profile/aduguid/"></a>
                 <br>
                 <br>
-                <span style="max-width:256px;">A network of question-and-answer websites on topics in diverse fields, each site covering a specific topic, where questions, answers, and users are subject to a reputation award process. The reputation system allows the sites to be self-moderating. I contributing advice for developers with coding issues.
+                <span style="max-width:256px;">Stack Exchange is a network of community-driven Q&A websites where people can ask and answer questions on a wide range of topics, from programming and mathematics to cooking and photography. Each site in the network focuses on a specific subject area, with communities of experts and enthusiasts providing accurate, peer-reviewed answers. The platform emphasizes high-quality, reliable information, with a voting system that allows the best answers to rise to the top. Stack Exchange fosters a collaborative environment where users can learn, share knowledge, and connect with others who have similar interests or expertise.
                     <br><br>
                   * <a href="https://stackoverflow.com/users/9059424/aduguid" title="https://stackoverflow.com">Stack Overflow Profile</a>
                     <br><br>
@@ -111,7 +111,22 @@
                 </a>
                 <br>
                 <br>
-                <span style="max-width:256px;">An online platform provided by Microsoft that offers a wide range of courses, tutorials, and learning paths covering various Microsoft technologies, products, and services. It's designed to help developers, IT professionals, and learners of all skill levels to gain knowledge and expertise in areas such as Azure cloud computing, Microsoft 365, Dynamics 365, Power Platform, Windows development, and more.
+                <span style="max-width:256px;">Microsoft Learn is an online learning platform that offers a wide range of courses, tutorials, and certifications to help individuals develop technical skills and expertise across Microsoft technologies. It provides interactive, self-paced learning experiences for beginners to advanced users, covering topics like Azure, Microsoft 365, Power BI, Dynamics 365, and more. With hands-on labs, step-by-step guides, and assessments, Microsoft Learn helps users gain practical knowledge, earn badges and certifications, and advance their careers by mastering the latest tools and technologies in the Microsoft ecosystem.
+                </span>
+                <br>
+            </kbd>
+        </td>
+        <td width="33%">
+            <kbd>
+                <a href="https://community.fabric.microsoft.com/t5/user/v2/viewprofilepage/user-id/81736">Microsoft Fabric Community</a>
+                <br>
+                <br>
+               <a href="https://community.fabric.microsoft.com/t5/user/v2/viewprofilepage/user-id/81736">
+    <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/fabric_profile.png" width="256px" align="top" alt="Microsoft Fabric Community Profile" title="https://social.msdn.microsoft.com">
+                </a>
+                <br>
+                <br>
+                <span style="max-width:256px;">The Microsoft Fabric Community is a collaborative platform designed for data professionals, developers, and enthusiasts to engage, learn, and share knowledge about Microsoft Fabric, an integrated data and analytics platform. It provides a space for users to discuss best practices, exchange ideas, seek guidance, and stay updated on the latest features and advancements. Members can participate in forums, attend webinars, access learning resources, and contribute to discussions to enhance their understanding of data integration, transformation, analytics, and governance within the Microsoft ecosystem.
                 </span>
                 <br>
             </kbd>
