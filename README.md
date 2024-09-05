@@ -18,7 +18,7 @@
             <a href="#profiles">Profiles</a>
         </td>
         <td align="left" valign="middle">
-            Coding website profiles</a>
+            Coding website profiles showcase a developer's skills, experience, and contributions through interactive portfolios, projects, and community engagement</a>
         </td>
     </tr>
     <tr valign="top">
@@ -27,7 +27,7 @@
             <a href="#powerbi">Power BI</a>
         </td>
         <td align="left" valign="middle">
-            Microsoft Power BI projects</a>
+	   Microsoft Power BI projects include dynamic dashboards, performance reports and analytics to identify trends and drive business strategy.</a>
         </td>
     </tr>
     <tr valign="top">
@@ -36,7 +36,7 @@
             <a href="#ssrs-reports">Report Server</a>
         </td>
         <td align="left" valign="middle">
-            Microsoft Report Server projects</a>
+            Microsoft SQL Server Reporting Services (SSRS) projects include graphical and paginated reports.</a>
         </td>
     </tr>
     <tr valign="top">
@@ -379,7 +379,7 @@
                 <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/azure_devops.services.png" align="top" width="256px" title="Azure DevOps Services" />
                 <br>
                 <br>
-                <span style="max-width:256px;">I've setup Azure DevOps Services to manage software development lifecycle efficiently. With dedicated repositories for Power BI, reports, integrations, and database schemas, alongside a hierarchical permissions structure, the organization ensures secure collaboration and version control.</span>
+                <span style="max-width:256px;">I've set up Azure DevOps Services to efficiently manage the entire software development lifecycle, providing a centralized platform for version control, collaboration, and continuous integration and delivery. By creating dedicated repositories for Power BI assets, reports, integrations, and database schemas, the organization maintains a structured approach to managing various development components. A hierarchical permissions structure is in place to ensure secure access and control, enabling team members to collaborate effectively while safeguarding sensitive data. This setup streamlines development workflows, enhances code quality, and fosters a culture of agile development within the organization.</span>
                 <br>
             </kbd>
         </td>
@@ -417,7 +417,7 @@
                 <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/csharpwinformactivediretorysearch2.png" align="top" width="256px" title="Active Directory Search" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in C#/VB.NET, Windows Forms, it allows the user to search Active Directory and save the results to a .csv file</span>
+                <span style="max-width:256px;">The application, developed in C# using Windows Forms, enables users to search and query Active Directory for specific information such as user accounts, groups, and organizational units. With an intuitive and easy-to-use interface, the application allows users to specify search criteria, filter results, and view detailed information about Active Directory objects. Once the desired data is retrieved, users can effortlessly save the search results to a .csv file for further analysis, reporting, or archival purposes. This tool simplifies Active Directory searches and enhances administrative efficiency by providing a straightforward way to access and export directory information.</span>
                 <br>
             </kbd>
         </td>
@@ -429,7 +429,7 @@
                 <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/csharpwpfdocumentumscriptadministrator.png" align="top" width="256px" title="Documentum Script Administrator" />
                 <br>
                 <br>
-                <span style="max-width:256px;">Written in C#/VB.NET, Windows Presentation Foundation (WPF), it allows the user to run a file as one command against the idql32/64.</span>
+                <span style="max-width:256px;">The application, written in C# using Windows Presentation Foundation (WPF), provides a user-friendly interface for executing .dql files as single commands against the idql32 or idql64 utilities for EMC Documentum docbases. It streamlines the process of running Documentum Query Language (DQL) scripts, allowing users to easily select and execute their .dql files without needing to interact with the command line directly. The application supports both 32-bit and 64-bit versions of the idql utility, ensuring compatibility with various system configurations and enhancing productivity by simplifying and automating query execution for Documentum environments.</span>
                 <br>
             </kbd>
         </td>
