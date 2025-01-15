@@ -220,7 +220,7 @@
                 Service Ticket Dashboard
                 <br>
                 <br>
-                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.servicenow2.png" align="top" width="256px" title="Service Ticket Dashboard" />
+                <img src="https://raw.githubusercontent.com/aduguid/Portfolio/master/Images/ReadMe/powerbi.servicenow1.png" align="top" width="256px" title="Service Ticket Dashboard" />
                 <br>
                 <br>
                 <span style="max-width:256px;">The ServiceNow Ticket Analytics Dashboard is a comprehensive visualization tool designed to provide deep insights into the performance, trends, and key metrics related to tickets generated within the ServiceNow platform. Leveraging the power of Power BI, this dashboard offers a user-friendly interface that allows stakeholders, IT managers, and support teams to monitor, analyze, and optimize ticket management processes effectively.</span>
